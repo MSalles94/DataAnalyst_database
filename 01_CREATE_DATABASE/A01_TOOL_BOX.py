@@ -7,5 +7,9 @@ class tool_box():
         import pandas
         self.pandas=pandas
     def import_data(self):
-        self.data=self.pandas.read_csv('/ORIGINAL_DATASET/Sales_April_2019.csv',sep=';')
-        print(self.data)
+        #import original data
+        self.data=self.pandas.read_csv(filepath_or_buffer='ORIGINAL_DATASET/Sales_April_2019.csv')
+        #clean data
+        self.data=self.data[self.data['Product'].isna()==False]
+        self.data=self.data[self.data['Product']!='Product']
+        self.data.reset_index(inplace=True,drop=True)
