@@ -7,6 +7,5 @@ class tool_box():
         import pandas
         self.pandas=pandas
     def import_data(self):
-        
         self.data=self.pandas.read_csv('/ORIGINAL_DATASET/Sales_April_2019.csv',sep=';')
         print(self.data)
