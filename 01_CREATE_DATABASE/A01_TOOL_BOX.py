@@ -6,6 +6,10 @@ class tool_box():
     def import_tool(self):
         import pandas
         self.pandas=pandas
+        import random
+        self.random=random
+        import datetime
+        self.datetime=datetime
     def import_data(self):
         #import original data
         self.data=self.pandas.read_csv(filepath_or_buffer='ORIGINAL_DATASET/Sales_April_2019.csv')
