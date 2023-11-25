@@ -1,4 +1,0 @@
-Organize the work flow 
-
-#01_CREATE_DATABASE
-Create tables in csv format to fill the database
