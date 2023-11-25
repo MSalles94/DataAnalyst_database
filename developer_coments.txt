@@ -1,1 +1,2 @@
-developer_coments.txt
+01_CREATE_DATABASE
+    Create tables 
