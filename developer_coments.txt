@@ -1,2 +1,8 @@
-01_CREATE_DATABASE
+01_CREATE_DATA
     Create tables 
+
+02_CREATE_DATABASE
+    Create a SQLite file with the Data
+    Show some reports using SQL
+
+03_REPORTS
