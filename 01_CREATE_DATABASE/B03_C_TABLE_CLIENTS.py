@@ -101,7 +101,7 @@ class table_clients():
     def print_to_csv(self):
         #organize columns
         columns=['ID_client','name','cluster','ID_sector','phone',
-                 'email','register_date','zipcode','state','city','No','street']
+                 'email','register_date','zipcode','state','city','No','street','visit_day']
         self.clients=self.clients[columns]   
 
         self.clients.to_csv('NEW_DATASET/A03_TAB_CLIENTS.csv',decimal=',',sep=';',index=False)  

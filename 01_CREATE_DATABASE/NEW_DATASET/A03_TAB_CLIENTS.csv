@@ -1,624 +1,671 @@
-ID_client;name;cluster;ID_sector;phone;email;register_date;zipcode;state;city;No;street
-10001-001;Computer Corporation 045;C;201;+001 100 810-6239;Computer_Corporation_045@outlook.com;2004-03-31;10001;NY; New York City;142;Wilson St
-10001-002;Digital Company 036;D;201;+001 100 337-1903;Digital_Company_036@gmail.com.br;2013-08-09;10001;NY; New York City;151;Center St
-10001-003;Computer Solutions 025;D;201;+001 100 759-2030;Computer_Solutions_025@outlook.com;2020-05-01;10001;NY; New York City;152;8th St
-10001-004;Computer S.A 062;D;201;+001 100 941-7780;Computer_S.A_062@outlook.com;2015-01-04;10001;NY; New York City;157;Cedar St
-10001-005;Technologic Electronics 051;D;201;+001 100 250-5554;Technologic_Electronics_051@outlook.com;2020-12-03;10001;NY; New York City;177;Cherry St
-10001-006;Genius Solutions 050;D;201;+001 100 464-3947;Genius_Solutions_050@outlook.com;2003-05-12;10001;NY; New York City;18;Dogwood St
-10001-007;Computer Tech 010;B;201;+001 100 229-7256;Computer_Tech_010@outlook.com;2015-04-11;10001;NY; New York City;256;Cedar St
-10001-008;Father And Sons Electronics 028;C;201;+001 100 297-9244;Father_And_Sons_Electronics_028@outlook.com;2012-11-15;10001;NY; New York City;260;7th St
-10001-009;Genius Store 057;D;201;+001 100 715-1308;Genius_Store_057@outlook.com;2012-05-16;10001;NY; New York City;281;Center St
-10001-010;High Tech World 050;D;201;+001 100 560-5087;High_Tech_World_050@outlook.com;2013-01-29;10001;NY; New York City;281;South St
-10001-011;Computer Techno 038;C;201;+001 100 226-8073;Computer_Techno_038@outlook.com;2013-01-18;10001;NY; New York City;283;Center St
-10001-012;Essential World 054;C;201;+001 100 125-3405;Essential_World_054@outlook.com;2005-11-26;10001;NY; New York City;31;Chestnut St
-10001-013;Technologic Tech 084;D;201;+001 100 570-9378;Technologic_Tech_084@outlook.com;2011-11-12;10001;NY; New York City;329;Main St
-10001-014;Beta S.A 041;C;201;+001 100 180-6811;Beta_S.A_041@outlook.com;2009-01-08;10001;NY; New York City;342;Cedar St
-10001-015;Essential S.A 023;D;201;+001 100 935-5747;Essential_S.A_023@outlook.com;2006-12-20;10001;NY; New York City;343;Johnson St
-10001-016;Beta World 020;C;201;+001 100 266-5426;Beta_World_020@gmail.com.br;2016-12-13;10001;NY; New York City;344;Dogwood St
-10001-017;Digital World 036;B;201;+001 100 719-4402;Digital_World_036@outlook.com;2007-09-18;10001;NY; New York City;345;7th St
-10001-018;High Tech Corporation 090;D;201;+001 100 285-1780;High_Tech_Corporation_090@gmail.com.br;2001-01-29;10001;NY; New York City;347;Adams St
-10001-019;Essential World 003;D;201;+001 100 556-8919;Essential_World_003@gmail.com.br;2005-12-02;10001;NY; New York City;35;12th St
-10001-020;Technologic Inc. 036;C;201;+001 100 403-5656;Technologic_Inc._036@outlook.com;2019-02-01;10001;NY; New York City;353;Maple St
-10001-021;Genius Tech 034;D;201;+001 100 101-8254;Genius_Tech_034@outlook.com;2007-02-01;10001;NY; New York City;36;Walnut St
-10001-022;Father And Sons Techno 100;D;201;+001 100 693-4885;Father_And_Sons_Techno_100@outlook.com;2016-03-20;10001;NY; New York City;385;Ridge St
-10001-023;Beta Electronics 038;C;201;+001 100 334-5526;Beta_Electronics_038@outlook.com;2010-09-14;10001;NY; New York City;397;Lakeview St
-10001-024;Alpha Electronics 012;D;201;+001 100 304-5314;Alpha_Electronics_012@gmail.com.br;2015-11-05;10001;NY; New York City;415;Elm St
-10001-025;Computer Solutions 092;D;201;+001 100 399-4915;Computer_Solutions_092@outlook.com;2001-01-29;10001;NY; New York City;43;Madison St
-10001-026;Genius S.A 067;C;201;+001 100 144-4458;Genius_S.A_067@outlook.com;2007-12-12;10001;NY; New York City;443;Willow St
-10001-027;Alpha Tech 095;C;201;+001 100 286-5125;Alpha_Tech_095@outlook.com;2001-11-11;10001;NY; New York City;449;Wilson St
-10001-028;Genius World 041;D;201;+001 100 715-5665;Genius_World_041@outlook.com;2012-02-10;10001;NY; New York City;469;Johnson St
-10001-029;Technologic Solutions 098;D;201;+001 100 857-2022;Technologic_Solutions_098@outlook.com;2000-03-05;10001;NY; New York City;481;Johnson St
-10001-030;Technologic World 024;D;201;+001 100 199-5471;Technologic_World_024@outlook.com;2015-10-04;10001;NY; New York City;508;River St
-10001-031;Digital Corporation 092;A;201;+001 100 444-3420;Digital_Corporation_092@gmail.com.br;2015-10-19;10001;NY; New York City;514;Adams St
-10001-032;Technologic Inc. 050;D;201;+001 100 947-1370;Technologic_Inc._050@outlook.com;2006-07-31;10001;NY; New York City;552;Dogwood St
-10001-033;High Tech Solutions 023;C;201;+001 100 904-1830;High_Tech_Solutions_023@gmail.com.br;2001-05-30;10001;NY; New York City;557;Lakeview St
-10001-034;Beta Inc. 015;D;201;+001 100 386-1116;Beta_Inc._015@outlook.com;2011-08-09;10001;NY; New York City;571;11th St
-10001-035;Essential Techno 016;C;201;+001 100 997-8871;Essential_Techno_016@gmail.com.br;2017-04-30;10001;NY; New York City;579;Lakeview St
-10001-036;Digital Corporation 019;D;201;+001 100 396-3376;Digital_Corporation_019@outlook.com;2014-03-19;10001;NY; New York City;591;Adams St
-10001-037;Digital Tech 035;A;201;+001 100 529-9302;Digital_Tech_035@outlook.com;2008-12-28;10001;NY; New York City;6;Johnson St
-10001-038;Digital Company 066;B;201;+001 100 737-6949;Digital_Company_066@outlook.com;2000-06-14;10001;NY; New York City;602;Willow St
-10001-039;Alpha Inc. 015;D;201;+001 100 430-2411;Alpha_Inc._015@gmail.com.br;2006-03-23;10001;NY; New York City;628;Church St
-10001-040;Technologic Solutions 078;D;201;+001 100 815-6867;Technologic_Solutions_078@outlook.com;2009-04-13;10001;NY; New York City;661;Dogwood St
-10001-041;Father And Sons Corporation 037;D;201;+001 100 312-8535;Father_And_Sons_Corporation_037@outlook.com;2010-01-26;10001;NY; New York City;682;12th St
-10001-042;Beta Inc. 047;D;201;+001 100 138-1190;Beta_Inc._047@gmail.com.br;2008-09-18;10001;NY; New York City;683;Jefferson St
-10001-043;Alpha World 076;A;201;+001 100 634-8935;Alpha_World_076@outlook.com;2017-05-12;10001;NY; New York City;71;Elm St
-10001-044;Father And Sons Store 030;B;201;+001 100 809-5813;Father_And_Sons_Store_030@outlook.com;2007-12-16;10001;NY; New York City;731;11th St
-10001-045;Alpha Techno 079;C;201;+001 100 546-9461;Alpha_Techno_079@outlook.com;2020-08-19;10001;NY; New York City;738;Willow St
-10001-046;Computer Electronics 024;D;201;+001 100 192-4533;Computer_Electronics_024@outlook.com;2020-05-26;10001;NY; New York City;758;Lake St
-10001-047;Essential Tech 098;D;201;+001 100 328-9200;Essential_Tech_098@outlook.com;2009-10-01;10001;NY; New York City;776;Elm St
-10001-048;Beta Inc. 049;D;201;+001 100 335-1166;Beta_Inc._049@outlook.com;2013-06-21;10001;NY; New York City;78;Park St
-10001-049;Genius World 037;D;201;+001 100 782-4879;Genius_World_037@outlook.com;2004-06-23;10001;NY; New York City;780;Hickory St
-10001-050;Technologic World 030;B;201;+001 100 252-6622;Technologic_World_030@outlook.com;2013-10-25;10001;NY; New York City;785;Cedar St
-10001-051;Computer Corporation 049;D;201;+001 100 359-8941;Computer_Corporation_049@outlook.com;2012-02-26;10001;NY; New York City;803;Center St
-10001-052;Alpha World 070;B;201;+001 100 384-1530;Alpha_World_070@outlook.com;2019-11-14;10001;NY; New York City;838;Lake St
-10001-053;Digital Inc. 049;B;201;+001 100 599-2958;Digital_Inc._049@gmail.com.br;2015-05-09;10001;NY; New York City;846;4th St
-10001-054;Essential Tech 053;D;201;+001 100 359-2298;Essential_Tech_053@outlook.com;2008-07-29;10001;NY; New York City;866;Chestnut St
-10001-055;Father And Sons Corporation 099;D;201;+001 100 226-2227;Father_And_Sons_Corporation_099@outlook.com;2015-04-18;10001;NY; New York City;882;Spruce St
-10001-056;Alpha Store 017;A;201;+001 100 898-6552;Alpha_Store_017@gmail.com.br;2020-02-15;10001;NY; New York City;883;Maple St
-10001-057;Technologic Tech 005;B;201;+001 100 890-5915;Technologic_Tech_005@outlook.com;2009-02-23;10001;NY; New York City;89;Hickory St
-10001-058;Technologic Solutions 088;D;201;+001 100 824-5776;Technologic_Solutions_088@outlook.com;2015-11-24;10001;NY; New York City;906;Lincoln St
-10001-059;Beta Store 005;D;201;+001 100 959-9122;Beta_Store_005@outlook.com;2019-11-20;10001;NY; New York City;919;Jackson St
-10001-060;High Tech Electronics 014;C;201;+001 100 239-9407;High_Tech_Electronics_014@outlook.com;2015-09-01;10001;NY; New York City;965;8th St
-10001-061;Beta Electronics 014;C;201;+001 100 104-8162;Beta_Electronics_014@outlook.com;2011-07-11;10001;NY; New York City;979;13th St
-10001-062;Alpha World 055;A;201;+001 100 871-5000;Alpha_World_055@gmail.com.br;2019-07-17;10001;NY; New York City;994;14th St
-10001-063;Father And Sons Inc. 049;D;201;+001 100 498-1332;Father_And_Sons_Inc._049@gmail.com.br;2001-06-13;10001;NY; New York City;994;North St
-73301-001;Father And Sons Electronics 069;D;202;+001 733 317-2626;Father_And_Sons_Electronics_069@gmail.com.br;2013-07-20;73301;TX; Austin;119;Elm St
-73301-002;Digital Company 069;D;202;+001 733 942-7700;Digital_Company_069@gmail.com.br;2019-11-04;73301;TX; Austin;129;7th St
-73301-003;Essential Store 004;D;202;+001 733 654-4138;Essential_Store_004@outlook.com;2010-08-06;73301;TX; Austin;134;Sunset St
-73301-004;Father And Sons Company 058;B;202;+001 733 116-7871;Father_And_Sons_Company_058@outlook.com;2001-04-04;73301;TX; Austin;137;Main St
-73301-005;Alpha Corporation 044;D;202;+001 733 520-1905;Alpha_Corporation_044@gmail.com.br;2020-07-23;73301;TX; Austin;140;9th St
-73301-006;Technologic Store 023;C;202;+001 733 650-1174;Technologic_Store_023@outlook.com;2003-01-11;73301;TX; Austin;143;8th St
-73301-007;Genius Inc. 074;C;202;+001 733 352-4857;Genius_Inc._074@gmail.com.br;2010-05-22;73301;TX; Austin;153;Washington St
-73301-008;Technologic Electronics 092;C;202;+001 733 489-4828;Technologic_Electronics_092@outlook.com;2001-04-17;73301;TX; Austin;16;4th St
-73301-009;Computer World 069;B;202;+001 733 526-3527;Computer_World_069@gmail.com.br;2007-03-22;73301;TX; Austin;173;Pine St
-73301-010;Computer Corporation 088;D;202;+001 733 164-5412;Computer_Corporation_088@outlook.com;2017-12-21;73301;TX; Austin;199;11th St
-73301-011;Digital Electronics 056;C;202;+001 733 691-2964;Digital_Electronics_056@outlook.com;2005-07-15;73301;TX; Austin;200;4th St
-73301-012;Essential Inc. 057;B;202;+001 733 985-6572;Essential_Inc._057@outlook.com;2007-06-02;73301;TX; Austin;202;5th St
-73301-013;Alpha Store 045;D;202;+001 733 688-1696;Alpha_Store_045@outlook.com;2014-02-15;73301;TX; Austin;203;12th St
-73301-014;Computer World 007;D;202;+001 733 176-7251;Computer_World_007@outlook.com;2010-02-26;73301;TX; Austin;203;Dogwood St
-73301-015;Genius Electronics 060;D;202;+001 733 927-6432;Genius_Electronics_060@gmail.com.br;2016-08-17;73301;TX; Austin;206;Sunset St
-73301-016;Alpha Techno 058;D;202;+001 733 778-7630;Alpha_Techno_058@outlook.com;2005-07-10;73301;TX; Austin;214;Center St
-73301-017;Technologic Electronics 061;C;202;+001 733 487-3033;Technologic_Electronics_061@gmail.com.br;2017-04-25;73301;TX; Austin;216;14th St
-73301-018;Digital World 004;B;202;+001 733 117-4045;Digital_World_004@outlook.com;2007-09-05;73301;TX; Austin;217;Pine St
-73301-019;Beta Techno 063;D;202;+001 733 702-7492;Beta_Techno_063@outlook.com;2015-05-19;73301;TX; Austin;230;Lincoln St
-73301-020;Beta Inc. 088;D;202;+001 733 906-5947;Beta_Inc._088@outlook.com;2018-07-02;73301;TX; Austin;257;13th St
-73301-021;Digital Techno 068;C;202;+001 733 245-3740;Digital_Techno_068@outlook.com;2015-01-02;73301;TX; Austin;259;Church St
-73301-022;High Tech S.A 073;D;202;+001 733 493-1614;High_Tech_S.A_073@outlook.com;2002-12-15;73301;TX; Austin;263;Madison St
-73301-023;Beta Techno 089;D;202;+001 733 214-2617;Beta_Techno_089@outlook.com;2019-10-10;73301;TX; Austin;263;South St
-73301-024;Beta Inc. 081;C;202;+001 733 317-7373;Beta_Inc._081@gmail.com.br;2015-02-27;73301;TX; Austin;267;Chestnut St
-73301-025;Father And Sons Store 075;D;202;+001 733 842-5761;Father_And_Sons_Store_075@outlook.com;2009-05-09;73301;TX; Austin;268;Lake St
-73301-026;Genius Solutions 000;C;202;+001 733 232-4799;Genius_Solutions_000@outlook.com;2017-07-09;73301;TX; Austin;271;Forest St
-73301-027;Digital Corporation 020;D;202;+001 733 766-5245;Digital_Corporation_020@outlook.com;2019-12-23;73301;TX; Austin;280;Forest St
-73301-028;Computer Tech 091;D;202;+001 733 457-4035;Computer_Tech_091@outlook.com;2009-11-06;73301;TX; Austin;280;River St
-73301-029;Digital Inc. 031;D;202;+001 733 618-4488;Digital_Inc._031@outlook.com;2003-07-03;73301;TX; Austin;281;Maple St
-73301-030;Technologic World 028;C;202;+001 733 748-8626;Technologic_World_028@outlook.com;2012-06-16;73301;TX; Austin;304;Cedar St
-73301-031;Digital Company 082;D;202;+001 733 937-6174;Digital_Company_082@outlook.com;2020-06-26;73301;TX; Austin;304;Ridge St
-73301-032;Alpha World 077;A;202;+001 733 818-4659;Alpha_World_077@gmail.com.br;2016-12-22;73301;TX; Austin;359;Washington St
-73301-033;Technologic Techno 066;A;202;+001 733 602-4454;Technologic_Techno_066@gmail.com.br;2008-05-26;73301;TX; Austin;36;Cedar St
-73301-034;High Tech Company 011;D;202;+001 733 852-2028;High_Tech_Company_011@outlook.com;2011-03-07;73301;TX; Austin;389;2nd St
-73301-035;Alpha Store 068;D;202;+001 733 433-6112;Alpha_Store_068@gmail.com.br;2011-01-20;73301;TX; Austin;406;Hickory St
-73301-036;Father And Sons S.A 079;B;202;+001 733 114-9094;Father_And_Sons_S.A_079@outlook.com;2000-08-14;73301;TX; Austin;414;Hill St
-73301-037;Beta Tech 026;B;202;+001 733 517-3454;Beta_Tech_026@outlook.com;2018-02-16;73301;TX; Austin;421;Center St
-73301-038;Technologic World 020;C;202;+001 733 114-2045;Technologic_World_020@outlook.com;2018-09-27;73301;TX; Austin;424;12th St
-73301-039;Essential Company 064;C;202;+001 733 579-1868;Essential_Company_064@gmail.com.br;2007-09-16;73301;TX; Austin;461;13th St
-73301-040;Digital Company 044;C;202;+001 733 976-4931;Digital_Company_044@gmail.com.br;2017-11-10;73301;TX; Austin;462;14th St
-73301-041;Technologic Inc. 003;C;202;+001 733 497-2082;Technologic_Inc._003@outlook.com;2016-01-15;73301;TX; Austin;465;1st St
-73301-042;Digital Inc. 038;D;202;+001 733 838-4844;Digital_Inc._038@gmail.com.br;2002-10-20;73301;TX; Austin;477;Walnut St
-73301-043;Father And Sons S.A 094;A;202;+001 733 445-5745;Father_And_Sons_S.A_094@outlook.com;2014-08-15;73301;TX; Austin;493;West St
-73301-044;Computer Inc. 046;A;202;+001 733 567-6005;Computer_Inc._046@outlook.com;2001-04-13;73301;TX; Austin;503;Wilson St
-73301-045;Essential World 012;D;202;+001 733 226-5367;Essential_World_012@outlook.com;2007-02-09;73301;TX; Austin;511;Maple St
-73301-046;Genius Tech 023;D;202;+001 733 181-6877;Genius_Tech_023@gmail.com.br;2012-02-15;73301;TX; Austin;529;9th St
-73301-047;Alpha Inc. 008;B;202;+001 733 687-9660;Alpha_Inc._008@outlook.com;2003-02-23;73301;TX; Austin;549;Maple St
-73301-048;Essential Store 047;C;202;+001 733 756-1321;Essential_Store_047@outlook.com;2011-09-15;73301;TX; Austin;558;12th St
-73301-049;Father And Sons Solutions 059;D;202;+001 733 471-4857;Father_And_Sons_Solutions_059@outlook.com;2005-06-05;73301;TX; Austin;560;10th St
-73301-050;Father And Sons Techno 066;C;202;+001 733 872-6108;Father_And_Sons_Techno_066@outlook.com;2011-10-02;73301;TX; Austin;561;Walnut St
-73301-051;Technologic Corporation 027;B;202;+001 733 963-1132;Technologic_Corporation_027@outlook.com;2010-04-19;73301;TX; Austin;565;Main St
-73301-052;Genius Solutions 095;D;202;+001 733 475-7930;Genius_Solutions_095@outlook.com;2004-04-14;73301;TX; Austin;573;Chestnut St
-73301-053;Digital Techno 089;B;202;+001 733 404-1402;Digital_Techno_089@outlook.com;2020-01-23;73301;TX; Austin;578;6th St
-73301-054;Digital Inc. 071;C;202;+001 733 912-8124;Digital_Inc._071@gmail.com.br;2020-10-27;73301;TX; Austin;580;Lincoln St
-73301-055;Essential Store 020;C;202;+001 733 502-2688;Essential_Store_020@gmail.com.br;2000-06-30;73301;TX; Austin;585;2nd St
-73301-056;Alpha Electronics 080;B;202;+001 733 412-6336;Alpha_Electronics_080@gmail.com.br;2018-07-30;73301;TX; Austin;585;Willow St
-73301-057;Essential Electronics 094;D;202;+001 733 387-5007;Essential_Electronics_094@gmail.com.br;2019-02-13;73301;TX; Austin;592;5th St
-73301-058;Father And Sons S.A 042;B;202;+001 733 723-9921;Father_And_Sons_S.A_042@gmail.com.br;2002-03-26;73301;TX; Austin;6;West St
-73301-059;Technologic World 075;D;202;+001 733 808-7032;Technologic_World_075@outlook.com;2018-05-01;73301;TX; Austin;600;Madison St
-73301-060;Technologic Store 072;C;202;+001 733 123-8681;Technologic_Store_072@outlook.com;2019-04-19;73301;TX; Austin;602;River St
-73301-061;Beta Techno 065;A;202;+001 733 833-1910;Beta_Techno_065@gmail.com.br;2020-05-22;73301;TX; Austin;603;Washington St
-73301-062;Genius World 017;C;202;+001 733 409-5966;Genius_World_017@gmail.com.br;2012-01-19;73301;TX; Austin;609;Highland St
-73301-063;Genius S.A 083;C;202;+001 733 889-1270;Genius_S.A_083@gmail.com.br;2006-08-19;73301;TX; Austin;635;Jefferson St
-73301-064;Computer World 074;B;202;+001 733 718-7807;Computer_World_074@outlook.com;2015-01-04;73301;TX; Austin;636;14th St
-73301-065;Alpha Solutions 007;D;202;+001 733 115-3268;Alpha_Solutions_007@outlook.com;2015-10-29;73301;TX; Austin;640;11th St
-73301-066;Beta Electronics 066;D;202;+001 733 368-1309;Beta_Electronics_066@outlook.com;2003-08-08;73301;TX; Austin;644;Chestnut St
-73301-067;Father And Sons Store 058;D;202;+001 733 450-2234;Father_And_Sons_Store_058@outlook.com;2018-06-04;73301;TX; Austin;65;Park St
-73301-068;High Tech Solutions 078;D;202;+001 733 834-5714;High_Tech_Solutions_078@outlook.com;2005-05-26;73301;TX; Austin;656;Washington St
-73301-069;Technologic World 012;B;202;+001 733 283-1317;Technologic_World_012@outlook.com;2002-09-22;73301;TX; Austin;659;6th St
-73301-070;Essential S.A 043;D;202;+001 733 316-5910;Essential_S.A_043@outlook.com;2000-01-10;73301;TX; Austin;66;2nd St
-73301-071;High Tech Store 100;D;202;+001 733 584-9434;High_Tech_Store_100@outlook.com;2011-12-27;73301;TX; Austin;665;Willow St
-73301-072;High Tech World 052;D;202;+001 733 386-6317;High_Tech_World_052@outlook.com;2017-02-26;73301;TX; Austin;725;Forest St
-73301-073;Digital Store 093;C;202;+001 733 157-6669;Digital_Store_093@outlook.com;2011-05-07;73301;TX; Austin;730;6th St
-73301-074;Genius Corporation 080;C;202;+001 733 606-9786;Genius_Corporation_080@outlook.com;2011-10-22;73301;TX; Austin;730;Spruce St
-73301-075;Beta Corporation 092;D;202;+001 733 438-5826;Beta_Corporation_092@outlook.com;2004-07-08;73301;TX; Austin;733;Main St
-73301-076;Father And Sons World 015;D;202;+001 733 154-8621;Father_And_Sons_World_015@outlook.com;2010-04-01;73301;TX; Austin;74;Pine St
-73301-077;Computer S.A 030;D;202;+001 733 303-3281;Computer_S.A_030@outlook.com;2009-07-19;73301;TX; Austin;743;4th St
-73301-078;Father And Sons S.A 069;D;202;+001 733 559-8546;Father_And_Sons_S.A_069@outlook.com;2013-12-08;73301;TX; Austin;747;Hickory St
-73301-079;Computer Store 038;C;202;+001 733 950-2214;Computer_Store_038@gmail.com.br;2015-05-15;73301;TX; Austin;766;10th St
-73301-080;Technologic World 026;D;202;+001 733 820-8840;Technologic_World_026@outlook.com;2017-11-22;73301;TX; Austin;775;West St
-73301-081;Computer S.A 071;D;202;+001 733 459-8445;Computer_S.A_071@outlook.com;2019-03-25;73301;TX; Austin;814;Center St
-73301-082;Alpha S.A 014;D;202;+001 733 108-1587;Alpha_S.A_014@outlook.com;2000-04-19;73301;TX; Austin;819;9th St
-73301-083;High Tech Techno 049;D;202;+001 733 814-9292;High_Tech_Techno_049@outlook.com;2016-12-27;73301;TX; Austin;821;14th St
-73301-084;Father And Sons Store 069;B;202;+001 733 443-3615;Father_And_Sons_Store_069@outlook.com;2005-12-04;73301;TX; Austin;836;Pine St
-73301-085;Essential Corporation 053;A;202;+001 733 928-1241;Essential_Corporation_053@outlook.com;2011-11-04;73301;TX; Austin;88;Main St
-73301-086;Father And Sons Tech 087;D;202;+001 733 555-5761;Father_And_Sons_Tech_087@gmail.com.br;2016-10-02;73301;TX; Austin;881;Elm St
-73301-087;Genius Corporation 050;D;202;+001 733 254-3149;Genius_Corporation_050@outlook.com;2017-11-07;73301;TX; Austin;881;Lakeview St
-73301-088;Beta Store 026;C;202;+001 733 616-4717;Beta_Store_026@outlook.com;2001-10-19;73301;TX; Austin;892;10th St
-73301-089;Father And Sons Store 038;C;202;+001 733 329-8045;Father_And_Sons_Store_038@outlook.com;2003-09-21;73301;TX; Austin;9;Johnson St
-73301-090;Technologic Solutions 058;D;202;+001 733 417-3764;Technologic_Solutions_058@outlook.com;2011-10-10;73301;TX; Austin;917;5th St
-73301-091;Digital Solutions 085;D;202;+001 733 795-6670;Digital_Solutions_085@outlook.com;2017-01-07;73301;TX; Austin;923;River St
-73301-092;Essential Tech 083;D;202;+001 733 375-5644;Essential_Tech_083@gmail.com.br;2020-05-20;73301;TX; Austin;93;Church St
-73301-093;Essential World 061;A;202;+001 733 406-4131;Essential_World_061@outlook.com;2014-04-16;73301;TX; Austin;937;Pine St
-73301-094;Genius World 082;D;202;+001 733 950-2609;Genius_World_082@outlook.com;2010-12-20;73301;TX; Austin;967;North St
-73301-095;Alpha Tech 002;C;202;+001 733 700-4690;Alpha_Tech_002@outlook.com;2020-04-20;73301;TX; Austin;975;Wilson St
-73301-096;Alpha Solutions 041;D;202;+001 733 631-8965;Alpha_Solutions_041@outlook.com;2010-05-04;73301;TX; Austin;979;Highland St
-73301-097;Technologic Store 080;D;202;+001 733 329-7454;Technologic_Store_080@outlook.com;2000-06-19;73301;TX; Austin;990;Highland St
-73301-098;Technologic Company 071;C;202;+001 733 563-1183;Technologic_Company_071@outlook.com;2019-11-21;73301;TX; Austin;997;Forest St
-73301-099;High Tech Tech 057;C;202;+001 733 468-4081;High_Tech_Tech_057@outlook.com;2004-05-10;73301;TX; Austin;997;North St
-90001-001;Genius S.A 013;D;203;+001 900 357-9392;Genius_S.A_013@outlook.com;2003-07-01;90001;CA; Los Angeles;120;Lincoln St
-90001-002;Alpha S.A 084;D;203;+001 900 647-2990;Alpha_S.A_084@outlook.com;2008-02-27;90001;CA; Los Angeles;144;West St
-90001-003;Genius Inc. 096;C;203;+001 900 364-1912;Genius_Inc._096@outlook.com;2004-03-16;90001;CA; Los Angeles;158;11th St
-90001-004;High Tech S.A 055;B;203;+001 900 501-6876;High_Tech_S.A_055@outlook.com;2013-01-14;90001;CA; Los Angeles;16;Madison St
-90001-005;Digital World 095;D;203;+001 900 374-1811;Digital_World_095@outlook.com;2020-07-09;90001;CA; Los Angeles;16;River St
-90001-006;Essential World 077;C;203;+001 900 702-2056;Essential_World_077@outlook.com;2010-03-14;90001;CA; Los Angeles;164;10th St
-90001-007;High Tech Techno 053;D;203;+001 900 703-5070;High_Tech_Techno_053@outlook.com;2005-07-07;90001;CA; Los Angeles;180;1st St
-90001-008;High Tech S.A 035;C;203;+001 900 948-4295;High_Tech_S.A_035@gmail.com.br;2001-01-27;90001;CA; Los Angeles;200;1st St
-90001-009;Alpha Corporation 048;B;203;+001 900 220-5847;Alpha_Corporation_048@gmail.com.br;2015-07-02;90001;CA; Los Angeles;203;Main St
-90001-010;Father And Sons S.A 082;C;203;+001 900 971-1646;Father_And_Sons_S.A_082@outlook.com;2018-11-30;90001;CA; Los Angeles;227;1st St
-90001-011;Essential Corporation 017;B;203;+001 900 196-2585;Essential_Corporation_017@outlook.com;2020-09-14;90001;CA; Los Angeles;230;Spruce St
-90001-012;Father And Sons Techno 090;D;203;+001 900 423-4108;Father_And_Sons_Techno_090@outlook.com;2010-02-04;90001;CA; Los Angeles;238;Adams St
-90001-013;Father And Sons Company 079;D;203;+001 900 122-5449;Father_And_Sons_Company_079@gmail.com.br;2001-05-05;90001;CA; Los Angeles;260;Pine St
-90001-014;Computer S.A 035;D;203;+001 900 832-5228;Computer_S.A_035@outlook.com;2006-07-20;90001;CA; Los Angeles;29;Willow St
-90001-015;Beta Tech 059;C;203;+001 900 717-8896;Beta_Tech_059@outlook.com;2020-03-12;90001;CA; Los Angeles;300;Willow St
-90001-016;Digital Company 022;C;203;+001 900 603-5723;Digital_Company_022@gmail.com.br;2002-07-27;90001;CA; Los Angeles;304;Hill St
-90001-017;Essential Store 060;D;203;+001 900 619-2632;Essential_Store_060@outlook.com;2016-10-24;90001;CA; Los Angeles;305;Madison St
-90001-018;High Tech Electronics 054;B;203;+001 900 987-9662;High_Tech_Electronics_054@outlook.com;2001-10-27;90001;CA; Los Angeles;319;Adams St
-90001-019;Technologic Tech 041;D;203;+001 900 373-4462;Technologic_Tech_041@outlook.com;2015-12-21;90001;CA; Los Angeles;324;7th St
-90001-020;High Tech Electronics 007;C;203;+001 900 314-9332;High_Tech_Electronics_007@outlook.com;2001-05-05;90001;CA; Los Angeles;331;10th St
-90001-021;Essential Solutions 001;B;203;+001 900 995-2480;Essential_Solutions_001@outlook.com;2007-06-02;90001;CA; Los Angeles;35;Cedar St
-90001-022;Digital S.A 030;D;203;+001 900 123-9440;Digital_S.A_030@gmail.com.br;2008-06-27;90001;CA; Los Angeles;405;Center St
-90001-023;Genius Tech 077;C;203;+001 900 450-2497;Genius_Tech_077@outlook.com;2020-05-28;90001;CA; Los Angeles;405;Walnut St
-90001-024;Father And Sons Techno 054;D;203;+001 900 156-6743;Father_And_Sons_Techno_054@gmail.com.br;2001-08-13;90001;CA; Los Angeles;419;10th St
-90001-025;Technologic Corporation 056;D;203;+001 900 536-2851;Technologic_Corporation_056@outlook.com;2003-08-22;90001;CA; Los Angeles;448;Sunset St
-90001-026;Beta Inc. 041;B;203;+001 900 983-8756;Beta_Inc._041@outlook.com;2014-09-19;90001;CA; Los Angeles;454;14th St
-90001-027;High Tech Company 069;D;203;+001 900 673-1401;High_Tech_Company_069@outlook.com;2012-09-17;90001;CA; Los Angeles;459;9th St
-90001-028;Father And Sons Techno 079;D;203;+001 900 779-4261;Father_And_Sons_Techno_079@outlook.com;2012-09-12;90001;CA; Los Angeles;465;8th St
-90001-029;Father And Sons Electronics 072;D;203;+001 900 491-3943;Father_And_Sons_Electronics_072@outlook.com;2013-01-02;90001;CA; Los Angeles;466;Meadow St
-90001-030;Technologic World 078;D;203;+001 900 619-8711;Technologic_World_078@gmail.com.br;2002-04-18;90001;CA; Los Angeles;468;13th St
-90001-031;Alpha Inc. 100;C;203;+001 900 875-4206;Alpha_Inc._100@outlook.com;2020-05-18;90001;CA; Los Angeles;468;Meadow St
-90001-032;High Tech Tech 081;D;203;+001 900 180-7605;High_Tech_Tech_081@gmail.com.br;2000-11-02;90001;CA; Los Angeles;474;Cherry St
-90001-033;Father And Sons Tech 033;D;203;+001 900 228-1380;Father_And_Sons_Tech_033@outlook.com;2002-05-15;90001;CA; Los Angeles;488;Highland St
-90001-034;Technologic Store 065;D;203;+001 900 751-6174;Technologic_Store_065@outlook.com;2014-07-04;90001;CA; Los Angeles;52;Cherry St
-90001-035;Beta Corporation 087;D;203;+001 900 353-9916;Beta_Corporation_087@outlook.com;2020-11-01;90001;CA; Los Angeles;520;Highland St
-90001-036;Alpha Tech 036;C;203;+001 900 824-4451;Alpha_Tech_036@gmail.com.br;2014-08-26;90001;CA; Los Angeles;533;14th St
-90001-037;Digital Corporation 055;B;203;+001 900 749-3871;Digital_Corporation_055@outlook.com;2010-06-23;90001;CA; Los Angeles;553;Washington St
-90001-038;Father And Sons Corporation 055;C;203;+001 900 347-9782;Father_And_Sons_Corporation_055@outlook.com;2010-06-29;90001;CA; Los Angeles;566;Dogwood St
-90001-039;Digital World 074;D;203;+001 900 179-5815;Digital_World_074@outlook.com;2008-04-20;90001;CA; Los Angeles;582;6th St
-90001-040;Technologic Corporation 004;C;203;+001 900 463-8454;Technologic_Corporation_004@outlook.com;2012-02-10;90001;CA; Los Angeles;586;2nd St
-90001-041;Essential Corporation 100;B;203;+001 900 999-4542;Essential_Corporation_100@outlook.com;2011-05-29;90001;CA; Los Angeles;589;Sunset St
-90001-042;High Tech Inc. 013;D;203;+001 900 124-9411;High_Tech_Inc._013@gmail.com.br;2013-04-13;90001;CA; Los Angeles;590;Elm St
-90001-043;Computer Solutions 020;D;203;+001 900 969-2395;Computer_Solutions_020@outlook.com;2014-05-26;90001;CA; Los Angeles;613;7th St
-90001-044;High Tech S.A 100;C;203;+001 900 366-9077;High_Tech_S.A_100@outlook.com;2002-08-05;90001;CA; Los Angeles;617;1st St
-90001-045;Alpha S.A 036;C;203;+001 900 788-7386;Alpha_S.A_036@outlook.com;2003-01-13;90001;CA; Los Angeles;625;Elm St
-90001-046;High Tech Company 044;D;203;+001 900 608-3795;High_Tech_Company_044@outlook.com;2010-07-27;90001;CA; Los Angeles;635;Johnson St
-90001-047;Digital Electronics 100;D;203;+001 900 249-4849;Digital_Electronics_100@gmail.com.br;2013-12-14;90001;CA; Los Angeles;643;Forest St
-90001-048;Genius S.A 066;A;203;+001 900 692-4857;Genius_S.A_066@gmail.com.br;2001-02-17;90001;CA; Los Angeles;646;Lincoln St
-90001-049;Computer Electronics 058;D;203;+001 900 843-6325;Computer_Electronics_058@outlook.com;2007-11-12;90001;CA; Los Angeles;650;14th St
-90001-050;Genius Techno 058;A;203;+001 900 997-9479;Genius_Techno_058@outlook.com;2009-07-21;90001;CA; Los Angeles;673;1st St
-90001-051;Genius World 035;D;203;+001 900 328-4579;Genius_World_035@outlook.com;2001-08-16;90001;CA; Los Angeles;698;Walnut St
-90001-052;Beta Store 089;D;203;+001 900 569-3243;Beta_Store_089@outlook.com;2011-09-08;90001;CA; Los Angeles;711;Ridge St
-90001-053;Technologic Store 096;D;203;+001 900 359-7832;Technologic_Store_096@outlook.com;2007-06-09;90001;CA; Los Angeles;715;Dogwood St
-90001-054;High Tech Inc. 021;B;203;+001 900 225-2490;High_Tech_Inc._021@gmail.com.br;2004-05-09;90001;CA; Los Angeles;722;Madison St
-90001-055;Alpha S.A 009;D;203;+001 900 198-4656;Alpha_S.A_009@outlook.com;2002-09-14;90001;CA; Los Angeles;750;Meadow St
-90001-056;Father And Sons Electronics 041;D;203;+001 900 410-6512;Father_And_Sons_Electronics_041@gmail.com.br;2018-02-28;90001;CA; Los Angeles;761;West St
-90001-057;Technologic S.A 047;D;203;+001 900 203-8725;Technologic_S.A_047@outlook.com;2013-08-18;90001;CA; Los Angeles;765;Washington St
-90001-058;Essential Corporation 018;D;203;+001 900 911-4564;Essential_Corporation_018@gmail.com.br;2015-10-24;90001;CA; Los Angeles;770;6th St
-90001-059;Digital Tech 060;D;203;+001 900 650-1176;Digital_Tech_060@gmail.com.br;2009-10-17;90001;CA; Los Angeles;774;Forest St
-90001-060;Digital Solutions 079;C;203;+001 900 477-1922;Digital_Solutions_079@outlook.com;2007-11-24;90001;CA; Los Angeles;788;Jackson St
-90001-061;Genius Corporation 085;B;203;+001 900 166-5264;Genius_Corporation_085@gmail.com.br;2013-03-28;90001;CA; Los Angeles;799;River St
-90001-062;Genius Store 045;B;203;+001 900 190-6055;Genius_Store_045@gmail.com.br;2020-01-29;90001;CA; Los Angeles;805;9th St
-90001-063;Computer Solutions 048;B;203;+001 900 617-6758;Computer_Solutions_048@gmail.com.br;2001-08-23;90001;CA; Los Angeles;812;North St
-90001-064;Father And Sons Tech 062;D;203;+001 900 154-8865;Father_And_Sons_Tech_062@outlook.com;2020-04-23;90001;CA; Los Angeles;838;Cherry St
-90001-065;High Tech Electronics 027;D;203;+001 900 313-4163;High_Tech_Electronics_027@outlook.com;2010-04-08;90001;CA; Los Angeles;838;West St
-90001-066;Digital Corporation 010;B;203;+001 900 227-6428;Digital_Corporation_010@outlook.com;2009-05-14;90001;CA; Los Angeles;841;Walnut St
-90001-067;Beta Store 045;D;203;+001 900 329-3525;Beta_Store_045@outlook.com;2000-03-06;90001;CA; Los Angeles;865;Adams St
-90001-068;High Tech Company 085;D;203;+001 900 315-7261;High_Tech_Company_085@outlook.com;2005-11-22;90001;CA; Los Angeles;865;River St
-90001-069;High Tech Company 034;C;203;+001 900 278-2060;High_Tech_Company_034@outlook.com;2010-10-27;90001;CA; Los Angeles;874;Highland St
-90001-070;Father And Sons S.A 100;D;203;+001 900 548-6302;Father_And_Sons_S.A_100@outlook.com;2009-08-02;90001;CA; Los Angeles;893;Hickory St
-90001-071;Alpha S.A 097;C;203;+001 900 500-3856;Alpha_S.A_097@outlook.com;2016-12-07;90001;CA; Los Angeles;916;7th St
-90001-072;Technologic Solutions 042;D;203;+001 900 599-7361;Technologic_Solutions_042@outlook.com;2015-08-16;90001;CA; Los Angeles;918;North St
-90001-073;Father And Sons Tech 017;C;203;+001 900 984-6399;Father_And_Sons_Tech_017@outlook.com;2004-01-13;90001;CA; Los Angeles;919;North St
-90001-074;Essential Inc. 024;D;203;+001 900 863-4983;Essential_Inc._024@outlook.com;2016-05-26;90001;CA; Los Angeles;92;11th St
-90001-075;Alpha World 005;D;203;+001 900 306-6316;Alpha_World_005@gmail.com.br;2015-09-28;90001;CA; Los Angeles;926;Johnson St
-90001-076;Essential Inc. 079;B;203;+001 900 722-3459;Essential_Inc._079@outlook.com;2004-01-31;90001;CA; Los Angeles;929;Jackson St
-90001-077;High Tech Corporation 033;D;203;+001 900 496-8111;High_Tech_Corporation_033@gmail.com.br;2000-07-24;90001;CA; Los Angeles;934;Meadow St
-90001-078;Essential Solutions 087;D;203;+001 900 489-8032;Essential_Solutions_087@outlook.com;2020-06-12;90001;CA; Los Angeles;936;1st St
-90001-079;Computer Tech 064;D;203;+001 900 468-2857;Computer_Tech_064@gmail.com.br;2000-04-17;90001;CA; Los Angeles;943;Lincoln St
-90001-080;High Tech Inc. 075;D;203;+001 900 931-2774;High_Tech_Inc._075@outlook.com;2012-11-26;90001;CA; Los Angeles;990;Pine St
-94016-001;Essential Electronics 000;D;204;+001 940 846-7379;Essential_Electronics_000@outlook.com;2009-03-02;94016;CA; San Francisco;114;11th St
-94016-002;Alpha S.A 075;C;204;+001 940 906-8549;Alpha_S.A_075@outlook.com;2003-01-18;94016;CA; San Francisco;117;Forest St
-94016-003;High Tech Tech 020;D;204;+001 940 261-9385;High_Tech_Tech_020@outlook.com;2007-10-17;94016;CA; San Francisco;123;Dogwood St
-94016-004;Computer Techno 003;D;204;+001 940 271-9015;Computer_Techno_003@gmail.com.br;2015-06-28;94016;CA; San Francisco;136;6th St
-94016-005;Alpha S.A 088;C;204;+001 940 883-2523;Alpha_S.A_088@outlook.com;2003-04-12;94016;CA; San Francisco;199;Highland St
-94016-006;Father And Sons Electronics 039;D;204;+001 940 732-7605;Father_And_Sons_Electronics_039@gmail.com.br;2008-07-13;94016;CA; San Francisco;206;7th St
-94016-007;Digital S.A 095;D;204;+001 940 687-1321;Digital_S.A_095@outlook.com;2013-02-27;94016;CA; San Francisco;209;Forest St
-94016-008;Beta Solutions 049;C;204;+001 940 449-5863;Beta_Solutions_049@outlook.com;2014-01-30;94016;CA; San Francisco;210;Center St
-94016-009;Father And Sons Corporation 054;D;204;+001 940 203-9711;Father_And_Sons_Corporation_054@outlook.com;2008-06-19;94016;CA; San Francisco;211;10th St
-94016-010;Computer World 024;C;204;+001 940 723-2535;Computer_World_024@gmail.com.br;2020-05-13;94016;CA; San Francisco;273;7th St
-94016-011;Essential Solutions 065;C;204;+001 940 647-3131;Essential_Solutions_065@outlook.com;2012-02-03;94016;CA; San Francisco;283;Madison St
-94016-012;Beta Solutions 041;D;204;+001 940 565-1662;Beta_Solutions_041@outlook.com;2020-04-12;94016;CA; San Francisco;294;River St
-94016-013;High Tech Electronics 002;C;204;+001 940 175-9359;High_Tech_Electronics_002@outlook.com;2000-05-05;94016;CA; San Francisco;308;Highland St
-94016-014;Essential S.A 039;D;204;+001 940 914-5777;Essential_S.A_039@outlook.com;2000-06-04;94016;CA; San Francisco;317;River St
-94016-015;Father And Sons Store 011;D;204;+001 940 825-7206;Father_And_Sons_Store_011@outlook.com;2003-03-27;94016;CA; San Francisco;325;Hickory St
-94016-016;Digital Techno 038;B;204;+001 940 436-8752;Digital_Techno_038@outlook.com;2013-10-21;94016;CA; San Francisco;330;Madison St
-94016-017;Technologic Corporation 014;D;204;+001 940 853-9900;Technologic_Corporation_014@gmail.com.br;2016-09-14;94016;CA; San Francisco;330;Meadow St
-94016-018;Beta Solutions 059;D;204;+001 940 379-8865;Beta_Solutions_059@outlook.com;2003-06-20;94016;CA; San Francisco;331;14th St
-94016-019;Essential S.A 012;D;204;+001 940 982-1633;Essential_S.A_012@outlook.com;2009-09-25;94016;CA; San Francisco;338;10th St
-94016-020;Beta Techno 026;D;204;+001 940 407-1184;Beta_Techno_026@outlook.com;2000-12-29;94016;CA; San Francisco;344;Lakeview St
-94016-021;Technologic Corporation 097;B;204;+001 940 694-8878;Technologic_Corporation_097@outlook.com;2010-06-22;94016;CA; San Francisco;359;Ridge St
-94016-022;Essential World 091;D;204;+001 940 740-1073;Essential_World_091@outlook.com;2020-09-30;94016;CA; San Francisco;373;7th St
-94016-023;Technologic Electronics 097;C;204;+001 940 327-3595;Technologic_Electronics_097@outlook.com;2017-03-12;94016;CA; San Francisco;388;Johnson St
-94016-024;Computer Solutions 088;C;204;+001 940 331-4270;Computer_Solutions_088@gmail.com.br;2011-01-03;94016;CA; San Francisco;408;Hill St
-94016-025;Father And Sons Tech 074;D;204;+001 940 849-3890;Father_And_Sons_Tech_074@outlook.com;2003-04-09;94016;CA; San Francisco;412;5th St
-94016-026;Father And Sons Store 063;D;204;+001 940 671-3002;Father_And_Sons_Store_063@gmail.com.br;2016-09-11;94016;CA; San Francisco;414;7th St
-94016-027;Alpha Company 028;C;204;+001 940 888-8206;Alpha_Company_028@outlook.com;2001-10-17;94016;CA; San Francisco;435;Willow St
-94016-028;Essential Store 041;C;204;+001 940 422-6340;Essential_Store_041@outlook.com;2003-10-12;94016;CA; San Francisco;449;7th St
-94016-029;Father And Sons Electronics 088;D;204;+001 940 618-6859;Father_And_Sons_Electronics_088@outlook.com;2002-01-08;94016;CA; San Francisco;467;7th St
-94016-030;High Tech World 043;B;204;+001 940 974-3664;High_Tech_World_043@gmail.com.br;2007-04-11;94016;CA; San Francisco;496;Walnut St
-94016-031;High Tech Techno 084;C;204;+001 940 906-4702;High_Tech_Techno_084@outlook.com;2001-01-03;94016;CA; San Francisco;499;Johnson St
-94016-032;Computer Company 021;C;204;+001 940 862-3636;Computer_Company_021@outlook.com;2017-10-20;94016;CA; San Francisco;500;Chestnut St
-94016-033;Alpha Company 008;D;204;+001 940 556-2541;Alpha_Company_008@outlook.com;2002-11-26;94016;CA; San Francisco;510;2nd St
-94016-034;Digital Inc. 085;D;204;+001 940 784-7765;Digital_Inc._085@gmail.com.br;2010-06-17;94016;CA; San Francisco;513;Pine St
-94016-035;Essential Inc. 095;C;204;+001 940 733-5893;Essential_Inc._095@outlook.com;2018-08-13;94016;CA; San Francisco;526;Elm St
-94016-036;Digital Tech 086;D;204;+001 940 364-1800;Digital_Tech_086@outlook.com;2000-10-16;94016;CA; San Francisco;554;Madison St
-94016-037;Beta Store 088;D;204;+001 940 235-3716;Beta_Store_088@outlook.com;2006-10-19;94016;CA; San Francisco;555;9th St
-94016-038;Beta Solutions 073;D;204;+001 940 409-2406;Beta_Solutions_073@outlook.com;2008-06-03;94016;CA; San Francisco;56;5th St
-94016-039;Digital S.A 008;C;204;+001 940 363-2007;Digital_S.A_008@outlook.com;2010-01-06;94016;CA; San Francisco;563;Lakeview St
-94016-040;Beta Electronics 078;D;204;+001 940 653-7926;Beta_Electronics_078@outlook.com;2011-08-28;94016;CA; San Francisco;568;Forest St
-94016-041;High Tech Electronics 073;D;204;+001 940 869-5295;High_Tech_Electronics_073@outlook.com;2004-10-23;94016;CA; San Francisco;570;Center St
-94016-042;Computer Techno 039;D;204;+001 940 959-2928;Computer_Techno_039@gmail.com.br;2010-06-07;94016;CA; San Francisco;587;4th St
-94016-043;Beta Techno 058;C;204;+001 940 138-6924;Beta_Techno_058@gmail.com.br;2012-07-05;94016;CA; San Francisco;591;10th St
-94016-044;Father And Sons Corporation 068;C;204;+001 940 653-7508;Father_And_Sons_Corporation_068@gmail.com.br;2020-01-10;94016;CA; San Francisco;603;1st St
-94016-045;Genius Electronics 040;C;204;+001 940 840-6724;Genius_Electronics_040@gmail.com.br;2013-09-28;94016;CA; San Francisco;649;Wilson St
-94016-046;Digital Corporation 022;B;204;+001 940 218-7140;Digital_Corporation_022@outlook.com;2019-06-25;94016;CA; San Francisco;651;1st St
-94016-047;Digital Techno 005;D;204;+001 940 378-2229;Digital_Techno_005@outlook.com;2018-02-06;94016;CA; San Francisco;662;Wilson St
-94016-048;High Tech Techno 032;D;204;+001 940 688-4233;High_Tech_Techno_032@outlook.com;2016-02-24;94016;CA; San Francisco;685;Jackson St
-94016-049;Essential Solutions 031;D;204;+001 940 213-4755;Essential_Solutions_031@outlook.com;2017-10-13;94016;CA; San Francisco;686;5th St
-94016-050;Genius Company 003;D;204;+001 940 855-9531;Genius_Company_003@outlook.com;2012-03-09;94016;CA; San Francisco;694;14th St
-94016-051;Digital Techno 029;D;204;+001 940 793-9591;Digital_Techno_029@gmail.com.br;2001-01-30;94016;CA; San Francisco;716;Jackson St
-94016-052;Beta S.A 036;C;204;+001 940 674-4854;Beta_S.A_036@gmail.com.br;2003-09-21;94016;CA; San Francisco;725;Washington St
-94016-053;Father And Sons World 027;C;204;+001 940 840-3832;Father_And_Sons_World_027@outlook.com;2002-08-19;94016;CA; San Francisco;730;6th St
-94016-054;Digital Techno 001;C;204;+001 940 628-4147;Digital_Techno_001@outlook.com;2009-03-06;94016;CA; San Francisco;74;Lincoln St
-94016-055;Alpha Solutions 080;A;204;+001 940 333-8943;Alpha_Solutions_080@outlook.com;2011-10-15;94016;CA; San Francisco;742;Highland St
-94016-056;High Tech Store 005;C;204;+001 940 142-5843;High_Tech_Store_005@outlook.com;2013-04-07;94016;CA; San Francisco;766;Pine St
-94016-057;Technologic World 087;D;204;+001 940 933-3272;Technologic_World_087@outlook.com;2012-08-12;94016;CA; San Francisco;77;Chestnut St
-94016-058;High Tech Tech 023;C;204;+001 940 837-1724;High_Tech_Tech_023@outlook.com;2016-02-20;94016;CA; San Francisco;791;Elm St
-94016-059;Beta Inc. 057;D;204;+001 940 876-1826;Beta_Inc._057@outlook.com;2009-11-29;94016;CA; San Francisco;806;Madison St
-94016-060;Beta Electronics 035;D;204;+001 940 129-3803;Beta_Electronics_035@gmail.com.br;2020-07-18;94016;CA; San Francisco;838;Johnson St
-94016-061;Alpha S.A 052;D;204;+001 940 683-6744;Alpha_S.A_052@outlook.com;2011-10-04;94016;CA; San Francisco;869;13th St
-94016-062;Alpha Techno 002;B;204;+001 940 719-8384;Alpha_Techno_002@outlook.com;2006-01-27;94016;CA; San Francisco;87;10th St
-94016-063;Beta Solutions 063;D;204;+001 940 513-4594;Beta_Solutions_063@outlook.com;2005-08-13;94016;CA; San Francisco;876;Jefferson St
-94016-064;Computer Tech 035;D;204;+001 940 189-6141;Computer_Tech_035@gmail.com.br;2016-09-29;94016;CA; San Francisco;905;Lake St
-94016-065;Genius Electronics 081;D;204;+001 940 612-2654;Genius_Electronics_081@outlook.com;2007-05-15;94016;CA; San Francisco;914;Maple St
-94016-066;Computer Tech 023;C;204;+001 940 823-1662;Computer_Tech_023@gmail.com.br;2017-09-26;94016;CA; San Francisco;920;Johnson St
-94016-067;Essential Electronics 002;D;204;+001 940 837-7359;Essential_Electronics_002@outlook.com;2011-12-27;94016;CA; San Francisco;925;Elm St
-94016-068;Alpha Techno 089;D;204;+001 940 622-1663;Alpha_Techno_089@outlook.com;2000-08-08;94016;CA; San Francisco;927;10th St
-94016-069;High Tech Corporation 068;C;204;+001 940 798-3571;High_Tech_Corporation_068@outlook.com;2007-10-18;94016;CA; San Francisco;948;1st St
-94016-070;Digital Corporation 044;C;204;+001 940 477-2912;Digital_Corporation_044@outlook.com;2014-01-19;94016;CA; San Francisco;960;Pine St
-94016-071;Genius Corporation 055;D;204;+001 940 789-4531;Genius_Corporation_055@outlook.com;2015-12-05;94016;CA; San Francisco;979;Chestnut St
-94016-072;Beta Store 012;C;204;+001 940 168-5847;Beta_Store_012@outlook.com;2019-12-01;94016;CA; San Francisco;991;Spruce St
-94016-073;Technologic Techno 093;D;204;+001 940 448-9106;Technologic_Techno_093@gmail.com.br;2002-05-31;94016;CA; San Francisco;999;Lake St
-30301-001;Digital Tech 039;C;205;+001 303 807-9212;Digital_Tech_039@outlook.com;2005-12-07;30301;GA; Atlanta;105;Ridge St
-30301-002;Father And Sons Inc. 039;D;205;+001 303 619-3208;Father_And_Sons_Inc._039@outlook.com;2013-03-19;30301;GA; Atlanta;105;Wilson St
-30301-003;Genius Solutions 089;D;205;+001 303 396-7083;Genius_Solutions_089@outlook.com;2020-07-16;30301;GA; Atlanta;107;Jackson St
-30301-004;Computer Electronics 036;B;205;+001 303 363-1238;Computer_Electronics_036@gmail.com.br;2017-01-09;30301;GA; Atlanta;129;River St
-30301-005;Computer Solutions 021;C;205;+001 303 128-2799;Computer_Solutions_021@outlook.com;2014-06-06;30301;GA; Atlanta;136;Hickory St
-30301-006;Technologic Tech 012;C;205;+001 303 516-7942;Technologic_Tech_012@gmail.com.br;2014-05-21;30301;GA; Atlanta;140;Cherry St
-30301-007;Father And Sons Tech 064;A;205;+001 303 934-1647;Father_And_Sons_Tech_064@outlook.com;2013-03-25;30301;GA; Atlanta;144;Chestnut St
-30301-008;Father And Sons Inc. 013;B;205;+001 303 289-5933;Father_And_Sons_Inc._013@outlook.com;2010-10-23;30301;GA; Atlanta;158;1st St
-30301-009;High Tech Solutions 038;D;205;+001 303 938-9560;High_Tech_Solutions_038@outlook.com;2001-06-05;30301;GA; Atlanta;164;Chestnut St
-30301-010;High Tech Solutions 040;D;205;+001 303 392-4945;High_Tech_Solutions_040@outlook.com;2018-06-07;30301;GA; Atlanta;175;Jefferson St
-30301-011;Computer Electronics 084;C;205;+001 303 822-1591;Computer_Electronics_084@outlook.com;2014-12-22;30301;GA; Atlanta;178;River St
-30301-012;Genius World 026;C;205;+001 303 890-3784;Genius_World_026@gmail.com.br;2012-07-08;30301;GA; Atlanta;187;Johnson St
-30301-013;Digital Inc. 070;D;205;+001 303 534-9577;Digital_Inc._070@outlook.com;2017-09-04;30301;GA; Atlanta;187;North St
-30301-014;Genius S.A 040;D;205;+001 303 345-7204;Genius_S.A_040@gmail.com.br;2015-01-26;30301;GA; Atlanta;199;11th St
-30301-015;High Tech S.A 039;D;205;+001 303 136-5542;High_Tech_S.A_039@gmail.com.br;2008-06-06;30301;GA; Atlanta;202;Hill St
-30301-016;Beta World 011;D;205;+001 303 978-3331;Beta_World_011@gmail.com.br;2013-02-28;30301;GA; Atlanta;229;Johnson St
-30301-017;Genius Inc. 035;C;205;+001 303 742-2073;Genius_Inc._035@outlook.com;2013-02-25;30301;GA; Atlanta;229;River St
-30301-018;High Tech Store 062;D;205;+001 303 370-1945;High_Tech_Store_062@outlook.com;2012-01-01;30301;GA; Atlanta;247;Johnson St
-30301-019;Genius Techno 096;A;205;+001 303 948-4876;Genius_Techno_096@outlook.com;2014-12-16;30301;GA; Atlanta;250;Maple St
-30301-020;Alpha World 056;D;205;+001 303 495-4068;Alpha_World_056@gmail.com.br;2018-08-29;30301;GA; Atlanta;256;Hickory St
-30301-021;Essential World 081;B;205;+001 303 701-6429;Essential_World_081@gmail.com.br;2017-06-18;30301;GA; Atlanta;259;North St
-30301-022;Digital Electronics 002;D;205;+001 303 398-6479;Digital_Electronics_002@gmail.com.br;2006-12-15;30301;GA; Atlanta;271;8th St
-30301-023;Computer Tech 022;B;205;+001 303 157-9306;Computer_Tech_022@outlook.com;2001-05-10;30301;GA; Atlanta;273;Jefferson St
-30301-024;Genius Solutions 028;D;205;+001 303 762-4077;Genius_Solutions_028@outlook.com;2015-05-17;30301;GA; Atlanta;275;Willow St
-30301-025;Beta Company 052;C;205;+001 303 125-7869;Beta_Company_052@outlook.com;2008-10-12;30301;GA; Atlanta;28;13th St
-30301-026;Beta Inc. 095;C;205;+001 303 440-9501;Beta_Inc._095@outlook.com;2009-05-14;30301;GA; Atlanta;298;Wilson St
-30301-027;Essential Company 072;B;205;+001 303 870-4624;Essential_Company_072@gmail.com.br;2020-01-24;30301;GA; Atlanta;335;Chestnut St
-30301-028;Father And Sons S.A 015;C;205;+001 303 860-1321;Father_And_Sons_S.A_015@outlook.com;2009-03-16;30301;GA; Atlanta;345;Washington St
-30301-029;Genius Corporation 073;B;205;+001 303 235-1132;Genius_Corporation_073@outlook.com;2017-10-25;30301;GA; Atlanta;400;Lakeview St
-30301-030;Essential Store 046;D;205;+001 303 566-7096;Essential_Store_046@outlook.com;2012-05-01;30301;GA; Atlanta;41;14th St
-30301-031;Alpha S.A 053;D;205;+001 303 399-7843;Alpha_S.A_053@outlook.com;2006-04-28;30301;GA; Atlanta;417;Church St
-30301-032;Technologic S.A 077;D;205;+001 303 889-5427;Technologic_S.A_077@outlook.com;2019-06-08;30301;GA; Atlanta;424;Hickory St
-30301-033;High Tech Solutions 042;C;205;+001 303 572-1354;High_Tech_Solutions_042@outlook.com;2017-02-09;30301;GA; Atlanta;425;Church St
-30301-034;Alpha Solutions 075;D;205;+001 303 726-4938;Alpha_Solutions_075@outlook.com;2011-04-13;30301;GA; Atlanta;427;Meadow St
-30301-035;Father And Sons Techno 039;D;205;+001 303 374-4181;Father_And_Sons_Techno_039@outlook.com;2013-06-17;30301;GA; Atlanta;435;8th St
-30301-036;Computer Company 079;D;205;+001 303 960-2067;Computer_Company_079@outlook.com;2010-02-23;30301;GA; Atlanta;469;Park St
-30301-037;Genius Techno 072;D;205;+001 303 113-8251;Genius_Techno_072@outlook.com;2013-05-10;30301;GA; Atlanta;473;4th St
-30301-038;High Tech World 083;D;205;+001 303 637-6156;High_Tech_World_083@outlook.com;2004-08-30;30301;GA; Atlanta;475;Elm St
-30301-039;Beta Inc. 009;B;205;+001 303 683-5045;Beta_Inc._009@outlook.com;2019-04-13;30301;GA; Atlanta;480;Adams St
-30301-040;Beta Solutions 038;D;205;+001 303 271-1852;Beta_Solutions_038@gmail.com.br;2004-02-25;30301;GA; Atlanta;496;South St
-30301-041;Beta Techno 059;C;205;+001 303 907-2440;Beta_Techno_059@gmail.com.br;2006-11-12;30301;GA; Atlanta;506;Madison St
-30301-042;Beta Solutions 098;D;205;+001 303 684-7134;Beta_Solutions_098@gmail.com.br;2014-02-16;30301;GA; Atlanta;513;4th St
-30301-043;Essential Techno 009;A;205;+001 303 792-1534;Essential_Techno_009@outlook.com;2013-04-20;30301;GA; Atlanta;516;6th St
-30301-044;Genius Store 025;C;205;+001 303 754-9977;Genius_Store_025@outlook.com;2009-04-13;30301;GA; Atlanta;530;4th St
-30301-045;Computer Inc. 048;D;205;+001 303 161-3553;Computer_Inc._048@gmail.com.br;2020-03-07;30301;GA; Atlanta;536;Jefferson St
-30301-046;Beta S.A 043;D;205;+001 303 567-5093;Beta_S.A_043@outlook.com;2000-12-03;30301;GA; Atlanta;537;1st St
-30301-047;Father And Sons Solutions 080;D;205;+001 303 230-8381;Father_And_Sons_Solutions_080@outlook.com;2020-08-24;30301;GA; Atlanta;537;Dogwood St
-30301-048;Essential Store 003;C;205;+001 303 366-1846;Essential_Store_003@outlook.com;2003-08-08;30301;GA; Atlanta;538;South St
-30301-049;High Tech Electronics 099;D;205;+001 303 632-8855;High_Tech_Electronics_099@gmail.com.br;2013-01-18;30301;GA; Atlanta;559;12th St
-30301-050;Beta Electronics 007;D;205;+001 303 431-2779;Beta_Electronics_007@outlook.com;2015-07-28;30301;GA; Atlanta;629;Dogwood St
-30301-051;Computer Techno 095;D;205;+001 303 103-7550;Computer_Techno_095@outlook.com;2019-07-09;30301;GA; Atlanta;652;Center St
-30301-052;Alpha Company 023;C;205;+001 303 390-3206;Alpha_Company_023@outlook.com;2003-03-29;30301;GA; Atlanta;657;Elm St
-30301-053;Genius Solutions 051;C;205;+001 303 783-5804;Genius_Solutions_051@outlook.com;2013-04-20;30301;GA; Atlanta;66;Chestnut St
-30301-054;Essential Inc. 047;C;205;+001 303 976-8479;Essential_Inc._047@outlook.com;2019-11-13;30301;GA; Atlanta;664;7th St
-30301-055;Essential Electronics 009;A;205;+001 303 739-9770;Essential_Electronics_009@outlook.com;2009-05-07;30301;GA; Atlanta;670;Elm St
-30301-056;Father And Sons Store 076;B;205;+001 303 104-3010;Father_And_Sons_Store_076@outlook.com;2016-12-30;30301;GA; Atlanta;680;11th St
-30301-057;Computer Corporation 038;D;205;+001 303 304-9301;Computer_Corporation_038@gmail.com.br;2003-02-05;30301;GA; Atlanta;702;6th St
-30301-058;Beta S.A 069;D;205;+001 303 901-1437;Beta_S.A_069@outlook.com;2015-05-07;30301;GA; Atlanta;705;Center St
-30301-059;Essential Corporation 050;D;205;+001 303 180-5764;Essential_Corporation_050@outlook.com;2003-05-03;30301;GA; Atlanta;71;11th St
-30301-060;Essential Tech 006;B;205;+001 303 208-4288;Essential_Tech_006@outlook.com;2011-04-25;30301;GA; Atlanta;713;Johnson St
-30301-061;Beta Solutions 033;B;205;+001 303 652-9180;Beta_Solutions_033@outlook.com;2000-07-28;30301;GA; Atlanta;728;Dogwood St
-30301-062;Digital Inc. 005;C;205;+001 303 608-8052;Digital_Inc._005@outlook.com;2015-03-29;30301;GA; Atlanta;729;River St
-30301-063;Essential Inc. 075;D;205;+001 303 323-4535;Essential_Inc._075@outlook.com;2015-12-24;30301;GA; Atlanta;742;9th St
-30301-064;Digital World 070;D;205;+001 303 854-5009;Digital_World_070@outlook.com;2014-08-17;30301;GA; Atlanta;749;River St
-30301-065;Computer Corporation 057;C;205;+001 303 150-3886;Computer_Corporation_057@outlook.com;2019-03-19;30301;GA; Atlanta;760;Main St
-30301-066;Alpha World 024;D;205;+001 303 251-6410;Alpha_World_024@outlook.com;2001-08-02;30301;GA; Atlanta;763;Wilson St
-30301-067;Computer Store 012;B;205;+001 303 472-6275;Computer_Store_012@gmail.com.br;2019-09-16;30301;GA; Atlanta;774;Willow St
-30301-068;Essential Tech 031;D;205;+001 303 750-3939;Essential_Tech_031@outlook.com;2001-06-02;30301;GA; Atlanta;792;Dogwood St
-30301-069;Beta Techno 019;D;205;+001 303 756-1704;Beta_Techno_019@outlook.com;2009-09-28;30301;GA; Atlanta;803;Lincoln St
-30301-070;Genius Electronics 064;D;205;+001 303 871-7295;Genius_Electronics_064@gmail.com.br;2020-12-13;30301;GA; Atlanta;804;12th St
-30301-071;Genius Store 026;D;205;+001 303 105-6710;Genius_Store_026@gmail.com.br;2016-07-01;30301;GA; Atlanta;811;14th St
-30301-072;Genius Tech 033;B;205;+001 303 283-8051;Genius_Tech_033@outlook.com;2017-08-10;30301;GA; Atlanta;812;6th St
-30301-073;Essential S.A 003;A;205;+001 303 124-4355;Essential_S.A_003@gmail.com.br;2013-07-16;30301;GA; Atlanta;812;Washington St
-30301-074;High Tech Corporation 065;D;205;+001 303 376-2885;High_Tech_Corporation_065@gmail.com.br;2015-07-05;30301;GA; Atlanta;819;4th St
-30301-075;Technologic S.A 027;D;205;+001 303 929-1058;Technologic_S.A_027@outlook.com;2008-09-17;30301;GA; Atlanta;819;5th St
-30301-076;High Tech Corporation 002;B;205;+001 303 810-4895;High_Tech_Corporation_002@outlook.com;2008-03-22;30301;GA; Atlanta;836;Dogwood St
-30301-077;Essential Corporation 015;D;205;+001 303 473-2911;Essential_Corporation_015@outlook.com;2011-05-20;30301;GA; Atlanta;847;Main St
-30301-078;Genius Techno 003;C;205;+001 303 571-5163;Genius_Techno_003@outlook.com;2003-12-02;30301;GA; Atlanta;900;Forest St
-30301-079;Father And Sons Inc. 084;D;205;+001 303 915-9194;Father_And_Sons_Inc._084@outlook.com;2016-12-01;30301;GA; Atlanta;924;7th St
-30301-080;Genius Techno 047;D;205;+001 303 659-1096;Genius_Techno_047@outlook.com;2004-10-19;30301;GA; Atlanta;933;Ridge St
-30301-081;Digital Inc. 065;D;205;+001 303 230-3249;Digital_Inc._065@gmail.com.br;2019-06-30;30301;GA; Atlanta;935;Jefferson St
-30301-082;Technologic Tech 045;D;205;+001 303 972-7402;Technologic_Tech_045@gmail.com.br;2012-06-02;30301;GA; Atlanta;957;Park St
-30301-083;Essential Tech 089;D;205;+001 303 836-4511;Essential_Tech_089@outlook.com;2019-01-22;30301;GA; Atlanta;959;Main St
-30301-084;Essential Tech 022;D;205;+001 303 336-3782;Essential_Tech_022@gmail.com.br;2011-11-27;30301;GA; Atlanta;967;1st St
-30301-085;Digital S.A 079;D;205;+001 303 951-3399;Digital_S.A_079@outlook.com;2001-01-10;30301;GA; Atlanta;981;Madison St
-30301-086;Father And Sons Company 022;D;205;+001 303 767-3726;Father_And_Sons_Company_022@outlook.com;2017-11-30;30301;GA; Atlanta;988;4th St
-30301-087;Beta Techno 096;D;205;+001 303 954-5156;Beta_Techno_096@outlook.com;2016-02-11;30301;GA; Atlanta;997;Cherry St
-30301-088;Alpha Techno 033;D;205;+001 303 915-4106;Alpha_Techno_033@gmail.com.br;2012-11-03;30301;GA; Atlanta;998;11th St
-75001-001;High Tech Tech 001;D;106;+001 750 276-8203;High_Tech_Tech_001@outlook.com;2019-05-12;75001;TX; Dallas;126;Washington St
-75001-002;Technologic Electronics 007;D;106;+001 750 934-6311;Technologic_Electronics_007@outlook.com;2011-07-22;75001;TX; Dallas;133;Willow St
-75001-003;High Tech Store 081;D;106;+001 750 850-3003;High_Tech_Store_081@outlook.com;2012-04-16;75001;TX; Dallas;169;10th St
-75001-004;Essential World 073;D;106;+001 750 395-8159;Essential_World_073@outlook.com;2007-02-13;75001;TX; Dallas;172;Cherry St
-75001-005;Digital Corporation 093;C;106;+001 750 675-7343;Digital_Corporation_093@outlook.com;2004-08-07;75001;TX; Dallas;185;Dogwood St
-75001-006;Essential Corporation 052;B;106;+001 750 914-2244;Essential_Corporation_052@outlook.com;2000-09-19;75001;TX; Dallas;185;Madison St
-75001-007;Computer Tech 099;B;106;+001 750 210-1349;Computer_Tech_099@gmail.com.br;2001-09-27;75001;TX; Dallas;211;4th St
-75001-008;Digital Solutions 024;B;106;+001 750 948-1258;Digital_Solutions_024@outlook.com;2020-05-21;75001;TX; Dallas;212;West St
-75001-009;High Tech Company 086;C;106;+001 750 582-7891;High_Tech_Company_086@outlook.com;2014-07-09;75001;TX; Dallas;220;2nd St
-75001-010;Father And Sons Store 051;C;106;+001 750 869-5332;Father_And_Sons_Store_051@outlook.com;2013-06-10;75001;TX; Dallas;296;4th St
-75001-011;Digital Electronics 005;C;106;+001 750 118-5255;Digital_Electronics_005@outlook.com;2019-06-16;75001;TX; Dallas;300;8th St
-75001-012;High Tech Electronics 016;D;106;+001 750 676-7766;High_Tech_Electronics_016@outlook.com;2008-09-04;75001;TX; Dallas;304;9th St
-75001-013;Computer S.A 096;D;106;+001 750 212-4922;Computer_S.A_096@outlook.com;2001-04-27;75001;TX; Dallas;340;South St
-75001-014;Digital Company 055;D;106;+001 750 255-4844;Digital_Company_055@outlook.com;2016-02-14;75001;TX; Dallas;363;10th St
-75001-015;Father And Sons Techno 084;D;106;+001 750 837-9271;Father_And_Sons_Techno_084@outlook.com;2011-04-11;75001;TX; Dallas;371;12th St
-75001-016;Digital Techno 008;C;106;+001 750 451-4212;Digital_Techno_008@gmail.com.br;2016-06-06;75001;TX; Dallas;375;Walnut St
-75001-017;High Tech Company 040;D;106;+001 750 387-1567;High_Tech_Company_040@outlook.com;2020-07-04;75001;TX; Dallas;382;Church St
-75001-018;Alpha S.A 068;B;106;+001 750 657-9434;Alpha_S.A_068@gmail.com.br;2006-05-14;75001;TX; Dallas;387;Chestnut St
-75001-019;Digital Inc. 002;C;106;+001 750 390-9676;Digital_Inc._002@gmail.com.br;2006-10-11;75001;TX; Dallas;42;6th St
-75001-020;Essential Inc. 059;C;106;+001 750 428-6829;Essential_Inc._059@outlook.com;2003-12-27;75001;TX; Dallas;420;Washington St
-75001-021;Genius Store 074;D;106;+001 750 202-8819;Genius_Store_074@gmail.com.br;2020-10-07;75001;TX; Dallas;421;5th St
-75001-022;Technologic Corporation 060;D;106;+001 750 531-8663;Technologic_Corporation_060@gmail.com.br;2003-06-26;75001;TX; Dallas;439;Sunset St
-75001-023;Genius Corporation 071;D;106;+001 750 605-7331;Genius_Corporation_071@outlook.com;2016-02-09;75001;TX; Dallas;456;13th St
-75001-024;Essential World 030;B;106;+001 750 818-8336;Essential_World_030@outlook.com;2014-01-12;75001;TX; Dallas;457;Park St
-75001-025;High Tech S.A 034;B;106;+001 750 517-2750;High_Tech_S.A_034@gmail.com.br;2006-04-18;75001;TX; Dallas;458;Meadow St
-75001-026;Computer Inc. 011;C;106;+001 750 613-3896;Computer_Inc._011@outlook.com;2010-01-28;75001;TX; Dallas;499;4th St
-75001-027;Computer Techno 048;C;106;+001 750 694-9836;Computer_Techno_048@outlook.com;2015-11-06;75001;TX; Dallas;50;11th St
-75001-028;Essential Corporation 099;C;106;+001 750 511-5340;Essential_Corporation_099@outlook.com;2018-06-13;75001;TX; Dallas;511;Highland St
-75001-029;Computer Company 032;D;106;+001 750 691-9357;Computer_Company_032@outlook.com;2015-08-19;75001;TX; Dallas;518;Pine St
-75001-030;Genius Tech 000;D;106;+001 750 823-5474;Genius_Tech_000@outlook.com;2006-06-27;75001;TX; Dallas;526;Wilson St
-75001-031;Father And Sons World 073;D;106;+001 750 955-3643;Father_And_Sons_World_073@outlook.com;2018-09-06;75001;TX; Dallas;527;Hickory St
-75001-032;Alpha Inc. 010;D;106;+001 750 560-6058;Alpha_Inc._010@outlook.com;2017-11-12;75001;TX; Dallas;547;Hickory St
-75001-033;Beta Corporation 008;D;106;+001 750 606-6936;Beta_Corporation_008@outlook.com;2005-11-10;75001;TX; Dallas;548;Jackson St
-75001-034;Father And Sons Tech 030;C;106;+001 750 881-2366;Father_And_Sons_Tech_030@outlook.com;2020-05-20;75001;TX; Dallas;556;Spruce St
-75001-035;Beta World 031;D;106;+001 750 374-6292;Beta_World_031@gmail.com.br;2016-01-30;75001;TX; Dallas;57;Maple St
-75001-036;Alpha Store 090;D;106;+001 750 407-3784;Alpha_Store_090@outlook.com;2012-09-17;75001;TX; Dallas;581;12th St
-75001-037;Genius Corporation 051;C;106;+001 750 393-9387;Genius_Corporation_051@gmail.com.br;2010-05-03;75001;TX; Dallas;597;Cherry St
-75001-038;High Tech Electronics 084;D;106;+001 750 133-4475;High_Tech_Electronics_084@gmail.com.br;2002-11-13;75001;TX; Dallas;61;Jackson St
-75001-039;High Tech Electronics 019;A;106;+001 750 159-6074;High_Tech_Electronics_019@outlook.com;2010-02-08;75001;TX; Dallas;619;North St
-75001-040;Digital Tech 026;D;106;+001 750 391-9213;Digital_Tech_026@gmail.com.br;2010-03-29;75001;TX; Dallas;621;Adams St
-75001-041;High Tech World 038;D;106;+001 750 498-9251;High_Tech_World_038@outlook.com;2009-08-06;75001;TX; Dallas;63;Sunset St
-75001-042;Essential Store 000;B;106;+001 750 367-4490;Essential_Store_000@gmail.com.br;2000-06-09;75001;TX; Dallas;650;Chestnut St
-75001-043;Genius Store 012;D;106;+001 750 117-9623;Genius_Store_012@outlook.com;2005-12-24;75001;TX; Dallas;695;Jackson St
-75001-044;Beta Corporation 046;A;106;+001 750 550-6503;Beta_Corporation_046@outlook.com;2015-11-04;75001;TX; Dallas;700;2nd St
-75001-045;Technologic Solutions 006;D;106;+001 750 179-6589;Technologic_Solutions_006@gmail.com.br;2009-05-07;75001;TX; Dallas;702;Lakeview St
-75001-046;Digital Company 048;C;106;+001 750 400-8409;Digital_Company_048@gmail.com.br;2007-05-13;75001;TX; Dallas;713;7th St
-75001-047;Digital Corporation 091;B;106;+001 750 558-7045;Digital_Corporation_091@gmail.com.br;2000-11-05;75001;TX; Dallas;749;Lakeview St
-75001-048;High Tech Corporation 005;C;106;+001 750 326-7679;High_Tech_Corporation_005@outlook.com;2006-04-14;75001;TX; Dallas;778;Hill St
-75001-049;Alpha Store 077;D;106;+001 750 813-5810;Alpha_Store_077@outlook.com;2009-08-02;75001;TX; Dallas;781;11th St
-75001-050;Technologic Corporation 020;C;106;+001 750 945-6719;Technologic_Corporation_020@outlook.com;2014-02-14;75001;TX; Dallas;796;River St
-75001-051;Computer World 065;C;106;+001 750 843-7531;Computer_World_065@outlook.com;2020-08-10;75001;TX; Dallas;797;South St
-75001-052;Genius Company 018;B;106;+001 750 424-5582;Genius_Company_018@outlook.com;2017-12-18;75001;TX; Dallas;810;Sunset St
-75001-053;Essential S.A 073;D;106;+001 750 349-2291;Essential_S.A_073@outlook.com;2014-02-08;75001;TX; Dallas;819;West St
-75001-054;Computer Inc. 096;D;106;+001 750 529-4284;Computer_Inc._096@outlook.com;2005-03-13;75001;TX; Dallas;838;Cherry St
-75001-055;Beta Techno 080;D;106;+001 750 291-5458;Beta_Techno_080@gmail.com.br;2017-07-05;75001;TX; Dallas;848;Pine St
-75001-056;Computer Store 062;C;106;+001 750 617-2713;Computer_Store_062@gmail.com.br;2019-05-23;75001;TX; Dallas;854;Center St
-75001-057;High Tech World 041;D;106;+001 750 497-5119;High_Tech_World_041@outlook.com;2018-10-12;75001;TX; Dallas;862;Highland St
-75001-058;Technologic World 010;D;106;+001 750 350-2661;Technologic_World_010@outlook.com;2011-01-08;75001;TX; Dallas;868;Jackson St
-75001-059;Genius Store 060;D;106;+001 750 893-1508;Genius_Store_060@gmail.com.br;2000-12-27;75001;TX; Dallas;876;Spruce St
-75001-060;Alpha Electronics 072;B;106;+001 750 491-6092;Alpha_Electronics_072@outlook.com;2000-07-13;75001;TX; Dallas;885;6th St
-75001-061;Beta Company 004;A;106;+001 750 279-8542;Beta_Company_004@outlook.com;2000-02-10;75001;TX; Dallas;901;Spruce St
-75001-062;Technologic World 019;D;106;+001 750 124-9975;Technologic_World_019@outlook.com;2002-04-11;75001;TX; Dallas;918;2nd St
-75001-063;Genius Corporation 087;D;106;+001 750 596-7337;Genius_Corporation_087@outlook.com;2010-12-21;75001;TX; Dallas;940;Jefferson St
-75001-064;Computer World 035;B;106;+001 750 878-8396;Computer_World_035@outlook.com;2011-04-22;75001;TX; Dallas;941;13th St
-75001-065;Beta Inc. 027;C;106;+001 750 164-7029;Beta_Inc._027@outlook.com;2013-01-12;75001;TX; Dallas;948;Center St
-75001-066;Beta Electronics 045;D;106;+001 750 978-4852;Beta_Electronics_045@outlook.com;2015-07-18;75001;TX; Dallas;953;Lincoln St
-75001-067;High Tech World 046;D;106;+001 750 928-2720;High_Tech_World_046@outlook.com;2017-11-24;75001;TX; Dallas;956;Pine St
-75001-068;High Tech Store 072;B;106;+001 750 155-2341;High_Tech_Store_072@outlook.com;2009-02-25;75001;TX; Dallas;958;Adams St
-97035-001;Beta Corporation 056;C;107;+001 970 350-2397;Beta_Corporation_056@gmail.com.br;2018-12-16;97035;OR; Portland;115;Lake St
-97035-002;Alpha Inc. 019;D;107;+001 970 600-1883;Alpha_Inc._019@gmail.com.br;2004-10-27;97035;OR; Portland;119;West St
-04101-003;Genius Store 016;C;108;+001 041 480-1519;Genius_Store_016@outlook.com;2020-08-24;04101;ME; Portland;165;Wilson St
-97035-004;Technologic Company 080;C;107;+001 970 608-4435;Technologic_Company_080@outlook.com;2015-06-11;97035;OR; Portland;179;Main St
-97035-005;Father And Sons S.A 078;C;107;+001 970 768-9773;Father_And_Sons_S.A_078@outlook.com;2003-12-24;97035;OR; Portland;203;West St
-97035-006;High Tech Tech 077;C;107;+001 970 918-2889;High_Tech_Tech_077@outlook.com;2005-02-03;97035;OR; Portland;286;13th St
-97035-007;Beta Techno 097;D;107;+001 970 484-6540;Beta_Techno_097@gmail.com.br;2000-09-09;97035;OR; Portland;329;4th St
-97035-008;Beta World 036;D;107;+001 970 222-5816;Beta_World_036@outlook.com;2014-05-09;97035;OR; Portland;387;12th St
-97035-009;Father And Sons Techno 037;C;107;+001 970 728-6138;Father_And_Sons_Techno_037@outlook.com;2020-03-19;97035;OR; Portland;398;North St
-97035-010;Alpha Electronics 024;B;107;+001 970 573-5147;Alpha_Electronics_024@gmail.com.br;2007-11-05;97035;OR; Portland;417;Chestnut St
-04101-011;Digital Inc. 046;D;108;+001 041 547-7478;Digital_Inc._046@gmail.com.br;2002-05-09;04101;ME; Portland;447;1st St
-97035-012;Digital Electronics 052;C;107;+001 970 188-7053;Digital_Electronics_052@outlook.com;2020-05-02;97035;OR; Portland;580;Ridge St
-97035-013;Computer Inc. 040;B;107;+001 970 400-3602;Computer_Inc._040@outlook.com;2007-09-19;97035;OR; Portland;646;9th St
-97035-014;Alpha Corporation 083;C;107;+001 970 727-6110;Alpha_Corporation_083@outlook.com;2017-01-29;97035;OR; Portland;667;13th St
-97035-015;Alpha Store 072;D;107;+001 970 673-3782;Alpha_Store_072@gmail.com.br;2006-04-04;97035;OR; Portland;711;Cedar St
-97035-016;Computer Corporation 048;D;107;+001 970 144-9157;Computer_Corporation_048@outlook.com;2006-10-04;97035;OR; Portland;723;North St
-97035-017;Beta S.A 093;D;107;+001 970 370-1909;Beta_S.A_093@outlook.com;2013-08-15;97035;OR; Portland;75;12th St
-97035-018;Digital Electronics 024;D;107;+001 970 129-5177;Digital_Electronics_024@gmail.com.br;2012-07-15;97035;OR; Portland;755;Willow St
-04101-019;Essential Inc. 064;D;108;+001 041 355-9611;Essential_Inc._064@outlook.com;2020-07-26;04101;ME; Portland;773;Main St
-97035-020;Technologic Inc. 041;C;107;+001 970 959-1787;Technologic_Inc._041@outlook.com;2004-09-28;97035;OR; Portland;796;Madison St
-97035-021;Essential Techno 058;D;107;+001 970 789-2278;Essential_Techno_058@outlook.com;2015-03-14;97035;OR; Portland;818;1st St
-04101-022;Father And Sons Inc. 009;D;108;+001 041 735-1172;Father_And_Sons_Inc._009@outlook.com;2000-11-24;04101;ME; Portland;840;Forest St
-04101-023;Alpha Tech 100;B;108;+001 041 992-9520;Alpha_Tech_100@outlook.com;2020-03-24;04101;ME; Portland;853;Cedar St
-97035-024;Genius Solutions 036;D;107;+001 970 522-1648;Genius_Solutions_036@gmail.com.br;2001-11-29;97035;OR; Portland;89;Jefferson St
-97035-025;Genius Inc. 054;B;107;+001 970 985-9697;Genius_Inc._054@gmail.com.br;2000-05-12;97035;OR; Portland;906;Hickory St
-97035-026;Alpha Company 089;D;107;+001 970 241-8821;Alpha_Company_089@outlook.com;2004-06-22;97035;OR; Portland;915;10th St
-97035-027;Beta Inc. 045;C;107;+001 970 279-7682;Beta_Inc._045@gmail.com.br;2019-09-20;97035;OR; Portland;921;6th St
-97035-028;Essential Corporation 058;D;107;+001 970 568-4077;Essential_Corporation_058@outlook.com;2015-06-22;97035;OR; Portland;953;5th St
-97035-029;High Tech Store 098;D;107;+001 970 208-8190;High_Tech_Store_098@outlook.com;2006-10-21;97035;OR; Portland;979;Wilson St
-02215-001;Essential Inc. 053;D;109;+001 022 618-6684;Essential_Inc._053@outlook.com;2019-11-07;02215;MA; Boston;131;1st St
-02215-002;Father And Sons Solutions 008;B;109;+001 022 349-7301;Father_And_Sons_Solutions_008@outlook.com;2000-10-25;02215;MA; Boston;139;Dogwood St
-02215-003;Technologic Company 098;B;109;+001 022 793-1272;Technologic_Company_098@outlook.com;2007-09-21;02215;MA; Boston;146;Cherry St
-02215-004;Alpha Corporation 079;C;109;+001 022 860-9963;Alpha_Corporation_079@outlook.com;2005-12-20;02215;MA; Boston;159;Cherry St
-02215-005;Computer Electronics 094;B;109;+001 022 660-6416;Computer_Electronics_094@outlook.com;2014-11-19;02215;MA; Boston;169;Hill St
-02215-006;Alpha Inc. 032;A;109;+001 022 728-3714;Alpha_Inc._032@outlook.com;2012-07-30;02215;MA; Boston;257;Sunset St
-02215-007;Beta S.A 019;C;109;+001 022 150-2444;Beta_S.A_019@outlook.com;2012-01-17;02215;MA; Boston;28;Forest St
-02215-008;High Tech World 051;D;109;+001 022 525-5904;High_Tech_World_051@outlook.com;2017-07-01;02215;MA; Boston;295;Washington St
-02215-009;Technologic Solutions 019;D;109;+001 022 754-5165;Technologic_Solutions_019@outlook.com;2010-06-03;02215;MA; Boston;304;1st St
-02215-010;Essential Electronics 062;D;109;+001 022 967-1118;Essential_Electronics_062@gmail.com.br;2016-05-09;02215;MA; Boston;320;Lincoln St
-02215-011;High Tech Inc. 018;C;109;+001 022 459-3840;High_Tech_Inc._018@outlook.com;2020-01-23;02215;MA; Boston;351;Adams St
-02215-012;Technologic Store 014;D;109;+001 022 256-9948;Technologic_Store_014@outlook.com;2003-11-30;02215;MA; Boston;359;North St
-02215-013;Computer Tech 063;C;109;+001 022 529-5710;Computer_Tech_063@gmail.com.br;2008-05-09;02215;MA; Boston;378;Hickory St
-02215-014;Genius Electronics 029;A;109;+001 022 148-4520;Genius_Electronics_029@outlook.com;2017-01-06;02215;MA; Boston;382;Main St
-02215-015;Alpha Electronics 066;D;109;+001 022 634-4356;Alpha_Electronics_066@outlook.com;2019-04-30;02215;MA; Boston;390;Washington St
-02215-016;Essential Techno 063;C;109;+001 022 941-4908;Essential_Techno_063@outlook.com;2006-02-11;02215;MA; Boston;413;Walnut St
-02215-017;Essential Tech 041;D;109;+001 022 628-8331;Essential_Tech_041@gmail.com.br;2005-08-07;02215;MA; Boston;422;Washington St
-02215-018;Computer World 071;B;109;+001 022 208-7330;Computer_World_071@outlook.com;2012-02-27;02215;MA; Boston;449;Pine St
-02215-019;Computer Techno 086;D;109;+001 022 603-2506;Computer_Techno_086@outlook.com;2008-01-22;02215;MA; Boston;459;13th St
-02215-020;Digital Techno 094;C;109;+001 022 262-9452;Digital_Techno_094@outlook.com;2005-03-03;02215;MA; Boston;460;Wilson St
-02215-021;Digital Inc. 007;D;109;+001 022 119-4850;Digital_Inc._007@outlook.com;2001-11-22;02215;MA; Boston;536;South St
-02215-022;Genius Corporation 014;D;109;+001 022 952-1537;Genius_Corporation_014@outlook.com;2008-06-01;02215;MA; Boston;54;River St
-02215-023;Father And Sons Tech 080;D;109;+001 022 208-6020;Father_And_Sons_Tech_080@outlook.com;2008-08-27;02215;MA; Boston;631;4th St
-02215-024;Essential Electronics 075;D;109;+001 022 650-6269;Essential_Electronics_075@outlook.com;2016-04-17;02215;MA; Boston;676;South St
-02215-025;Technologic Company 004;C;109;+001 022 881-9017;Technologic_Company_004@outlook.com;2011-03-20;02215;MA; Boston;683;Maple St
-02215-026;Alpha Electronics 052;C;109;+001 022 597-4606;Alpha_Electronics_052@gmail.com.br;2011-10-29;02215;MA; Boston;701;Park St
-02215-027;Father And Sons Inc. 007;C;109;+001 022 567-5608;Father_And_Sons_Inc._007@outlook.com;2011-05-26;02215;MA; Boston;722;12th St
-02215-028;Genius World 008;D;109;+001 022 525-6637;Genius_World_008@outlook.com;2014-10-13;02215;MA; Boston;739;5th St
-02215-029;Beta Corporation 042;D;109;+001 022 188-5931;Beta_Corporation_042@outlook.com;2008-10-29;02215;MA; Boston;746;Cherry St
-02215-030;Digital Inc. 009;D;109;+001 022 269-8435;Digital_Inc._009@outlook.com;2007-05-06;02215;MA; Boston;757;2nd St
-02215-031;Genius World 091;D;109;+001 022 370-3233;Genius_World_091@gmail.com.br;2019-12-14;02215;MA; Boston;762;12th St
-02215-032;Alpha Store 026;D;109;+001 022 521-4577;Alpha_Store_026@outlook.com;2013-06-25;02215;MA; Boston;768;Forest St
-02215-033;Digital Store 082;D;109;+001 022 754-4744;Digital_Store_082@outlook.com;2009-04-19;02215;MA; Boston;779;Sunset St
-02215-034;Essential Inc. 066;A;109;+001 022 565-1046;Essential_Inc._066@outlook.com;2005-09-16;02215;MA; Boston;79;Madison St
-02215-035;High Tech World 056;B;109;+001 022 350-8594;High_Tech_World_056@gmail.com.br;2002-05-11;02215;MA; Boston;797;Center St
-02215-036;Technologic Techno 007;C;109;+001 022 224-4616;Technologic_Techno_007@outlook.com;2005-12-08;02215;MA; Boston;804;Sunset St
-02215-037;Digital S.A 049;C;109;+001 022 192-5168;Digital_S.A_049@gmail.com.br;2009-09-25;02215;MA; Boston;816;Lake St
-02215-038;Technologic Electronics 083;D;109;+001 022 900-6238;Technologic_Electronics_083@outlook.com;2010-08-02;02215;MA; Boston;816;North St
-02215-039;Genius Corporation 061;C;109;+001 022 508-7079;Genius_Corporation_061@outlook.com;2016-03-22;02215;MA; Boston;818;Wilson St
-02215-040;Essential Inc. 040;D;109;+001 022 380-3349;Essential_Inc._040@outlook.com;2012-03-30;02215;MA; Boston;84;Adams St
-02215-041;Technologic Electronics 012;D;109;+001 022 887-9856;Technologic_Electronics_012@gmail.com.br;2018-10-03;02215;MA; Boston;845;Dogwood St
-02215-042;Alpha Solutions 008;D;109;+001 022 232-7214;Alpha_Solutions_008@outlook.com;2009-01-13;02215;MA; Boston;849;Main St
-02215-043;Essential Company 029;C;109;+001 022 393-5710;Essential_Company_029@outlook.com;2019-08-01;02215;MA; Boston;877;Meadow St
-02215-044;High Tech Inc. 071;D;109;+001 022 904-9789;High_Tech_Inc._071@outlook.com;2013-08-01;02215;MA; Boston;985;10th St
-98101-001;Genius Inc. 098;A;110;+001 981 583-4750;Genius_Inc._098@outlook.com;2007-03-14;98101;WA; Seattle;108;Lake St
-98101-002;Technologic S.A 018;C;110;+001 981 725-1279;Technologic_S.A_018@outlook.com;2004-12-16;98101;WA; Seattle;108;North St
-98101-003;Alpha Electronics 055;C;110;+001 981 677-7854;Alpha_Electronics_055@outlook.com;2014-08-11;98101;WA; Seattle;118;Church St
-98101-004;Beta S.A 056;C;110;+001 981 865-3074;Beta_S.A_056@gmail.com.br;2019-12-21;98101;WA; Seattle;134;Wilson St
-98101-005;High Tech Company 015;D;110;+001 981 635-3847;High_Tech_Company_015@outlook.com;2019-02-06;98101;WA; Seattle;136;Johnson St
-98101-006;Computer Tech 067;D;110;+001 981 379-2675;Computer_Tech_067@outlook.com;2004-12-15;98101;WA; Seattle;154;Lincoln St
-98101-007;Father And Sons S.A 062;C;110;+001 981 859-3020;Father_And_Sons_S.A_062@outlook.com;2019-05-22;98101;WA; Seattle;17;Madison St
-98101-008;Father And Sons World 028;C;110;+001 981 104-4862;Father_And_Sons_World_028@outlook.com;2002-10-11;98101;WA; Seattle;170;1st St
-98101-009;Father And Sons Company 067;B;110;+001 981 449-7857;Father_And_Sons_Company_067@gmail.com.br;2019-07-02;98101;WA; Seattle;186;Ridge St
-98101-010;Digital Corporation 013;B;110;+001 981 807-8686;Digital_Corporation_013@outlook.com;2020-02-11;98101;WA; Seattle;2;6th St
-98101-011;High Tech Corporation 060;C;110;+001 981 429-7068;High_Tech_Corporation_060@gmail.com.br;2019-06-02;98101;WA; Seattle;20;Hickory St
-98101-012;High Tech Store 092;D;110;+001 981 952-6284;High_Tech_Store_092@gmail.com.br;2007-04-25;98101;WA; Seattle;205;Cedar St
-98101-013;Technologic Inc. 074;D;110;+001 981 881-3546;Technologic_Inc._074@outlook.com;2017-05-09;98101;WA; Seattle;218;Center St
-98101-014;Alpha Inc. 024;C;110;+001 981 717-7039;Alpha_Inc._024@gmail.com.br;2013-10-03;98101;WA; Seattle;223;West St
-98101-015;Alpha Tech 063;D;110;+001 981 651-4401;Alpha_Tech_063@outlook.com;2012-09-13;98101;WA; Seattle;275;Sunset St
-98101-016;Beta S.A 070;B;110;+001 981 830-7081;Beta_S.A_070@outlook.com;2011-05-04;98101;WA; Seattle;286;Elm St
-98101-017;Genius World 023;D;110;+001 981 133-3774;Genius_World_023@outlook.com;2001-12-27;98101;WA; Seattle;3;Jefferson St
-98101-018;Father And Sons Inc. 023;D;110;+001 981 553-3564;Father_And_Sons_Inc._023@gmail.com.br;2002-01-25;98101;WA; Seattle;3;Lincoln St
-98101-019;High Tech Inc. 038;D;110;+001 981 832-8202;High_Tech_Inc._038@outlook.com;2013-06-07;98101;WA; Seattle;322;Adams St
-98101-020;High Tech Tech 046;C;110;+001 981 548-9113;High_Tech_Tech_046@gmail.com.br;2001-03-11;98101;WA; Seattle;334;13th St
-98101-021;Technologic Inc. 044;D;110;+001 981 713-8683;Technologic_Inc._044@outlook.com;2013-09-13;98101;WA; Seattle;339;14th St
-98101-022;Alpha Store 071;D;110;+001 981 429-7359;Alpha_Store_071@outlook.com;2001-03-10;98101;WA; Seattle;355;North St
-98101-023;Beta Corporation 052;D;110;+001 981 630-7049;Beta_Corporation_052@outlook.com;2000-08-11;98101;WA; Seattle;359;Center St
-98101-024;Genius Techno 088;C;110;+001 981 873-9854;Genius_Techno_088@outlook.com;2014-05-19;98101;WA; Seattle;359;Johnson St
-98101-025;Essential Techno 066;C;110;+001 981 917-5143;Essential_Techno_066@gmail.com.br;2002-12-28;98101;WA; Seattle;40;12th St
-98101-026;Alpha World 084;A;110;+001 981 323-2876;Alpha_World_084@outlook.com;2017-08-24;98101;WA; Seattle;404;4th St
-98101-027;Alpha Company 012;B;110;+001 981 561-2092;Alpha_Company_012@gmail.com.br;2001-09-27;98101;WA; Seattle;424;11th St
-98101-028;Father And Sons Company 043;D;110;+001 981 707-6811;Father_And_Sons_Company_043@outlook.com;2014-09-10;98101;WA; Seattle;432;North St
-98101-029;Digital Electronics 065;C;110;+001 981 869-9616;Digital_Electronics_065@gmail.com.br;2020-05-30;98101;WA; Seattle;446;West St
-98101-030;Essential Solutions 022;D;110;+001 981 531-4568;Essential_Solutions_022@outlook.com;2017-09-06;98101;WA; Seattle;467;7th St
-98101-031;Beta Techno 045;A;110;+001 981 395-8027;Beta_Techno_045@gmail.com.br;2002-03-13;98101;WA; Seattle;498;Cedar St
-98101-032;Essential Solutions 036;C;110;+001 981 127-7438;Essential_Solutions_036@outlook.com;2001-06-23;98101;WA; Seattle;5;Wilson St
-98101-033;Father And Sons S.A 002;D;110;+001 981 260-5840;Father_And_Sons_S.A_002@outlook.com;2009-06-26;98101;WA; Seattle;501;11th St
-98101-034;Essential Store 035;C;110;+001 981 169-7899;Essential_Store_035@outlook.com;2017-07-27;98101;WA; Seattle;513;West St
-98101-035;Digital Corporation 069;D;110;+001 981 976-6716;Digital_Corporation_069@gmail.com.br;2017-08-07;98101;WA; Seattle;519;Lake St
-98101-036;High Tech S.A 001;D;110;+001 981 296-9601;High_Tech_S.A_001@outlook.com;2011-05-25;98101;WA; Seattle;52;Walnut St
-98101-037;Computer Store 072;B;110;+001 981 870-6881;Computer_Store_072@outlook.com;2006-08-22;98101;WA; Seattle;531;7th St
-98101-038;Father And Sons Company 012;D;110;+001 981 414-9808;Father_And_Sons_Company_012@outlook.com;2012-08-07;98101;WA; Seattle;538;West St
-98101-039;Computer Company 063;D;110;+001 981 264-5468;Computer_Company_063@outlook.com;2019-05-30;98101;WA; Seattle;552;Lakeview St
-98101-040;Alpha Inc. 003;D;110;+001 981 845-9597;Alpha_Inc._003@outlook.com;2007-11-01;98101;WA; Seattle;552;Walnut St
-98101-041;High Tech Tech 045;B;110;+001 981 832-3320;High_Tech_Tech_045@outlook.com;2000-09-28;98101;WA; Seattle;556;Center St
-98101-042;Alpha Techno 053;D;110;+001 981 639-5451;Alpha_Techno_053@outlook.com;2003-10-10;98101;WA; Seattle;578;Church St
-98101-043;Technologic Inc. 011;D;110;+001 981 954-7302;Technologic_Inc._011@outlook.com;2006-04-28;98101;WA; Seattle;579;Dogwood St
-98101-044;Father And Sons Tech 004;C;110;+001 981 302-1397;Father_And_Sons_Tech_004@outlook.com;2019-05-05;98101;WA; Seattle;58;12th St
-98101-045;Beta World 076;D;110;+001 981 541-6583;Beta_World_076@outlook.com;2001-04-07;98101;WA; Seattle;580;Main St
-98101-046;Father And Sons Solutions 042;B;110;+001 981 558-8406;Father_And_Sons_Solutions_042@gmail.com.br;2001-02-23;98101;WA; Seattle;606;Meadow St
-98101-047;Computer Techno 096;D;110;+001 981 769-3148;Computer_Techno_096@gmail.com.br;2017-04-20;98101;WA; Seattle;64;Lakeview St
-98101-048;Father And Sons Inc. 085;C;110;+001 981 898-1721;Father_And_Sons_Inc._085@outlook.com;2014-09-13;98101;WA; Seattle;674;Lake St
-98101-049;Alpha S.A 042;C;110;+001 981 662-8102;Alpha_S.A_042@outlook.com;2019-08-31;98101;WA; Seattle;711;Willow St
-98101-050;Alpha Solutions 063;D;110;+001 981 232-8798;Alpha_Solutions_063@gmail.com.br;2014-07-06;98101;WA; Seattle;713;Maple St
-98101-051;Digital Solutions 030;D;110;+001 981 768-8367;Digital_Solutions_030@outlook.com;2008-04-21;98101;WA; Seattle;726;Cedar St
-98101-052;Beta Techno 036;D;110;+001 981 733-7015;Beta_Techno_036@gmail.com.br;2014-07-10;98101;WA; Seattle;752;14th St
-98101-053;Essential Store 045;D;110;+001 981 372-1939;Essential_Store_045@gmail.com.br;2008-07-20;98101;WA; Seattle;755;Dogwood St
-98101-054;Digital Techno 040;C;110;+001 981 902-1067;Digital_Techno_040@outlook.com;2016-12-17;98101;WA; Seattle;770;River St
-98101-055;Beta Techno 069;A;110;+001 981 106-3310;Beta_Techno_069@outlook.com;2002-05-25;98101;WA; Seattle;792;Meadow St
-98101-056;Technologic Techno 060;C;110;+001 981 936-3578;Technologic_Techno_060@outlook.com;2001-11-28;98101;WA; Seattle;832;Chestnut St
-98101-057;Alpha World 100;D;110;+001 981 664-4075;Alpha_World_100@outlook.com;2001-02-20;98101;WA; Seattle;836;12th St
-98101-058;Father And Sons Electronics 014;D;110;+001 981 310-2813;Father_And_Sons_Electronics_014@gmail.com.br;2003-06-06;98101;WA; Seattle;843;6th St
-98101-059;Technologic Store 059;D;110;+001 981 389-5370;Technologic_Store_059@outlook.com;2014-07-18;98101;WA; Seattle;847;14th St
-98101-060;Essential S.A 004;C;110;+001 981 141-9085;Essential_S.A_004@outlook.com;2003-09-13;98101;WA; Seattle;849;Hill St
-98101-061;Digital Solutions 075;D;110;+001 981 705-2215;Digital_Solutions_075@gmail.com.br;2010-05-06;98101;WA; Seattle;858;North St
-98101-062;Genius Store 028;D;110;+001 981 493-8377;Genius_Store_028@outlook.com;2010-10-21;98101;WA; Seattle;861;2nd St
-98101-063;Genius Company 019;D;110;+001 981 988-4529;Genius_Company_019@outlook.com;2012-06-19;98101;WA; Seattle;868;Adams St
-98101-064;Father And Sons Electronics 009;D;110;+001 981 940-1157;Father_And_Sons_Electronics_009@outlook.com;2001-06-25;98101;WA; Seattle;881;Cedar St
-98101-065;Computer Company 086;D;110;+001 981 327-5854;Computer_Company_086@outlook.com;2018-10-01;98101;WA; Seattle;888;Highland St
-98101-066;Essential Solutions 019;B;110;+001 981 360-5537;Essential_Solutions_019@outlook.com;2013-05-23;98101;WA; Seattle;890;Elm St
-98101-067;Computer Inc. 001;B;110;+001 981 905-2167;Computer_Inc._001@gmail.com.br;2003-04-02;98101;WA; Seattle;91;7th St
-98101-068;Genius Electronics 050;A;110;+001 981 971-8774;Genius_Electronics_050@outlook.com;2008-01-14;98101;WA; Seattle;919;Dogwood St
-98101-069;Computer Tech 012;D;110;+001 981 888-6536;Computer_Tech_012@outlook.com;2002-10-23;98101;WA; Seattle;943;8th St
-98101-070;Computer Store 001;D;110;+001 981 260-1412;Computer_Store_001@outlook.com;2001-08-22;98101;WA; Seattle;962;13th St
-98101-071;Essential World 074;C;110;+001 981 833-8535;Essential_World_074@outlook.com;2000-04-17;98101;WA; Seattle;969;Lakeview St
-98101-072;Alpha Company 035;D;110;+001 981 841-4502;Alpha_Company_035@outlook.com;2008-10-16;98101;WA; Seattle;978;Wilson St
-98101-073;Computer Solutions 080;A;110;+001 981 744-3799;Computer_Solutions_080@outlook.com;2006-06-03;98101;WA; Seattle;979;Washington St
-98101-074;Technologic Corporation 017;C;110;+001 981 458-1213;Technologic_Corporation_017@outlook.com;2010-04-26;98101;WA; Seattle;980;Highland St
-98101-075;Alpha Solutions 076;B;110;+001 981 715-2977;Alpha_Solutions_076@outlook.com;2014-05-22;98101;WA; Seattle;981;10th St
-98101-076;High Tech Inc. 066;A;110;+001 981 738-7534;High_Tech_Inc._066@gmail.com.br;2009-04-06;98101;WA; Seattle;986;4th St
-98101-077;Technologic S.A 003;D;110;+001 981 839-7683;Technologic_S.A_003@outlook.com;2015-02-18;98101;WA; Seattle;995;Maple St
-98101-078;Technologic Store 002;B;110;+001 981 386-1994;Technologic_Store_002@gmail.com.br;2013-06-23;98101;WA; Seattle;996;West St
-98101-079;Essential Techno 081;C;110;+001 981 541-7209;Essential_Techno_081@outlook.com;2000-11-20;98101;WA; Seattle;999;North St
+ID_client;name;cluster;ID_sector;phone;email;register_date;zipcode;state;city;No;street;visit_day
+10001-001;Alpha Techno 007;A;201;+001 100 561-5021;Alpha_Techno_007@outlook.com;2017-10-02;10001;NY; New York City;102;Pine St;1,0
+10001-002;Father And Sons Solutions 007;C;201;+001 100 405-6475;Father_And_Sons_Solutions_007@outlook.com;2004-07-14;10001;NY; New York City;108;Dogwood St;2,0
+10001-003;Beta Store 016;C;201;+001 100 626-2718;Beta_Store_016@outlook.com;2007-03-24;10001;NY; New York City;125;Sunset St;3,0
+10001-004;Father And Sons S.A 035;D;201;+001 100 259-9496;Father_And_Sons_S.A_035@gmail.com.br;2000-12-15;10001;NY; New York City;126;Spruce St;4,0
+10001-005;Father And Sons Tech 077;C;201;+001 100 763-2128;Father_And_Sons_Tech_077@gmail.com.br;2009-09-05;10001;NY; New York City;147;2nd St;5,0
+10001-006;Technologic Store 091;C;201;+001 100 844-3044;Technologic_Store_091@gmail.com.br;2002-07-21;10001;NY; New York City;173;Walnut St;6,0
+10001-007;Alpha Techno 050;D;201;+001 100 207-8758;Alpha_Techno_050@gmail.com.br;2010-04-01;10001;NY; New York City;184;4th St;7,0
+10001-008;Technologic Solutions 099;B;201;+001 100 331-6473;Technologic_Solutions_099@outlook.com;2002-11-10;10001;NY; New York City;19;Lake St;1,0
+10001-009;Digital Inc. 016;C;201;+001 100 725-9875;Digital_Inc._016@gmail.com.br;2018-09-15;10001;NY; New York City;195;13th St;2,0
+10001-010;Father And Sons World 084;D;201;+001 100 323-9623;Father_And_Sons_World_084@outlook.com;2002-12-17;10001;NY; New York City;206;Lake St;3,0
+10001-011;Essential Tech 081;C;201;+001 100 549-6656;Essential_Tech_081@gmail.com.br;2003-09-11;10001;NY; New York City;211;6th St;4,0
+10001-012;Beta Company 027;D;201;+001 100 368-8883;Beta_Company_027@outlook.com;2015-09-01;10001;NY; New York City;211;Forest St;5,0
+10001-013;Computer Company 051;D;201;+001 100 434-4702;Computer_Company_051@outlook.com;2006-05-20;10001;NY; New York City;222;Church St;6,0
+10001-014;Technologic Store 035;C;201;+001 100 894-7638;Technologic_Store_035@outlook.com;2011-08-10;10001;NY; New York City;227;Johnson St;7,0
+10001-015;Genius World 052;C;201;+001 100 512-9435;Genius_World_052@outlook.com;2020-01-07;10001;NY; New York City;237;Willow St;1,0
+10001-016;High Tech Techno 075;C;201;+001 100 571-8053;High_Tech_Techno_075@outlook.com;2012-07-09;10001;NY; New York City;287;4th St;2,0
+10001-017;Digital S.A 065;D;201;+001 100 548-4463;Digital_S.A_065@outlook.com;2007-04-19;10001;NY; New York City;335;Jackson St;3,0
+10001-018;Essential Techno 010;C;201;+001 100 509-4989;Essential_Techno_010@outlook.com;2004-04-27;10001;NY; New York City;347;Johnson St;4,0
+10001-019;Computer Corporation 048;D;201;+001 100 519-5724;Computer_Corporation_048@outlook.com;2017-08-17;10001;NY; New York City;358;Madison St;5,0
+10001-020;Alpha Store 095;B;201;+001 100 593-3888;Alpha_Store_095@outlook.com;2007-08-24;10001;NY; New York City;380;Cherry St;6,0
+10001-021;Father And Sons Solutions 058;C;201;+001 100 691-2692;Father_And_Sons_Solutions_058@outlook.com;2018-09-02;10001;NY; New York City;392;Madison St;7,0
+10001-022;Alpha Corporation 084;C;201;+001 100 440-8770;Alpha_Corporation_084@outlook.com;2008-08-26;10001;NY; New York City;412;2nd St;1,0
+10001-023;Beta Tech 071;B;201;+001 100 568-9174;Beta_Tech_071@outlook.com;2013-12-09;10001;NY; New York City;426;14th St;2,0
+10001-024;Father And Sons Electronics 005;D;201;+001 100 790-1122;Father_And_Sons_Electronics_005@outlook.com;2014-07-16;10001;NY; New York City;43;Madison St;3,0
+10001-025;Technologic Electronics 082;B;201;+001 100 264-9125;Technologic_Electronics_082@gmail.com.br;2016-10-03;10001;NY; New York City;431;Highland St;4,0
+10001-026;Essential Techno 046;C;201;+001 100 198-2619;Essential_Techno_046@gmail.com.br;2017-06-28;10001;NY; New York City;479;14th St;5,0
+10001-027;Computer Techno 005;A;201;+001 100 443-2234;Computer_Techno_005@outlook.com;2000-02-07;10001;NY; New York City;51;Walnut St;6,0
+10001-028;Genius Solutions 065;D;201;+001 100 334-6558;Genius_Solutions_065@outlook.com;2010-04-09;10001;NY; New York City;516;Hickory St;7,0
+10001-029;Alpha Company 092;C;201;+001 100 647-3318;Alpha_Company_092@outlook.com;2004-12-05;10001;NY; New York City;547;5th St;1,0
+10001-030;Father And Sons Store 006;B;201;+001 100 937-4653;Father_And_Sons_Store_006@outlook.com;2007-01-01;10001;NY; New York City;557;Jackson St;2,0
+10001-031;Computer Tech 039;B;201;+001 100 925-1915;Computer_Tech_039@outlook.com;2013-01-22;10001;NY; New York City;558;Highland St;3,0
+10001-032;Alpha Solutions 054;C;201;+001 100 647-8506;Alpha_Solutions_054@outlook.com;2010-07-31;10001;NY; New York City;571;Dogwood St;4,0
+10001-033;Essential World 088;A;201;+001 100 617-5350;Essential_World_088@outlook.com;2008-11-03;10001;NY; New York City;577;Church St;5,0
+10001-034;Father And Sons Inc. 034;D;201;+001 100 764-9699;Father_And_Sons_Inc._034@outlook.com;2009-11-26;10001;NY; New York City;593;4th St;6,0
+10001-035;Technologic S.A 090;D;201;+001 100 786-7405;Technologic_S.A_090@outlook.com;2017-07-24;10001;NY; New York City;594;Chestnut St;7,0
+10001-036;Alpha Solutions 073;B;201;+001 100 400-4589;Alpha_Solutions_073@outlook.com;2011-03-19;10001;NY; New York City;600;Adams St;1,0
+10001-037;Digital Techno 042;D;201;+001 100 332-2028;Digital_Techno_042@gmail.com.br;2006-01-23;10001;NY; New York City;604;Jackson St;2,0
+10001-038;Essential World 000;D;201;+001 100 912-2503;Essential_World_000@outlook.com;2005-04-15;10001;NY; New York City;617;Sunset St;3,0
+10001-039;High Tech Tech 018;D;201;+001 100 866-4842;High_Tech_Tech_018@outlook.com;2011-09-27;10001;NY; New York City;62;Center St;4,0
+10001-040;Beta S.A 037;C;201;+001 100 419-8008;Beta_S.A_037@gmail.com.br;2007-12-11;10001;NY; New York City;620;Meadow St;5,0
+10001-041;Essential Electronics 071;D;201;+001 100 414-8517;Essential_Electronics_071@gmail.com.br;2001-04-29;10001;NY; New York City;643;Madison St;6,0
+10001-042;Genius Store 039;D;201;+001 100 491-3939;Genius_Store_039@outlook.com;2006-06-08;10001;NY; New York City;654;South St;7,0
+10001-043;Technologic Store 055;C;201;+001 100 918-5722;Technologic_Store_055@outlook.com;2008-08-20;10001;NY; New York City;657;Highland St;1,0
+10001-044;High Tech World 045;D;201;+001 100 278-7815;High_Tech_World_045@gmail.com.br;2011-08-27;10001;NY; New York City;661;Dogwood St;2,0
+10001-045;Essential Solutions 049;D;201;+001 100 603-2450;Essential_Solutions_049@outlook.com;2013-04-01;10001;NY; New York City;70;13th St;3,0
+10001-046;Technologic World 025;C;201;+001 100 816-4804;Technologic_World_025@outlook.com;2005-01-09;10001;NY; New York City;720;Willow St;4,0
+10001-047;Essential Company 077;C;201;+001 100 219-6654;Essential_Company_077@gmail.com.br;2006-07-16;10001;NY; New York City;723;Main St;5,0
+10001-048;Digital S.A 042;D;201;+001 100 225-4726;Digital_S.A_042@outlook.com;2007-07-27;10001;NY; New York City;740;1st St;6,0
+10001-049;Essential Techno 027;B;201;+001 100 506-1649;Essential_Techno_027@outlook.com;2007-10-03;10001;NY; New York City;747;Center St;7,0
+10001-050;Father And Sons Tech 085;C;201;+001 100 650-9682;Father_And_Sons_Tech_085@outlook.com;2019-10-15;10001;NY; New York City;776;14th St;1,0
+10001-051;High Tech Electronics 046;D;201;+001 100 406-5163;High_Tech_Electronics_046@outlook.com;2016-03-31;10001;NY; New York City;80;Cedar St;2,0
+10001-052;High Tech World 008;C;201;+001 100 324-8156;High_Tech_World_008@outlook.com;2013-03-29;10001;NY; New York City;824;Lincoln St;3,0
+10001-053;High Tech World 065;C;201;+001 100 697-1459;High_Tech_World_065@outlook.com;2018-09-20;10001;NY; New York City;829;8th St;4,0
+10001-054;High Tech Corporation 023;D;201;+001 100 580-6062;High_Tech_Corporation_023@outlook.com;2002-02-14;10001;NY; New York City;858;14th St;5,0
+10001-055;Alpha Tech 008;C;201;+001 100 216-7770;Alpha_Tech_008@outlook.com;2014-03-25;10001;NY; New York City;860;Church St;6,0
+10001-056;Technologic S.A 022;C;201;+001 100 332-5449;Technologic_S.A_022@outlook.com;2018-05-07;10001;NY; New York City;880;South St;7,0
+10001-057;Alpha Corporation 029;B;201;+001 100 623-1071;Alpha_Corporation_029@gmail.com.br;2001-09-08;10001;NY; New York City;900;Chestnut St;1,0
+10001-058;Father And Sons World 038;C;201;+001 100 173-7429;Father_And_Sons_World_038@outlook.com;2015-02-08;10001;NY; New York City;914;Park St;2,0
+10001-059;High Tech Solutions 001;D;201;+001 100 339-8093;High_Tech_Solutions_001@outlook.com;2005-02-18;10001;NY; New York City;965;Sunset St;3,0
+10001-060;Genius Tech 040;D;201;+001 100 384-8151;Genius_Tech_040@outlook.com;2008-07-28;10001;NY; New York City;988;Spruce St;4,0
+10001-061;Technologic Solutions 085;D;201;+001 100 714-7022;Technologic_Solutions_085@outlook.com;2009-01-13;10001;NY; New York City;994;Lincoln St;5,0
+10001-062;Digital Corporation 002;D;201;+001 100 184-5950;Digital_Corporation_002@outlook.com;2004-10-22;10001;NY; New York City;994;River St;6,0
+73301-001;Alpha Electronics 009;D;202;+001 733 751-4174;Alpha_Electronics_009@gmail.com.br;2003-12-26;73301;TX; Austin;110;Washington St;1,0
+73301-002;Father And Sons Electronics 021;D;202;+001 733 905-6008;Father_And_Sons_Electronics_021@outlook.com;2000-04-14;73301;TX; Austin;116;Walnut St;2,0
+73301-003;High Tech Solutions 005;B;202;+001 733 148-3051;High_Tech_Solutions_005@outlook.com;2015-06-25;73301;TX; Austin;119;7th St;3,0
+73301-004;Essential Solutions 065;C;202;+001 733 945-9803;Essential_Solutions_065@outlook.com;2002-03-07;73301;TX; Austin;128;Adams St;4,0
+73301-005;Beta Corporation 089;D;202;+001 733 383-4131;Beta_Corporation_089@outlook.com;2002-08-31;73301;TX; Austin;128;Cedar St;5,0
+73301-006;Alpha Inc. 024;D;202;+001 733 582-5265;Alpha_Inc._024@outlook.com;2003-06-08;73301;TX; Austin;128;Church St;6,0
+73301-007;Alpha Techno 004;C;202;+001 733 712-1255;Alpha_Techno_004@outlook.com;2015-02-14;73301;TX; Austin;144;13th St;7,0
+73301-008;Digital S.A 026;D;202;+001 733 994-4617;Digital_S.A_026@outlook.com;2001-04-14;73301;TX; Austin;148;Sunset St;1,0
+73301-009;Beta Inc. 083;D;202;+001 733 852-4053;Beta_Inc._083@outlook.com;2002-06-13;73301;TX; Austin;177;5th St;2,0
+73301-010;Digital Techno 082;C;202;+001 733 852-6185;Digital_Techno_082@outlook.com;2004-03-24;73301;TX; Austin;188;7th St;3,0
+73301-011;Essential Company 095;D;202;+001 733 226-4564;Essential_Company_095@gmail.com.br;2007-12-18;73301;TX; Austin;202;5th St;4,0
+73301-012;Essential World 070;D;202;+001 733 192-1112;Essential_World_070@outlook.com;2011-09-22;73301;TX; Austin;205;10th St;5,0
+73301-013;Technologic Tech 087;C;202;+001 733 501-1627;Technologic_Tech_087@gmail.com.br;2019-11-24;73301;TX; Austin;212;13th St;6,0
+73301-014;Technologic Tech 023;C;202;+001 733 617-3692;Technologic_Tech_023@outlook.com;2020-03-02;73301;TX; Austin;214;Center St;7,0
+73301-015;Father And Sons Techno 043;C;202;+001 733 771-5118;Father_And_Sons_Techno_043@outlook.com;2014-05-14;73301;TX; Austin;228;Cedar St;1,0
+73301-016;Father And Sons Inc. 024;B;202;+001 733 242-2633;Father_And_Sons_Inc._024@outlook.com;2011-06-15;73301;TX; Austin;251;2nd St;2,0
+73301-017;Computer World 088;C;202;+001 733 956-6061;Computer_World_088@gmail.com.br;2015-05-28;73301;TX; Austin;253;Cherry St;3,0
+73301-018;Computer Company 062;D;202;+001 733 701-6407;Computer_Company_062@gmail.com.br;2001-07-16;73301;TX; Austin;256;Washington St;4,0
+73301-019;High Tech Company 004;C;202;+001 733 386-8283;High_Tech_Company_004@outlook.com;2006-03-08;73301;TX; Austin;26;Lincoln St;5,0
+73301-020;Alpha World 098;D;202;+001 733 341-2546;Alpha_World_098@outlook.com;2020-11-11;73301;TX; Austin;263;North St;6,0
+73301-021;Alpha Store 087;D;202;+001 733 392-4370;Alpha_Store_087@outlook.com;2004-11-11;73301;TX; Austin;263;South St;7,0
+73301-022;Genius Corporation 033;B;202;+001 733 536-5671;Genius_Corporation_033@gmail.com.br;2011-10-04;73301;TX; Austin;271;Forest St;1,0
+73301-023;Alpha Techno 018;D;202;+001 733 368-4814;Alpha_Techno_018@outlook.com;2010-11-24;73301;TX; Austin;288;Highland St;2,0
+73301-024;Computer Solutions 088;B;202;+001 733 725-7079;Computer_Solutions_088@outlook.com;2012-05-01;73301;TX; Austin;299;North St;3,0
+73301-025;Computer Corporation 068;C;202;+001 733 688-2240;Computer_Corporation_068@outlook.com;2017-07-05;73301;TX; Austin;312;Sunset St;4,0
+73301-026;Genius Company 080;C;202;+001 733 989-2318;Genius_Company_080@outlook.com;2012-11-23;73301;TX; Austin;344;Lincoln St;5,0
+73301-027;High Tech World 015;C;202;+001 733 549-4603;High_Tech_World_015@outlook.com;2010-08-03;73301;TX; Austin;366;Madison St;6,0
+73301-028;Essential Tech 091;D;202;+001 733 862-4302;Essential_Tech_091@outlook.com;2011-08-23;73301;TX; Austin;386;Wilson St;7,0
+73301-029;Essential Solutions 076;B;202;+001 733 456-1448;Essential_Solutions_076@outlook.com;2003-11-14;73301;TX; Austin;420;Washington St;1,0
+73301-030;Essential Store 079;D;202;+001 733 720-2361;Essential_Store_079@outlook.com;2008-01-24;73301;TX; Austin;431;Spruce St;2,0
+73301-031;High Tech Electronics 026;D;202;+001 733 865-2993;High_Tech_Electronics_026@outlook.com;2003-01-14;73301;TX; Austin;435;Highland St;3,0
+73301-032;Alpha Electronics 029;D;202;+001 733 795-3661;Alpha_Electronics_029@gmail.com.br;2010-09-06;73301;TX; Austin;436;Washington St;4,0
+73301-033;Computer Techno 087;C;202;+001 733 918-7669;Computer_Techno_087@outlook.com;2001-09-24;73301;TX; Austin;439;Adams St;5,0
+73301-034;Digital World 055;B;202;+001 733 688-4853;Digital_World_055@outlook.com;2019-04-05;73301;TX; Austin;45;Hill St;6,0
+73301-035;Essential Solutions 039;D;202;+001 733 257-5265;Essential_Solutions_039@outlook.com;2002-09-17;73301;TX; Austin;450;Washington St;7,0
+73301-036;Technologic World 001;C;202;+001 733 338-1204;Technologic_World_001@outlook.com;2015-11-11;73301;TX; Austin;48;4th St;1,0
+73301-037;Essential Store 047;A;202;+001 733 441-6962;Essential_Store_047@gmail.com.br;2017-07-29;73301;TX; Austin;488;2nd St;2,0
+73301-038;Father And Sons Electronics 069;C;202;+001 733 626-6859;Father_And_Sons_Electronics_069@outlook.com;2014-09-18;73301;TX; Austin;5;11th St;3,0
+73301-039;Genius Tech 046;C;202;+001 733 393-1888;Genius_Tech_046@gmail.com.br;2018-03-10;73301;TX; Austin;505;Spruce St;4,0
+73301-040;High Tech Techno 057;B;202;+001 733 279-7330;High_Tech_Techno_057@outlook.com;2006-07-16;73301;TX; Austin;513;7th St;5,0
+73301-041;Digital Inc. 037;B;202;+001 733 464-1133;Digital_Inc._037@outlook.com;2003-08-12;73301;TX; Austin;522;Adams St;6,0
+73301-042;Computer Solutions 002;B;202;+001 733 575-5706;Computer_Solutions_002@outlook.com;2001-04-12;73301;TX; Austin;527;12th St;7,0
+73301-043;Essential Techno 042;C;202;+001 733 434-7409;Essential_Techno_042@gmail.com.br;2016-09-05;73301;TX; Austin;529;9th St;1,0
+73301-044;High Tech Store 020;A;202;+001 733 431-4574;High_Tech_Store_020@outlook.com;2015-10-27;73301;TX; Austin;530;6th St;2,0
+73301-045;Technologic World 035;B;202;+001 733 890-5554;Technologic_World_035@outlook.com;2020-03-21;73301;TX; Austin;530;Main St;3,0
+73301-046;Beta Corporation 038;B;202;+001 733 980-6902;Beta_Corporation_038@outlook.com;2006-03-28;73301;TX; Austin;547;Madison St;4,0
+73301-047;Digital Company 027;B;202;+001 733 740-8208;Digital_Company_027@gmail.com.br;2020-03-30;73301;TX; Austin;564;Lincoln St;5,0
+73301-048;Digital Inc. 043;C;202;+001 733 331-3707;Digital_Inc._043@outlook.com;2006-11-14;73301;TX; Austin;565;Main St;6,0
+73301-049;Digital Solutions 072;D;202;+001 733 192-3953;Digital_Solutions_072@outlook.com;2013-01-22;73301;TX; Austin;568;2nd St;7,0
+73301-050;Genius Company 082;D;202;+001 733 391-9549;Genius_Company_082@outlook.com;2010-04-02;73301;TX; Austin;578;6th St;1,0
+73301-051;Beta Company 095;D;202;+001 733 734-7333;Beta_Company_095@outlook.com;2009-08-22;73301;TX; Austin;591;North St;2,0
+73301-052;Beta Techno 012;C;202;+001 733 196-2309;Beta_Techno_012@outlook.com;2006-08-06;73301;TX; Austin;595;Ridge St;3,0
+73301-053;Digital Inc. 014;C;202;+001 733 221-5813;Digital_Inc._014@outlook.com;2003-08-18;73301;TX; Austin;60;Adams St;4,0
+73301-054;Technologic Solutions 026;B;202;+001 733 580-9519;Technologic_Solutions_026@outlook.com;2014-12-11;73301;TX; Austin;600;South St;5,0
+73301-055;High Tech Techno 097;C;202;+001 733 474-7531;High_Tech_Techno_097@gmail.com.br;2012-02-23;73301;TX; Austin;605;Dogwood St;6,0
+73301-056;Genius S.A 072;D;202;+001 733 439-1924;Genius_S.A_072@outlook.com;2000-05-01;73301;TX; Austin;609;Highland St;7,0
+73301-057;High Tech Techno 055;C;202;+001 733 422-5309;High_Tech_Techno_055@outlook.com;2010-06-04;73301;TX; Austin;644;Chestnut St;1,0
+73301-058;Genius World 048;D;202;+001 733 276-4113;Genius_World_048@gmail.com.br;2005-10-21;73301;TX; Austin;647;Spruce St;2,0
+73301-059;Technologic S.A 021;C;202;+001 733 545-8572;Technologic_S.A_021@outlook.com;2005-04-09;73301;TX; Austin;661;7th St;3,0
+73301-060;Genius Tech 095;D;202;+001 733 797-6603;Genius_Tech_095@outlook.com;2005-08-30;73301;TX; Austin;671;Church St;4,0
+73301-061;Father And Sons Solutions 038;D;202;+001 733 897-2658;Father_And_Sons_Solutions_038@outlook.com;2006-10-10;73301;TX; Austin;673;5th St;5,0
+73301-062;High Tech Tech 054;C;202;+001 733 875-8059;High_Tech_Tech_054@outlook.com;2020-06-30;73301;TX; Austin;718;12th St;6,0
+73301-063;Father And Sons Store 053;D;202;+001 733 169-8945;Father_And_Sons_Store_053@gmail.com.br;2014-04-19;73301;TX; Austin;726;Forest St;7,0
+73301-064;High Tech Store 015;D;202;+001 733 132-3089;High_Tech_Store_015@gmail.com.br;2005-01-25;73301;TX; Austin;731;2nd St;1,0
+73301-065;Beta S.A 007;C;202;+001 733 411-1894;Beta_S.A_007@outlook.com;2003-07-08;73301;TX; Austin;738;Adams St;2,0
+73301-066;Genius Inc. 057;D;202;+001 733 788-2665;Genius_Inc._057@gmail.com.br;2006-05-14;73301;TX; Austin;759;Spruce St;3,0
+73301-067;Computer Corporation 059;D;202;+001 733 352-7667;Computer_Corporation_059@outlook.com;2006-09-16;73301;TX; Austin;763;Washington St;4,0
+73301-068;Technologic Inc. 065;D;202;+001 733 434-2696;Technologic_Inc._065@outlook.com;2012-10-10;73301;TX; Austin;784;8th St;5,0
+73301-069;Computer World 080;D;202;+001 733 419-8008;Computer_World_080@outlook.com;2006-10-26;73301;TX; Austin;806;11th St;6,0
+73301-070;Beta S.A 047;C;202;+001 733 956-1797;Beta_S.A_047@gmail.com.br;2005-10-01;73301;TX; Austin;811;Ridge St;7,0
+73301-071;Genius Tech 014;B;202;+001 733 871-2328;Genius_Tech_014@outlook.com;2006-03-07;73301;TX; Austin;83;Willow St;1,0
+73301-072;Technologic World 044;D;202;+001 733 492-1182;Technologic_World_044@outlook.com;2013-07-18;73301;TX; Austin;836;Pine St;2,0
+73301-073;High Tech World 071;A;202;+001 733 302-7110;High_Tech_World_071@gmail.com.br;2015-07-23;73301;TX; Austin;842;Highland St;3,0
+73301-074;Technologic World 017;A;202;+001 733 106-2783;Technologic_World_017@gmail.com.br;2019-05-26;73301;TX; Austin;846;South St;4,0
+73301-075;Technologic Company 014;D;202;+001 733 833-5536;Technologic_Company_014@gmail.com.br;2001-03-12;73301;TX; Austin;855;13th St;5,0
+73301-076;Beta S.A 010;D;202;+001 733 233-8014;Beta_S.A_010@outlook.com;2004-08-08;73301;TX; Austin;862;11th St;6,0
+73301-077;Father And Sons S.A 010;D;202;+001 733 277-6147;Father_And_Sons_S.A_010@outlook.com;2020-04-18;73301;TX; Austin;881;Maple St;7,0
+73301-078;Alpha Corporation 028;D;202;+001 733 361-5019;Alpha_Corporation_028@outlook.com;2015-07-13;73301;TX; Austin;904;Walnut St;1,0
+73301-079;Essential Company 090;C;202;+001 733 566-5362;Essential_Company_090@gmail.com.br;2018-03-04;73301;TX; Austin;96;Johnson St;2,0
+73301-080;Alpha Electronics 090;A;202;+001 733 361-8913;Alpha_Electronics_090@gmail.com.br;2012-08-06;73301;TX; Austin;962;Madison St;3,0
+73301-081;High Tech Store 074;D;202;+001 733 158-3856;High_Tech_Store_074@outlook.com;2015-06-07;73301;TX; Austin;998;Adams St;4,0
+73301-082;Technologic Store 054;C;202;+001 733 463-9888;Technologic_Store_054@gmail.com.br;2019-11-27;73301;TX; Austin;998;Sunset St;5,0
+90001-001;Digital Tech 004;D;203;+001 900 855-9307;Digital_Tech_004@outlook.com;2004-08-11;90001;CA; Los Angeles;101;7th St;1,0
+90001-002;High Tech Store 091;A;203;+001 900 795-7195;High_Tech_Store_091@outlook.com;2013-04-21;90001;CA; Los Angeles;120;Lake St;2,0
+90001-003;Beta Company 077;B;203;+001 900 845-6044;Beta_Company_077@gmail.com.br;2009-06-20;90001;CA; Los Angeles;120;Lincoln St;3,0
+90001-004;Technologic Tech 010;D;203;+001 900 290-7931;Technologic_Tech_010@outlook.com;2006-02-13;90001;CA; Los Angeles;17;Cherry St;4,0
+90001-005;Essential Store 019;B;203;+001 900 167-5366;Essential_Store_019@outlook.com;2001-04-10;90001;CA; Los Angeles;185;Elm St;5,0
+90001-006;Computer Company 059;D;203;+001 900 101-9319;Computer_Company_059@gmail.com.br;2017-10-20;90001;CA; Los Angeles;196;Wilson St;6,0
+90001-007;Technologic World 058;B;203;+001 900 953-1303;Technologic_World_058@outlook.com;2007-11-09;90001;CA; Los Angeles;198;2nd St;7,0
+90001-008;Genius Techno 045;B;203;+001 900 750-6167;Genius_Techno_045@gmail.com.br;2002-08-19;90001;CA; Los Angeles;219;Spruce St;1,0
+90001-009;Technologic Company 005;D;203;+001 900 131-8751;Technologic_Company_005@outlook.com;2014-11-22;90001;CA; Los Angeles;234;Willow St;2,0
+90001-010;Computer Corporation 025;D;203;+001 900 107-1845;Computer_Corporation_025@outlook.com;2016-12-04;90001;CA; Los Angeles;268;5th St;3,0
+90001-011;Computer Store 031;D;203;+001 900 461-6978;Computer_Store_031@outlook.com;2006-11-30;90001;CA; Los Angeles;270;9th St;4,0
+90001-012;Technologic Solutions 050;D;203;+001 900 521-5826;Technologic_Solutions_050@outlook.com;2006-02-06;90001;CA; Los Angeles;334;Dogwood St;5,0
+90001-013;Computer Store 067;D;203;+001 900 530-3502;Computer_Store_067@gmail.com.br;2009-03-15;90001;CA; Los Angeles;335;Meadow St;6,0
+90001-014;Computer Company 032;B;203;+001 900 443-6601;Computer_Company_032@outlook.com;2007-10-23;90001;CA; Los Angeles;339;Lincoln St;7,0
+90001-015;Digital World 083;A;203;+001 900 328-7551;Digital_World_083@outlook.com;2014-10-23;90001;CA; Los Angeles;34;South St;1,0
+90001-016;Father And Sons Techno 078;D;203;+001 900 565-2973;Father_And_Sons_Techno_078@gmail.com.br;2020-05-14;90001;CA; Los Angeles;347;South St;2,0
+90001-017;Digital Techno 005;A;203;+001 900 292-2761;Digital_Techno_005@outlook.com;2018-07-06;90001;CA; Los Angeles;354;Pine St;3,0
+90001-018;Genius Techno 060;C;203;+001 900 862-6292;Genius_Techno_060@outlook.com;2013-09-14;90001;CA; Los Angeles;355;Cherry St;4,0
+90001-019;High Tech Corporation 084;C;203;+001 900 533-1272;High_Tech_Corporation_084@outlook.com;2000-10-29;90001;CA; Los Angeles;361;Hill St;5,0
+90001-020;Computer Techno 020;D;203;+001 900 119-5980;Computer_Techno_020@outlook.com;2006-10-14;90001;CA; Los Angeles;434;Jefferson St;6,0
+90001-021;High Tech World 100;B;203;+001 900 932-6780;High_Tech_World_100@outlook.com;2008-04-06;90001;CA; Los Angeles;448;River St;7,0
+90001-022;High Tech Tech 029;D;203;+001 900 780-6669;High_Tech_Tech_029@outlook.com;2011-01-12;90001;CA; Los Angeles;450;Highland St;1,0
+90001-023;Father And Sons World 035;C;203;+001 900 851-4762;Father_And_Sons_World_035@outlook.com;2019-08-04;90001;CA; Los Angeles;452;2nd St;2,0
+90001-024;Genius Inc. 073;C;203;+001 900 333-7717;Genius_Inc._073@outlook.com;2004-06-12;90001;CA; Los Angeles;452;Johnson St;3,0
+90001-025;Essential S.A 090;B;203;+001 900 816-4367;Essential_S.A_090@outlook.com;2006-03-31;90001;CA; Los Angeles;457;Maple St;4,0
+90001-026;High Tech Solutions 091;D;203;+001 900 653-9022;High_Tech_Solutions_091@outlook.com;2012-01-11;90001;CA; Los Angeles;484;Lakeview St;5,0
+90001-027;High Tech S.A 033;D;203;+001 900 627-3697;High_Tech_S.A_033@gmail.com.br;2010-12-06;90001;CA; Los Angeles;486;Jefferson St;6,0
+90001-028;Computer Techno 062;D;203;+001 900 846-4791;Computer_Techno_062@outlook.com;2000-11-01;90001;CA; Los Angeles;523;Park St;7,0
+90001-029;Father And Sons Techno 054;D;203;+001 900 281-7426;Father_And_Sons_Techno_054@gmail.com.br;2018-05-18;90001;CA; Los Angeles;553;Lakeview St;1,0
+90001-030;Computer S.A 012;C;203;+001 900 747-9493;Computer_S.A_012@outlook.com;2020-09-30;90001;CA; Los Angeles;569;Maple St;2,0
+90001-031;Essential Company 007;C;203;+001 900 328-1809;Essential_Company_007@outlook.com;2002-12-01;90001;CA; Los Angeles;571;Center St;3,0
+90001-032;Father And Sons Techno 086;D;203;+001 900 169-8564;Father_And_Sons_Techno_086@gmail.com.br;2004-12-29;90001;CA; Los Angeles;576;Maple St;4,0
+90001-033;Alpha Tech 027;D;203;+001 900 289-2462;Alpha_Tech_027@outlook.com;2006-05-28;90001;CA; Los Angeles;586;13th St;5,0
+90001-034;Alpha Corporation 005;A;203;+001 900 831-1631;Alpha_Corporation_005@outlook.com;2009-06-24;90001;CA; Los Angeles;607;Lake St;6,0
+90001-035;Genius Solutions 045;C;203;+001 900 129-3560;Genius_Solutions_045@outlook.com;2007-10-29;90001;CA; Los Angeles;61;Sunset St;7,0
+90001-036;Genius Tech 050;C;203;+001 900 268-2157;Genius_Tech_050@outlook.com;2015-11-05;90001;CA; Los Angeles;616;North St;1,0
+90001-037;Technologic World 064;C;203;+001 900 961-4638;Technologic_World_064@gmail.com.br;2005-09-10;90001;CA; Los Angeles;621;Ridge St;2,0
+90001-038;Alpha Store 068;D;203;+001 900 813-7956;Alpha_Store_068@gmail.com.br;2013-09-13;90001;CA; Los Angeles;647;Ridge St;3,0
+90001-039;Digital Solutions 077;A;203;+001 900 943-6593;Digital_Solutions_077@outlook.com;2009-02-18;90001;CA; Los Angeles;66;Cedar St;4,0
+90001-040;Beta Tech 067;C;203;+001 900 510-5129;Beta_Tech_067@outlook.com;2011-10-31;90001;CA; Los Angeles;660;9th St;5,0
+90001-041;Computer Techno 037;D;203;+001 900 990-5038;Computer_Techno_037@outlook.com;2010-02-04;90001;CA; Los Angeles;685;7th St;6,0
+90001-042;High Tech S.A 018;D;203;+001 900 263-2640;High_Tech_S.A_018@outlook.com;2007-06-09;90001;CA; Los Angeles;697;8th St;7,0
+90001-043;Digital Store 020;C;203;+001 900 545-1516;Digital_Store_020@gmail.com.br;2007-01-18;90001;CA; Los Angeles;729;10th St;1,0
+90001-044;Digital S.A 066;C;203;+001 900 648-9148;Digital_S.A_066@outlook.com;2009-10-28;90001;CA; Los Angeles;748;Madison St;2,0
+90001-045;Digital Inc. 018;C;203;+001 900 802-7842;Digital_Inc._018@outlook.com;2008-06-17;90001;CA; Los Angeles;749;South St;3,0
+90001-046;Digital S.A 018;D;203;+001 900 595-1569;Digital_S.A_018@outlook.com;2018-11-07;90001;CA; Los Angeles;76;Cedar St;4,0
+90001-047;Digital Tech 057;D;203;+001 900 731-2816;Digital_Tech_057@gmail.com.br;2018-07-07;90001;CA; Los Angeles;780;Lakeview St;5,0
+90001-048;Alpha Electronics 039;C;203;+001 900 541-2224;Alpha_Electronics_039@outlook.com;2003-08-08;90001;CA; Los Angeles;794;Ridge St;6,0
+90001-049;Beta Inc. 009;A;203;+001 900 788-4983;Beta_Inc._009@outlook.com;2013-01-16;90001;CA; Los Angeles;806;Hickory St;7,0
+90001-050;Genius Solutions 061;D;203;+001 900 344-8527;Genius_Solutions_061@outlook.com;2014-07-04;90001;CA; Los Angeles;841;Jefferson St;1,0
+90001-051;Computer Corporation 072;D;203;+001 900 219-9747;Computer_Corporation_072@gmail.com.br;2009-04-24;90001;CA; Los Angeles;845;Walnut St;2,0
+90001-052;Alpha Techno 049;C;203;+001 900 545-2196;Alpha_Techno_049@gmail.com.br;2015-05-30;90001;CA; Los Angeles;847;Cherry St;3,0
+90001-053;Computer Inc. 016;D;203;+001 900 612-8334;Computer_Inc._016@outlook.com;2006-09-06;90001;CA; Los Angeles;862;Sunset St;4,0
+90001-054;Technologic Company 043;D;203;+001 900 842-3968;Technologic_Company_043@outlook.com;2004-07-01;90001;CA; Los Angeles;869;12th St;5,0
+90001-055;Essential Electronics 020;D;203;+001 900 740-2787;Essential_Electronics_020@outlook.com;2018-06-29;90001;CA; Los Angeles;872;Cedar St;6,0
+90001-056;Genius Techno 038;D;203;+001 900 459-3180;Genius_Techno_038@gmail.com.br;2019-07-16;90001;CA; Los Angeles;874;Highland St;7,0
+90001-057;Alpha Solutions 070;D;203;+001 900 910-9763;Alpha_Solutions_070@gmail.com.br;2016-11-08;90001;CA; Los Angeles;886;Willow St;1,0
+90001-058;Essential Company 001;D;203;+001 900 691-5093;Essential_Company_001@gmail.com.br;2006-01-12;90001;CA; Los Angeles;888;Sunset St;2,0
+90001-059;Computer Techno 038;C;203;+001 900 829-6671;Computer_Techno_038@outlook.com;2013-05-25;90001;CA; Los Angeles;897;5th St;3,0
+90001-060;Alpha Tech 005;C;203;+001 900 315-5927;Alpha_Tech_005@outlook.com;2013-08-28;90001;CA; Los Angeles;925;Highland St;4,0
+90001-061;Technologic Corporation 048;D;203;+001 900 772-3129;Technologic_Corporation_048@outlook.com;2005-10-16;90001;CA; Los Angeles;926;14th St;5,0
+90001-062;Essential Tech 021;C;203;+001 900 633-4847;Essential_Tech_021@outlook.com;2004-03-03;90001;CA; Los Angeles;926;Chestnut St;6,0
+90001-063;Digital Electronics 091;D;203;+001 900 165-3872;Digital_Electronics_091@gmail.com.br;2020-08-06;90001;CA; Los Angeles;977;8th St;7,0
+90001-064;Father And Sons Tech 080;C;203;+001 900 190-2778;Father_And_Sons_Tech_080@outlook.com;2013-05-12;90001;CA; Los Angeles;985;Spruce St;1,0
+94016-001;High Tech Corporation 008;C;204;+001 940 509-9233;High_Tech_Corporation_008@outlook.com;2014-05-25;94016;CA; San Francisco;113;Center St;1,0
+94016-002;Digital Techno 001;C;204;+001 940 348-4728;Digital_Techno_001@outlook.com;2020-01-18;94016;CA; San Francisco;12;Madison St;2,0
+94016-003;Beta Inc. 086;B;204;+001 940 681-8719;Beta_Inc._086@outlook.com;2002-11-10;94016;CA; San Francisco;125;12th St;3,0
+94016-004;Beta Corporation 019;B;204;+001 940 486-4894;Beta_Corporation_019@gmail.com.br;2011-05-23;94016;CA; San Francisco;157;Spruce St;4,0
+94016-005;Computer Corporation 097;D;204;+001 940 945-1991;Computer_Corporation_097@outlook.com;2020-02-08;94016;CA; San Francisco;171;9th St;5,0
+94016-006;Computer Electronics 054;A;204;+001 940 657-9604;Computer_Electronics_054@outlook.com;2010-11-16;94016;CA; San Francisco;173;Park St;6,0
+94016-007;Computer Solutions 009;D;204;+001 940 190-1448;Computer_Solutions_009@outlook.com;2015-07-13;94016;CA; San Francisco;173;Willow St;7,0
+94016-008;Genius Tech 024;D;204;+001 940 248-9875;Genius_Tech_024@gmail.com.br;2007-02-11;94016;CA; San Francisco;180;Madison St;1,0
+94016-009;Computer Electronics 001;B;204;+001 940 994-1254;Computer_Electronics_001@outlook.com;2016-06-07;94016;CA; San Francisco;19;13th St;2,0
+94016-010;Genius Techno 017;C;204;+001 940 407-5698;Genius_Techno_017@gmail.com.br;2000-09-16;94016;CA; San Francisco;202;River St;3,0
+94016-011;Father And Sons Inc. 068;D;204;+001 940 994-9945;Father_And_Sons_Inc._068@outlook.com;2001-08-19;94016;CA; San Francisco;209;South St;4,0
+94016-012;Beta S.A 075;D;204;+001 940 437-5884;Beta_S.A_075@outlook.com;2020-11-04;94016;CA; San Francisco;211;Hill St;5,0
+94016-013;Father And Sons Inc. 022;D;204;+001 940 946-1588;Father_And_Sons_Inc._022@outlook.com;2009-08-01;94016;CA; San Francisco;22;Willow St;6,0
+94016-014;Technologic World 020;D;204;+001 940 286-3667;Technologic_World_020@outlook.com;2012-07-16;94016;CA; San Francisco;221;12th St;7,0
+94016-015;Digital Company 057;D;204;+001 940 276-2134;Digital_Company_057@outlook.com;2014-08-16;94016;CA; San Francisco;254;11th St;1,0
+94016-016;Father And Sons Corporation 032;C;204;+001 940 296-2803;Father_And_Sons_Corporation_032@outlook.com;2006-07-13;94016;CA; San Francisco;255;Jefferson St;2,0
+94016-017;Alpha Solutions 029;C;204;+001 940 816-3929;Alpha_Solutions_029@outlook.com;2005-07-10;94016;CA; San Francisco;259;Center St;3,0
+94016-018;Beta World 036;A;204;+001 940 702-9032;Beta_World_036@outlook.com;2018-12-29;94016;CA; San Francisco;266;Washington St;4,0
+94016-019;Computer World 026;D;204;+001 940 128-7146;Computer_World_026@outlook.com;2009-03-10;94016;CA; San Francisco;290;Highland St;5,0
+94016-020;Genius S.A 082;C;204;+001 940 930-7084;Genius_S.A_082@gmail.com.br;2010-06-21;94016;CA; San Francisco;293;River St;6,0
+94016-021;Digital World 051;C;204;+001 940 846-3842;Digital_World_051@gmail.com.br;2020-03-15;94016;CA; San Francisco;299;9th St;7,0
+94016-022;Technologic S.A 043;D;204;+001 940 920-4028;Technologic_S.A_043@outlook.com;2020-04-03;94016;CA; San Francisco;304;Meadow St;1,0
+94016-023;Technologic Company 018;D;204;+001 940 542-1485;Technologic_Company_018@outlook.com;2002-10-28;94016;CA; San Francisco;323;12th St;2,0
+94016-024;Technologic Techno 050;D;204;+001 940 418-1632;Technologic_Techno_050@gmail.com.br;2017-11-24;94016;CA; San Francisco;324;1st St;3,0
+94016-025;Essential Store 087;D;204;+001 940 244-9097;Essential_Store_087@outlook.com;2004-01-16;94016;CA; San Francisco;331;Cedar St;4,0
+94016-026;Genius Store 054;D;204;+001 940 581-4412;Genius_Store_054@gmail.com.br;2010-06-11;94016;CA; San Francisco;334;Highland St;5,0
+94016-027;High Tech Electronics 047;C;204;+001 940 185-9194;High_Tech_Electronics_047@gmail.com.br;2017-04-08;94016;CA; San Francisco;336;Wilson St;6,0
+94016-028;Genius Solutions 011;C;204;+001 940 400-1539;Genius_Solutions_011@gmail.com.br;2013-10-14;94016;CA; San Francisco;339;Main St;7,0
+94016-029;Technologic S.A 004;D;204;+001 940 884-6737;Technologic_S.A_004@outlook.com;2020-03-17;94016;CA; San Francisco;348;Highland St;1,0
+94016-030;Beta Techno 024;D;204;+001 940 836-1019;Beta_Techno_024@gmail.com.br;2012-04-11;94016;CA; San Francisco;351;4th St;2,0
+94016-031;Computer Electronics 025;B;204;+001 940 796-8127;Computer_Electronics_025@outlook.com;2003-12-21;94016;CA; San Francisco;354;8th St;3,0
+94016-032;Essential S.A 070;D;204;+001 940 453-3436;Essential_S.A_070@gmail.com.br;2015-12-13;94016;CA; San Francisco;375;10th St;4,0
+94016-033;Essential Tech 073;D;204;+001 940 106-9542;Essential_Tech_073@outlook.com;2008-01-07;94016;CA; San Francisco;379;Lakeview St;5,0
+94016-034;Beta Solutions 076;A;204;+001 940 454-2085;Beta_Solutions_076@outlook.com;2003-11-05;94016;CA; San Francisco;392;Pine St;6,0
+94016-035;Alpha Company 026;D;204;+001 940 621-7824;Alpha_Company_026@gmail.com.br;2018-06-23;94016;CA; San Francisco;41;12th St;7,0
+94016-036;Father And Sons Techno 010;D;204;+001 940 212-1497;Father_And_Sons_Techno_010@gmail.com.br;2001-05-18;94016;CA; San Francisco;420;Forest St;1,0
+94016-037;High Tech S.A 095;D;204;+001 940 387-7464;High_Tech_S.A_095@outlook.com;2003-06-10;94016;CA; San Francisco;422;5th St;2,0
+94016-038;Digital Company 097;D;204;+001 940 624-9692;Digital_Company_097@outlook.com;2013-04-16;94016;CA; San Francisco;439;Willow St;3,0
+94016-039;Computer World 081;D;204;+001 940 756-3309;Computer_World_081@outlook.com;2003-06-29;94016;CA; San Francisco;448;7th St;4,0
+94016-040;Beta Techno 064;C;204;+001 940 733-9177;Beta_Techno_064@outlook.com;2004-03-08;94016;CA; San Francisco;455;River St;5,0
+94016-041;Alpha Techno 056;C;204;+001 940 805-9299;Alpha_Techno_056@outlook.com;2012-09-11;94016;CA; San Francisco;464;Church St;6,0
+94016-042;Digital Tech 013;C;204;+001 940 483-6318;Digital_Tech_013@outlook.com;2012-01-17;94016;CA; San Francisco;47;Chestnut St;7,0
+94016-043;Computer Store 072;D;204;+001 940 458-6657;Computer_Store_072@outlook.com;2015-06-30;94016;CA; San Francisco;496;Sunset St;1,0
+94016-044;Father And Sons Techno 068;D;204;+001 940 780-8424;Father_And_Sons_Techno_068@gmail.com.br;2020-10-12;94016;CA; San Francisco;512;Wilson St;2,0
+94016-045;Alpha Techno 097;D;204;+001 940 570-1906;Alpha_Techno_097@outlook.com;2009-10-03;94016;CA; San Francisco;518;Jackson St;3,0
+94016-046;Alpha Company 031;C;204;+001 940 220-2805;Alpha_Company_031@outlook.com;2016-10-10;94016;CA; San Francisco;533;11th St;4,0
+94016-047;Beta Company 032;D;204;+001 940 513-9158;Beta_Company_032@gmail.com.br;2016-10-23;94016;CA; San Francisco;55;Highland St;5,0
+94016-048;Father And Sons Company 058;D;204;+001 940 953-8886;Father_And_Sons_Company_058@outlook.com;2016-07-26;94016;CA; San Francisco;590;Main St;6,0
+94016-049;Digital Corporation 077;A;204;+001 940 763-2447;Digital_Corporation_077@outlook.com;2002-04-13;94016;CA; San Francisco;662;Wilson St;7,0
+94016-050;Father And Sons Company 010;C;204;+001 940 729-1496;Father_And_Sons_Company_010@outlook.com;2015-05-29;94016;CA; San Francisco;665;Meadow St;1,0
+94016-051;Digital Electronics 093;C;204;+001 940 760-7864;Digital_Electronics_093@gmail.com.br;2016-02-15;94016;CA; San Francisco;683;11th St;2,0
+94016-052;High Tech Electronics 009;D;204;+001 940 438-5209;High_Tech_Electronics_009@outlook.com;2016-06-14;94016;CA; San Francisco;7;Cherry St;3,0
+94016-053;Beta Electronics 074;D;204;+001 940 702-7982;Beta_Electronics_074@gmail.com.br;2007-05-07;94016;CA; San Francisco;71;Ridge St;4,0
+94016-054;Father And Sons Inc. 028;C;204;+001 940 660-3563;Father_And_Sons_Inc._028@outlook.com;2002-09-04;94016;CA; San Francisco;713;North St;5,0
+94016-055;Alpha Inc. 066;D;204;+001 940 912-2438;Alpha_Inc._066@outlook.com;2020-05-10;94016;CA; San Francisco;738;Johnson St;6,0
+94016-056;Father And Sons Techno 038;C;204;+001 940 512-7410;Father_And_Sons_Techno_038@outlook.com;2005-11-06;94016;CA; San Francisco;757;Dogwood St;7,0
+94016-057;Computer Techno 090;D;204;+001 940 524-6701;Computer_Techno_090@outlook.com;2001-05-29;94016;CA; San Francisco;758;Lakeview St;1,0
+94016-058;Digital Inc. 039;B;204;+001 940 828-3920;Digital_Inc._039@outlook.com;2004-08-17;94016;CA; San Francisco;771;North St;2,0
+94016-059;Beta Company 037;C;204;+001 940 614-2437;Beta_Company_037@outlook.com;2009-03-11;94016;CA; San Francisco;774;Forest St;3,0
+94016-060;Beta Store 006;C;204;+001 940 682-8064;Beta_Store_006@outlook.com;2007-04-03;94016;CA; San Francisco;789;4th St;4,0
+94016-061;Technologic Inc. 006;D;204;+001 940 682-5994;Technologic_Inc._006@outlook.com;2015-12-01;94016;CA; San Francisco;798;Wilson St;5,0
+94016-062;Beta World 082;D;204;+001 940 733-5513;Beta_World_082@outlook.com;2003-01-18;94016;CA; San Francisco;824;Pine St;6,0
+94016-063;Beta Tech 013;C;204;+001 940 972-3977;Beta_Tech_013@outlook.com;2018-08-31;94016;CA; San Francisco;857;South St;7,0
+94016-064;Technologic Techno 037;C;204;+001 940 850-7429;Technologic_Techno_037@outlook.com;2013-04-03;94016;CA; San Francisco;863;Adams St;1,0
+94016-065;Beta World 025;C;204;+001 940 384-8027;Beta_World_025@gmail.com.br;2014-04-23;94016;CA; San Francisco;901;12th St;2,0
+94016-066;Computer Inc. 026;B;204;+001 940 796-6248;Computer_Inc._026@outlook.com;2020-08-19;94016;CA; San Francisco;927;Hill St;3,0
+94016-067;Beta World 024;C;204;+001 940 147-7151;Beta_World_024@outlook.com;2005-01-15;94016;CA; San Francisco;928;West St;4,0
+94016-068;Computer Techno 026;B;204;+001 940 988-9079;Computer_Techno_026@gmail.com.br;2006-04-04;94016;CA; San Francisco;935;Walnut St;5,0
+94016-069;Technologic Electronics 011;D;204;+001 940 578-7263;Technologic_Electronics_011@outlook.com;2010-09-08;94016;CA; San Francisco;951;River St;6,0
+94016-070;Beta Techno 000;C;204;+001 940 396-8385;Beta_Techno_000@outlook.com;2003-09-25;94016;CA; San Francisco;99;1st St;7,0
+94016-071;Digital S.A 017;C;204;+001 940 415-6746;Digital_S.A_017@gmail.com.br;2002-04-27;94016;CA; San Francisco;997;14th St;1,0
+30301-001;High Tech Corporation 049;D;205;+001 303 751-6690;High_Tech_Corporation_049@gmail.com.br;2019-09-20;30301;GA; Atlanta;102;Ridge St;1,0
+30301-002;Technologic World 031;C;205;+001 303 629-4177;Technologic_World_031@outlook.com;2017-01-14;30301;GA; Atlanta;121;Sunset St;2,0
+30301-003;Technologic Inc. 055;D;205;+001 303 583-1171;Technologic_Inc._055@outlook.com;2016-01-16;30301;GA; Atlanta;139;Sunset St;3,0
+30301-004;Beta Electronics 078;C;205;+001 303 432-3250;Beta_Electronics_078@outlook.com;2016-04-27;30301;GA; Atlanta;141;Lincoln St;4,0
+30301-005;Essential Electronics 026;D;205;+001 303 645-4840;Essential_Electronics_026@outlook.com;2001-01-29;30301;GA; Atlanta;157;Lincoln St;5,0
+30301-006;High Tech Corporation 004;D;205;+001 303 888-4236;High_Tech_Corporation_004@gmail.com.br;2001-09-28;30301;GA; Atlanta;165;Washington St;6,0
+30301-007;Genius Electronics 061;B;205;+001 303 696-1699;Genius_Electronics_061@gmail.com.br;2018-02-09;30301;GA; Atlanta;170;12th St;7,0
+30301-008;Father And Sons Corporation 008;C;205;+001 303 107-1464;Father_And_Sons_Corporation_008@outlook.com;2014-05-24;30301;GA; Atlanta;170;Wilson St;1,0
+30301-009;Beta World 073;C;205;+001 303 550-5662;Beta_World_073@outlook.com;2013-04-05;30301;GA; Atlanta;182;14th St;2,0
+30301-010;High Tech World 007;D;205;+001 303 291-5716;High_Tech_World_007@outlook.com;2013-01-31;30301;GA; Atlanta;196;5th St;3,0
+30301-011;High Tech Tech 055;D;205;+001 303 228-1952;High_Tech_Tech_055@gmail.com.br;2006-12-01;30301;GA; Atlanta;199;Park St;4,0
+30301-012;Technologic Corporation 025;D;205;+001 303 305-3628;Technologic_Corporation_025@outlook.com;2018-06-15;30301;GA; Atlanta;20;Lincoln St;5,0
+30301-013;Digital Company 028;D;205;+001 303 878-4669;Digital_Company_028@gmail.com.br;2009-10-27;30301;GA; Atlanta;20;Sunset St;6,0
+30301-014;High Tech Tech 044;D;205;+001 303 543-3697;High_Tech_Tech_044@outlook.com;2015-02-06;30301;GA; Atlanta;200;6th St;7,0
+30301-015;Father And Sons S.A 077;C;205;+001 303 421-5872;Father_And_Sons_S.A_077@outlook.com;2020-09-04;30301;GA; Atlanta;21;8th St;1,0
+30301-016;Father And Sons Tech 034;C;205;+001 303 965-5249;Father_And_Sons_Tech_034@outlook.com;2006-07-18;30301;GA; Atlanta;215;Lakeview St;2,0
+30301-017;Beta Store 036;C;205;+001 303 532-5163;Beta_Store_036@outlook.com;2019-06-21;30301;GA; Atlanta;219;Lake St;3,0
+30301-018;Alpha World 040;A;205;+001 303 931-9012;Alpha_World_040@gmail.com.br;2013-07-11;30301;GA; Atlanta;252;13th St;4,0
+30301-019;Digital World 075;A;205;+001 303 247-6185;Digital_World_075@outlook.com;2013-06-19;30301;GA; Atlanta;253;8th St;5,0
+30301-020;Essential Inc. 077;D;205;+001 303 895-4142;Essential_Inc._077@outlook.com;2006-08-15;30301;GA; Atlanta;287;Center St;6,0
+30301-021;Digital Techno 064;D;205;+001 303 252-3972;Digital_Techno_064@outlook.com;2011-04-20;30301;GA; Atlanta;301;Church St;7,0
+30301-022;Genius Corporation 078;D;205;+001 303 459-7645;Genius_Corporation_078@gmail.com.br;2016-11-27;30301;GA; Atlanta;303;West St;1,0
+30301-023;Essential S.A 038;D;205;+001 303 934-4550;Essential_S.A_038@gmail.com.br;2010-06-28;30301;GA; Atlanta;311;Madison St;2,0
+30301-024;Computer Inc. 075;C;205;+001 303 954-6220;Computer_Inc._075@gmail.com.br;2008-11-26;30301;GA; Atlanta;312;13th St;3,0
+30301-025;Beta Company 067;D;205;+001 303 153-8933;Beta_Company_067@outlook.com;2000-12-14;30301;GA; Atlanta;335;Park St;4,0
+30301-026;Beta Techno 051;D;205;+001 303 870-7614;Beta_Techno_051@gmail.com.br;2006-03-12;30301;GA; Atlanta;337;14th St;5,0
+30301-027;High Tech Tech 091;D;205;+001 303 812-6000;High_Tech_Tech_091@outlook.com;2013-10-22;30301;GA; Atlanta;337;Meadow St;6,0
+30301-028;Digital S.A 088;C;205;+001 303 146-9377;Digital_S.A_088@outlook.com;2019-06-30;30301;GA; Atlanta;350;Spruce St;7,0
+30301-029;Beta Solutions 084;D;205;+001 303 995-5252;Beta_Solutions_084@outlook.com;2010-05-09;30301;GA; Atlanta;389;Lakeview St;1,0
+30301-030;Technologic World 084;D;205;+001 303 315-9085;Technologic_World_084@outlook.com;2013-01-25;30301;GA; Atlanta;392;Hill St;2,0
+30301-031;Digital Solutions 099;D;205;+001 303 647-1815;Digital_Solutions_099@gmail.com.br;2018-08-13;30301;GA; Atlanta;395;7th St;3,0
+30301-032;Alpha Electronics 095;B;205;+001 303 713-6422;Alpha_Electronics_095@outlook.com;2001-07-16;30301;GA; Atlanta;419;6th St;4,0
+30301-033;High Tech Inc. 042;A;205;+001 303 436-3897;High_Tech_Inc._042@outlook.com;2015-05-28;30301;GA; Atlanta;452;10th St;5,0
+30301-034;Technologic Store 006;C;205;+001 303 349-3536;Technologic_Store_006@outlook.com;2001-08-24;30301;GA; Atlanta;458;4th St;6,0
+30301-035;Essential Techno 035;A;205;+001 303 290-2706;Essential_Techno_035@outlook.com;2002-10-01;30301;GA; Atlanta;479;Main St;7,0
+30301-036;Digital Store 002;C;205;+001 303 675-9981;Digital_Store_002@outlook.com;2003-11-29;30301;GA; Atlanta;480;West St;1,0
+30301-037;Essential Inc. 087;C;205;+001 303 502-2639;Essential_Inc._087@gmail.com.br;2015-10-24;30301;GA; Atlanta;488;Ridge St;2,0
+30301-038;Beta Store 028;C;205;+001 303 247-5540;Beta_Store_028@outlook.com;2011-07-13;30301;GA; Atlanta;509;Cherry St;3,0
+30301-039;Beta Store 042;D;205;+001 303 346-8932;Beta_Store_042@outlook.com;2002-05-14;30301;GA; Atlanta;523;Jackson St;4,0
+30301-040;Alpha Tech 010;B;205;+001 303 873-2572;Alpha_Tech_010@outlook.com;2017-07-21;30301;GA; Atlanta;526;Center St;5,0
+30301-041;Father And Sons Electronics 074;D;205;+001 303 895-1447;Father_And_Sons_Electronics_074@outlook.com;2005-03-24;30301;GA; Atlanta;567;Walnut St;6,0
+30301-042;Digital Electronics 026;C;205;+001 303 227-9431;Digital_Electronics_026@gmail.com.br;2006-04-25;30301;GA; Atlanta;582;River St;7,0
+30301-043;High Tech Electronics 064;C;205;+001 303 825-1214;High_Tech_Electronics_064@outlook.com;2011-11-15;30301;GA; Atlanta;584;Madison St;1,0
+30301-044;Digital Tech 095;D;205;+001 303 431-9053;Digital_Tech_095@gmail.com.br;2016-03-27;30301;GA; Atlanta;608;Center St;2,0
+30301-045;Essential Store 053;A;205;+001 303 549-5625;Essential_Store_053@outlook.com;2011-07-31;30301;GA; Atlanta;609;Elm St;3,0
+30301-046;Digital Inc. 024;C;205;+001 303 671-3710;Digital_Inc._024@gmail.com.br;2003-11-25;30301;GA; Atlanta;623;Johnson St;4,0
+30301-047;Father And Sons Techno 097;D;205;+001 303 963-1677;Father_And_Sons_Techno_097@gmail.com.br;2009-10-07;30301;GA; Atlanta;640;8th St;5,0
+30301-048;Technologic World 016;C;205;+001 303 220-5376;Technologic_World_016@gmail.com.br;2000-05-10;30301;GA; Atlanta;641;Cedar St;6,0
+30301-049;High Tech Techno 066;D;205;+001 303 618-1850;High_Tech_Techno_066@outlook.com;2018-08-12;30301;GA; Atlanta;652;Center St;7,0
+30301-050;Digital Techno 069;B;205;+001 303 145-8780;Digital_Techno_069@gmail.com.br;2004-11-29;30301;GA; Atlanta;656;2nd St;1,0
+30301-051;Father And Sons Store 087;C;205;+001 303 771-5276;Father_And_Sons_Store_087@outlook.com;2009-02-14;30301;GA; Atlanta;669;Meadow St;2,0
+30301-052;Technologic Inc. 024;C;205;+001 303 768-8932;Technologic_Inc._024@outlook.com;2014-11-16;30301;GA; Atlanta;670;Sunset St;3,0
+30301-053;Digital Corporation 049;D;205;+001 303 477-2480;Digital_Corporation_049@gmail.com.br;2018-09-30;30301;GA; Atlanta;680;11th St;4,0
+30301-054;Essential World 092;A;205;+001 303 685-3448;Essential_World_092@outlook.com;2004-10-10;30301;GA; Atlanta;698;Elm St;5,0
+30301-055;Technologic Corporation 005;C;205;+001 303 485-9996;Technologic_Corporation_005@outlook.com;2003-08-20;30301;GA; Atlanta;728;Dogwood St;6,0
+30301-056;Technologic Techno 078;D;205;+001 303 756-1589;Technologic_Techno_078@gmail.com.br;2016-04-16;30301;GA; Atlanta;753;Cedar St;7,0
+30301-057;Computer Electronics 073;D;205;+001 303 860-6264;Computer_Electronics_073@outlook.com;2018-11-26;30301;GA; Atlanta;761;Cedar St;1,0
+30301-058;Father And Sons Inc. 000;D;205;+001 303 767-8750;Father_And_Sons_Inc._000@outlook.com;2000-11-24;30301;GA; Atlanta;772;11th St;2,0
+30301-059;Computer Electronics 040;D;205;+001 303 167-2071;Computer_Electronics_040@gmail.com.br;2018-12-31;30301;GA; Atlanta;777;Washington St;3,0
+30301-060;Digital S.A 003;D;205;+001 303 917-9287;Digital_S.A_003@outlook.com;2005-08-31;30301;GA; Atlanta;78;Meadow St;4,0
+30301-061;Computer Solutions 020;D;205;+001 303 183-7201;Computer_Solutions_020@outlook.com;2002-09-14;30301;GA; Atlanta;785;11th St;5,0
+30301-062;Beta World 086;D;205;+001 303 673-7915;Beta_World_086@outlook.com;2009-06-22;30301;GA; Atlanta;798;Sunset St;6,0
+30301-063;Genius Corporation 091;D;205;+001 303 693-2205;Genius_Corporation_091@outlook.com;2007-12-06;30301;GA; Atlanta;798;Washington St;7,0
+30301-064;Alpha S.A 057;C;205;+001 303 303-2704;Alpha_S.A_057@outlook.com;2012-11-21;30301;GA; Atlanta;799;Johnson St;1,0
+30301-065;Alpha Inc. 048;D;205;+001 303 658-9266;Alpha_Inc._048@gmail.com.br;2015-06-07;30301;GA; Atlanta;801;Church St;2,0
+30301-066;Genius Electronics 000;D;205;+001 303 334-3051;Genius_Electronics_000@outlook.com;2006-11-03;30301;GA; Atlanta;811;Johnson St;3,0
+30301-067;Genius Corporation 023;C;205;+001 303 341-7846;Genius_Corporation_023@outlook.com;2001-02-16;30301;GA; Atlanta;814;Dogwood St;4,0
+30301-068;Digital Tech 009;C;205;+001 303 873-4372;Digital_Tech_009@gmail.com.br;2016-07-20;30301;GA; Atlanta;820;Meadow St;5,0
+30301-069;Technologic World 054;D;205;+001 303 356-7000;Technologic_World_054@outlook.com;2019-12-22;30301;GA; Atlanta;837;Washington St;6,0
+30301-070;Computer Solutions 016;B;205;+001 303 536-1036;Computer_Solutions_016@gmail.com.br;2006-12-25;30301;GA; Atlanta;843;River St;7,0
+30301-071;Digital World 062;C;205;+001 303 211-8940;Digital_World_062@outlook.com;2017-03-21;30301;GA; Atlanta;85;13th St;1,0
+30301-072;Essential Inc. 046;B;205;+001 303 544-2828;Essential_Inc._046@outlook.com;2018-10-02;30301;GA; Atlanta;86;Cherry St;2,0
+30301-073;High Tech Store 032;B;205;+001 303 102-2131;High_Tech_Store_032@outlook.com;2000-12-04;30301;GA; Atlanta;866;14th St;3,0
+30301-074;High Tech World 091;D;205;+001 303 115-2050;High_Tech_World_091@outlook.com;2017-12-03;30301;GA; Atlanta;881;8th St;4,0
+30301-075;High Tech Inc. 005;D;205;+001 303 152-5789;High_Tech_Inc._005@outlook.com;2018-02-04;30301;GA; Atlanta;900;Hill St;5,0
+30301-076;Essential S.A 079;D;205;+001 303 398-5774;Essential_S.A_079@gmail.com.br;2003-03-13;30301;GA; Atlanta;915;Main St;6,0
+30301-077;High Tech Company 016;B;205;+001 303 900-6771;High_Tech_Company_016@outlook.com;2020-08-15;30301;GA; Atlanta;927;Maple St;7,0
+30301-078;Technologic Electronics 014;D;205;+001 303 911-3313;Technologic_Electronics_014@gmail.com.br;2020-07-27;30301;GA; Atlanta;930;4th St;1,0
+30301-079;Beta Inc. 100;D;205;+001 303 562-4155;Beta_Inc._100@outlook.com;2019-07-27;30301;GA; Atlanta;941;Washington St;2,0
+30301-080;Digital Corporation 022;D;205;+001 303 775-2040;Digital_Corporation_022@gmail.com.br;2018-07-19;30301;GA; Atlanta;960;Highland St;3,0
+30301-081;High Tech Company 009;C;205;+001 303 977-4436;High_Tech_Company_009@outlook.com;2007-08-29;30301;GA; Atlanta;975;Lakeview St;4,0
+30301-082;High Tech Corporation 014;D;205;+001 303 483-1975;High_Tech_Corporation_014@gmail.com.br;2018-12-06;30301;GA; Atlanta;982;6th St;5,0
+30301-083;Technologic Electronics 086;D;205;+001 303 875-8535;Technologic_Electronics_086@outlook.com;2009-08-18;30301;GA; Atlanta;985;Highland St;6,0
+75001-001;Father And Sons World 067;D;106;+001 750 292-1931;Father_And_Sons_World_067@outlook.com;2019-04-01;75001;TX; Dallas;138;Hill St;1,0
+75001-002;Digital Techno 049;B;106;+001 750 794-7113;Digital_Techno_049@outlook.com;2004-02-15;75001;TX; Dallas;159;Madison St;2,0
+75001-003;Computer Tech 046;A;106;+001 750 335-4341;Computer_Tech_046@outlook.com;2018-12-30;75001;TX; Dallas;162;Lake St;3,0
+75001-004;Genius Corporation 027;D;106;+001 750 819-9818;Genius_Corporation_027@outlook.com;2006-11-20;75001;TX; Dallas;171;13th St;4,0
+75001-005;Technologic Techno 033;A;106;+001 750 712-1649;Technologic_Techno_033@gmail.com.br;2018-09-02;75001;TX; Dallas;172;Cherry St;5,0
+75001-006;Beta World 022;B;106;+001 750 437-5384;Beta_World_022@outlook.com;2018-08-01;75001;TX; Dallas;177;Dogwood St;6,0
+75001-007;Genius World 024;D;106;+001 750 404-8458;Genius_World_024@outlook.com;2000-03-03;75001;TX; Dallas;183;Hickory St;7,0
+75001-008;Genius Tech 039;D;106;+001 750 766-6671;Genius_Tech_039@outlook.com;2000-04-28;75001;TX; Dallas;198;12th St;1,0
+75001-009;Technologic Inc. 085;B;106;+001 750 991-1702;Technologic_Inc._085@outlook.com;2017-07-13;75001;TX; Dallas;204;Pine St;2,0
+75001-010;Beta Electronics 014;D;106;+001 750 626-3446;Beta_Electronics_014@gmail.com.br;2018-07-07;75001;TX; Dallas;207;Spruce St;3,0
+75001-011;Technologic Store 057;D;106;+001 750 768-1387;Technologic_Store_057@outlook.com;2014-08-18;75001;TX; Dallas;22;Maple St;4,0
+75001-012;Alpha Tech 067;D;106;+001 750 750-4402;Alpha_Tech_067@outlook.com;2000-11-19;75001;TX; Dallas;228;Dogwood St;5,0
+75001-013;Computer Techno 051;B;106;+001 750 193-5254;Computer_Techno_051@outlook.com;2005-04-21;75001;TX; Dallas;229;Walnut St;6,0
+75001-014;Beta Tech 062;C;106;+001 750 265-4896;Beta_Tech_062@outlook.com;2020-10-25;75001;TX; Dallas;246;4th St;7,0
+75001-015;Alpha S.A 087;C;106;+001 750 350-2329;Alpha_S.A_087@outlook.com;2012-06-19;75001;TX; Dallas;253;Maple St;1,0
+75001-016;Genius Corporation 087;D;106;+001 750 574-8060;Genius_Corporation_087@outlook.com;2020-05-24;75001;TX; Dallas;257;West St;2,0
+75001-017;High Tech Company 049;C;106;+001 750 897-2353;High_Tech_Company_049@gmail.com.br;2000-05-27;75001;TX; Dallas;258;Lakeview St;3,0
+75001-018;Alpha Store 015;D;106;+001 750 570-3172;Alpha_Store_015@outlook.com;2004-04-08;75001;TX; Dallas;259;7th St;4,0
+75001-019;Technologic Store 098;A;106;+001 750 736-5293;Technologic_Store_098@gmail.com.br;2005-02-16;75001;TX; Dallas;272;10th St;5,0
+75001-020;Father And Sons Techno 009;C;106;+001 750 612-9143;Father_And_Sons_Techno_009@outlook.com;2007-06-17;75001;TX; Dallas;277;5th St;6,0
+75001-021;Digital Inc. 095;D;106;+001 750 713-8532;Digital_Inc._095@outlook.com;2004-04-02;75001;TX; Dallas;28;Main St;7,0
+75001-022;Digital World 032;D;106;+001 750 537-6518;Digital_World_032@outlook.com;2006-07-08;75001;TX; Dallas;285;2nd St;1,0
+75001-023;Digital S.A 080;D;106;+001 750 249-4655;Digital_S.A_080@outlook.com;2005-03-10;75001;TX; Dallas;286;5th St;2,0
+75001-024;Technologic Tech 015;C;106;+001 750 339-9236;Technologic_Tech_015@outlook.com;2007-05-04;75001;TX; Dallas;287;Hickory St;3,0
+75001-025;Digital World 010;C;106;+001 750 609-3788;Digital_World_010@outlook.com;2001-08-10;75001;TX; Dallas;298;9th St;4,0
+75001-026;Beta Inc. 058;A;106;+001 750 670-3830;Beta_Inc._058@outlook.com;2007-10-21;75001;TX; Dallas;303;2nd St;5,0
+75001-027;High Tech World 075;D;106;+001 750 751-9126;High_Tech_World_075@gmail.com.br;2005-10-27;75001;TX; Dallas;304;Johnson St;6,0
+75001-028;Computer S.A 092;C;106;+001 750 769-8776;Computer_S.A_092@outlook.com;2006-02-09;75001;TX; Dallas;308;12th St;7,0
+75001-029;Technologic World 055;B;106;+001 750 711-6580;Technologic_World_055@outlook.com;2000-08-30;75001;TX; Dallas;311;Park St;1,0
+75001-030;Essential Tech 075;C;106;+001 750 607-8751;Essential_Tech_075@outlook.com;2002-08-05;75001;TX; Dallas;329;North St;2,0
+75001-031;Father And Sons Electronics 036;D;106;+001 750 873-1943;Father_And_Sons_Electronics_036@gmail.com.br;2011-01-23;75001;TX; Dallas;336;Meadow St;3,0
+75001-032;Genius Solutions 087;D;106;+001 750 446-4185;Genius_Solutions_087@gmail.com.br;2014-04-28;75001;TX; Dallas;341;River St;4,0
+75001-033;Father And Sons Electronics 087;D;106;+001 750 851-8882;Father_And_Sons_Electronics_087@outlook.com;2010-07-27;75001;TX; Dallas;348;14th St;5,0
+75001-034;Essential Tech 003;C;106;+001 750 515-9873;Essential_Tech_003@outlook.com;2019-05-17;75001;TX; Dallas;358;Maple St;6,0
+75001-035;Essential Electronics 054;D;106;+001 750 916-9178;Essential_Electronics_054@outlook.com;2011-07-08;75001;TX; Dallas;360;7th St;7,0
+75001-036;High Tech Techno 010;D;106;+001 750 881-5815;High_Tech_Techno_010@gmail.com.br;2002-05-07;75001;TX; Dallas;373;Willow St;1,0
+75001-037;Digital Inc. 010;C;106;+001 750 390-6629;Digital_Inc._010@gmail.com.br;2000-09-28;75001;TX; Dallas;38;2nd St;2,0
+75001-038;Digital Store 060;C;106;+001 750 411-1720;Digital_Store_060@gmail.com.br;2008-05-23;75001;TX; Dallas;397;Forest St;3,0
+75001-039;Technologic Tech 001;D;106;+001 750 863-7589;Technologic_Tech_001@outlook.com;2012-08-02;75001;TX; Dallas;403;6th St;4,0
+75001-040;Digital Inc. 057;C;106;+001 750 988-4144;Digital_Inc._057@outlook.com;2004-02-08;75001;TX; Dallas;406;Jackson St;5,0
+75001-041;High Tech Corporation 002;D;106;+001 750 677-9479;High_Tech_Corporation_002@gmail.com.br;2015-03-20;75001;TX; Dallas;41;Sunset St;6,0
+75001-042;Beta Corporation 000;D;106;+001 750 340-1263;Beta_Corporation_000@outlook.com;2004-12-24;75001;TX; Dallas;425;Spruce St;7,0
+75001-043;Genius Techno 003;B;106;+001 750 260-5196;Genius_Techno_003@gmail.com.br;2020-02-09;75001;TX; Dallas;428;Elm St;1,0
+75001-044;Essential S.A 095;D;106;+001 750 506-6189;Essential_S.A_095@outlook.com;2020-09-27;75001;TX; Dallas;450;10th St;2,0
+75001-045;Alpha Electronics 002;D;106;+001 750 442-5560;Alpha_Electronics_002@outlook.com;2002-04-14;75001;TX; Dallas;471;Church St;3,0
+75001-046;Digital Electronics 028;D;106;+001 750 382-3746;Digital_Electronics_028@outlook.com;2011-10-26;75001;TX; Dallas;495;Elm St;4,0
+75001-047;Alpha World 075;B;106;+001 750 310-5621;Alpha_World_075@outlook.com;2005-11-22;75001;TX; Dallas;510;Hickory St;5,0
+75001-048;Essential S.A 004;D;106;+001 750 917-6616;Essential_S.A_004@outlook.com;2018-06-07;75001;TX; Dallas;548;10th St;6,0
+75001-049;Father And Sons S.A 023;B;106;+001 750 444-9746;Father_And_Sons_S.A_023@outlook.com;2019-03-21;75001;TX; Dallas;555;Adams St;7,0
+75001-050;Computer World 071;C;106;+001 750 128-6427;Computer_World_071@outlook.com;2014-10-02;75001;TX; Dallas;556;5th St;1,0
+75001-051;Father And Sons World 088;D;106;+001 750 633-6486;Father_And_Sons_World_088@gmail.com.br;2010-03-26;75001;TX; Dallas;567;4th St;2,0
+75001-052;Computer Tech 021;D;106;+001 750 757-3016;Computer_Tech_021@outlook.com;2013-01-22;75001;TX; Dallas;57;Maple St;3,0
+75001-053;Father And Sons Tech 032;D;106;+001 750 908-5100;Father_And_Sons_Tech_032@outlook.com;2006-10-11;75001;TX; Dallas;572;Meadow St;4,0
+75001-054;High Tech Techno 001;D;106;+001 750 143-5109;High_Tech_Techno_001@outlook.com;2006-10-21;75001;TX; Dallas;579;7th St;5,0
+75001-055;Technologic Store 011;C;106;+001 750 803-1090;Technologic_Store_011@outlook.com;2000-03-03;75001;TX; Dallas;583;Jackson St;6,0
+75001-056;Computer Inc. 073;C;106;+001 750 183-5285;Computer_Inc._073@outlook.com;2002-04-15;75001;TX; Dallas;593;West St;7,0
+75001-057;Father And Sons Solutions 095;D;106;+001 750 753-5736;Father_And_Sons_Solutions_095@gmail.com.br;2014-11-04;75001;TX; Dallas;595;14th St;1,0
+75001-058;Computer Inc. 034;C;106;+001 750 158-8860;Computer_Inc._034@gmail.com.br;2020-03-13;75001;TX; Dallas;608;Sunset St;2,0
+75001-059;Digital Tech 068;D;106;+001 750 125-4336;Digital_Tech_068@outlook.com;2014-12-25;75001;TX; Dallas;619;North St;3,0
+75001-060;High Tech Company 054;B;106;+001 750 489-1329;High_Tech_Company_054@gmail.com.br;2015-07-11;75001;TX; Dallas;636;9th St;4,0
+75001-061;Technologic S.A 086;C;106;+001 750 581-4733;Technologic_S.A_086@outlook.com;2011-01-25;75001;TX; Dallas;64;Jefferson St;5,0
+75001-062;Father And Sons Corporation 003;D;106;+001 750 612-7606;Father_And_Sons_Corporation_003@outlook.com;2002-09-10;75001;TX; Dallas;667;13th St;6,0
+75001-063;Computer Techno 095;D;106;+001 750 232-9373;Computer_Techno_095@outlook.com;2015-12-18;75001;TX; Dallas;673;North St;7,0
+75001-064;Alpha Electronics 016;D;106;+001 750 426-3418;Alpha_Electronics_016@outlook.com;2003-02-11;75001;TX; Dallas;697;Center St;1,0
+75001-065;Genius Inc. 013;C;106;+001 750 116-2498;Genius_Inc._013@gmail.com.br;2019-11-05;75001;TX; Dallas;706;1st St;2,0
+75001-066;Father And Sons World 003;D;106;+001 750 348-9383;Father_And_Sons_World_003@outlook.com;2012-07-04;75001;TX; Dallas;717;4th St;3,0
+75001-067;Beta Tech 094;D;106;+001 750 757-9715;Beta_Tech_094@outlook.com;2004-04-25;75001;TX; Dallas;718;Chestnut St;4,0
+75001-068;Computer Solutions 010;B;106;+001 750 465-4933;Computer_Solutions_010@outlook.com;2002-11-30;75001;TX; Dallas;724;1st St;5,0
+75001-069;High Tech Company 087;C;106;+001 750 733-3007;High_Tech_Company_087@outlook.com;2001-03-06;75001;TX; Dallas;734;Lincoln St;6,0
+75001-070;Genius Tech 081;C;106;+001 750 380-6905;Genius_Tech_081@outlook.com;2005-10-26;75001;TX; Dallas;735;Wilson St;7,0
+75001-071;Alpha Electronics 040;C;106;+001 750 798-2901;Alpha_Electronics_040@outlook.com;2002-01-21;75001;TX; Dallas;739;11th St;1,0
+75001-072;Technologic Inc. 037;C;106;+001 750 928-1421;Technologic_Inc._037@outlook.com;2018-06-14;75001;TX; Dallas;77;6th St;2,0
+75001-073;Essential Techno 070;D;106;+001 750 457-3724;Essential_Techno_070@outlook.com;2007-01-22;75001;TX; Dallas;780;6th St;3,0
+75001-074;Essential Store 032;D;106;+001 750 881-2150;Essential_Store_032@outlook.com;2018-07-16;75001;TX; Dallas;782;13th St;4,0
+75001-075;Beta Electronics 058;D;106;+001 750 987-2195;Beta_Electronics_058@outlook.com;2001-08-08;75001;TX; Dallas;789;Hickory St;5,0
+75001-076;Technologic Solutions 064;D;106;+001 750 938-3619;Technologic_Solutions_064@gmail.com.br;2008-03-23;75001;TX; Dallas;800;Lakeview St;6,0
+75001-077;Computer Store 015;D;106;+001 750 120-4757;Computer_Store_015@outlook.com;2003-01-01;75001;TX; Dallas;800;Sunset St;7,0
+75001-078;Father And Sons World 008;D;106;+001 750 467-2945;Father_And_Sons_World_008@gmail.com.br;2020-09-01;75001;TX; Dallas;809;Church St;1,0
+75001-079;Beta Electronics 052;B;106;+001 750 105-7585;Beta_Electronics_052@outlook.com;2020-05-25;75001;TX; Dallas;810;Elm St;2,0
+75001-080;Beta S.A 035;D;106;+001 750 108-6347;Beta_S.A_035@outlook.com;2014-05-10;75001;TX; Dallas;814;Ridge St;3,0
+75001-081;Beta Inc. 024;D;106;+001 750 851-7725;Beta_Inc._024@outlook.com;2009-06-08;75001;TX; Dallas;827;Maple St;4,0
+75001-082;Alpha Tech 043;B;106;+001 750 414-9228;Alpha_Tech_043@outlook.com;2014-10-02;75001;TX; Dallas;830;Church St;5,0
+75001-083;Digital Tech 001;D;106;+001 750 999-8857;Digital_Tech_001@gmail.com.br;2002-06-22;75001;TX; Dallas;830;Lakeview St;6,0
+75001-084;Alpha Tech 030;D;106;+001 750 310-5655;Alpha_Tech_030@gmail.com.br;2010-07-24;75001;TX; Dallas;832;Johnson St;7,0
+75001-085;Father And Sons World 025;C;106;+001 750 167-6486;Father_And_Sons_World_025@outlook.com;2018-10-16;75001;TX; Dallas;834;5th St;1,0
+75001-086;Alpha S.A 038;D;106;+001 750 423-6010;Alpha_S.A_038@outlook.com;2020-05-09;75001;TX; Dallas;847;10th St;2,0
+75001-087;High Tech S.A 084;C;106;+001 750 238-7334;High_Tech_S.A_084@outlook.com;2019-01-05;75001;TX; Dallas;848;Chestnut St;3,0
+75001-088;Computer Solutions 013;C;106;+001 750 584-2189;Computer_Solutions_013@outlook.com;2010-08-25;75001;TX; Dallas;886;Sunset St;4,0
+75001-089;Beta World 039;C;106;+001 750 734-9604;Beta_World_039@outlook.com;2003-02-14;75001;TX; Dallas;913;2nd St;5,0
+75001-090;Essential Tech 006;D;106;+001 750 965-7780;Essential_Tech_006@outlook.com;2011-07-22;75001;TX; Dallas;921;5th St;6,0
+75001-091;Essential Corporation 045;C;106;+001 750 869-3329;Essential_Corporation_045@gmail.com.br;2005-12-15;75001;TX; Dallas;928;Lakeview St;7,0
+75001-092;Digital Store 072;B;106;+001 750 241-2651;Digital_Store_072@gmail.com.br;2012-12-05;75001;TX; Dallas;93;Jefferson St;1,0
+75001-093;Essential World 081;C;106;+001 750 157-3129;Essential_World_081@outlook.com;2015-01-24;75001;TX; Dallas;938;Jackson St;2,0
+75001-094;Computer Inc. 096;C;106;+001 750 416-6733;Computer_Inc._096@gmail.com.br;2018-03-01;75001;TX; Dallas;941;8th St;3,0
+75001-095;Computer Corporation 076;C;106;+001 750 786-4384;Computer_Corporation_076@gmail.com.br;2008-02-05;75001;TX; Dallas;962;Johnson St;4,0
+75001-096;Essential Tech 000;D;106;+001 750 841-1653;Essential_Tech_000@outlook.com;2014-08-15;75001;TX; Dallas;976;Hickory St;5,0
+75001-097;Genius Tech 030;B;106;+001 750 764-4376;Genius_Tech_030@gmail.com.br;2010-09-25;75001;TX; Dallas;981;Center St;6,0
+04101-001;Essential Inc. 016;D;107;+001 041 342-6825;Essential_Inc._016@outlook.com;2001-07-30;04101;ME; Portland;10;Center St;1,0
+97035-002;High Tech Electronics 080;C;108;+001 970 372-8458;High_Tech_Electronics_080@outlook.com;2015-01-14;97035;OR; Portland;116;10th St;1,0
+04101-003;Genius Store 020;D;107;+001 041 142-5707;Genius_Store_020@outlook.com;2000-05-25;04101;ME; Portland;132;2nd St;2,0
+97035-004;Alpha World 026;B;108;+001 970 895-8200;Alpha_World_026@outlook.com;2016-06-22;97035;OR; Portland;135;Center St;2,0
+97035-005;Computer Solutions 092;C;108;+001 970 489-9202;Computer_Solutions_092@gmail.com.br;2015-11-02;97035;OR; Portland;135;Highland St;3,0
+97035-006;Computer S.A 019;D;108;+001 970 826-8537;Computer_S.A_019@gmail.com.br;2014-12-20;97035;OR; Portland;17;Pine St;4,0
+97035-007;Alpha Tech 081;C;108;+001 970 377-5992;Alpha_Tech_081@outlook.com;2005-05-09;97035;OR; Portland;192;Lincoln St;5,0
+97035-008;Technologic Tech 019;C;108;+001 970 131-1864;Technologic_Tech_019@gmail.com.br;2012-08-21;97035;OR; Portland;195;Forest St;6,0
+97035-009;Computer Electronics 037;C;108;+001 970 606-4848;Computer_Electronics_037@gmail.com.br;2011-11-28;97035;OR; Portland;250;Willow St;7,0
+97035-010;Alpha Company 065;B;108;+001 970 651-9114;Alpha_Company_065@outlook.com;2002-03-03;97035;OR; Portland;261;Center St;1,0
+04101-011;Technologic S.A 072;C;107;+001 041 841-9833;Technologic_S.A_072@outlook.com;2020-04-29;04101;ME; Portland;265;14th St;3,0
+97035-012;Computer S.A 058;D;108;+001 970 470-3674;Computer_S.A_058@outlook.com;2011-10-29;97035;OR; Portland;276;9th St;2,0
+97035-013;Father And Sons Company 022;B;108;+001 970 573-1958;Father_And_Sons_Company_022@outlook.com;2006-08-27;97035;OR; Portland;288;4th St;3,0
+97035-014;Digital Store 049;B;108;+001 970 482-1882;Digital_Store_049@outlook.com;2001-12-21;97035;OR; Portland;289;North St;4,0
+04101-015;Technologic Techno 068;C;107;+001 041 526-9140;Technologic_Techno_068@outlook.com;2010-12-13;04101;ME; Portland;29;7th St;4,0
+97035-016;Essential Electronics 095;C;108;+001 970 711-4968;Essential_Electronics_095@outlook.com;2007-02-20;97035;OR; Portland;295;Jackson St;5,0
+97035-017;Genius Inc. 094;D;108;+001 970 408-7432;Genius_Inc._094@outlook.com;2007-01-14;97035;OR; Portland;357;Willow St;6,0
+97035-018;Essential Inc. 022;C;108;+001 970 632-7451;Essential_Inc._022@gmail.com.br;2008-05-22;97035;OR; Portland;375;Lakeview St;7,0
+97035-019;Technologic S.A 038;D;108;+001 970 257-6267;Technologic_S.A_038@gmail.com.br;2007-08-04;97035;OR; Portland;376;6th St;1,0
+97035-020;Father And Sons Corporation 072;C;108;+001 970 627-5912;Father_And_Sons_Corporation_072@outlook.com;2010-03-25;97035;OR; Portland;380;Lakeview St;2,0
+97035-021;Essential Corporation 059;D;108;+001 970 604-6856;Essential_Corporation_059@outlook.com;2016-03-11;97035;OR; Portland;384;Lake St;3,0
+97035-022;High Tech Inc. 045;C;108;+001 970 310-7100;High_Tech_Inc._045@gmail.com.br;2004-10-10;97035;OR; Portland;387;12th St;4,0
+04101-023;Computer Store 053;C;107;+001 041 950-2846;Computer_Store_053@outlook.com;2012-10-20;04101;ME; Portland;413;Center St;5,0
+97035-024;Genius Techno 087;C;108;+001 970 624-3971;Genius_Techno_087@gmail.com.br;2006-11-07;97035;OR; Portland;414;5th St;5,0
+04101-025;Genius Store 035;D;107;+001 041 919-8993;Genius_Store_035@outlook.com;2010-12-29;04101;ME; Portland;421;Elm St;6,0
+97035-026;Essential World 058;A;108;+001 970 856-6325;Essential_World_058@gmail.com.br;2008-11-06;97035;OR; Portland;448;Lincoln St;6,0
+97035-027;Essential Inc. 011;B;108;+001 970 874-5744;Essential_Inc._011@outlook.com;2001-04-27;97035;OR; Portland;455;Lakeview St;7,0
+97035-028;High Tech Tech 052;C;108;+001 970 172-2603;High_Tech_Tech_052@gmail.com.br;2003-08-23;97035;OR; Portland;475;13th St;1,0
+97035-029;High Tech Company 046;D;108;+001 970 283-8266;High_Tech_Company_046@gmail.com.br;2001-02-24;97035;OR; Portland;486;Willow St;2,0
+97035-030;Beta S.A 062;D;108;+001 970 814-3062;Beta_S.A_062@outlook.com;2019-01-14;97035;OR; Portland;495;Lake St;3,0
+97035-031;Digital Company 095;D;108;+001 970 833-7651;Digital_Company_095@gmail.com.br;2014-06-03;97035;OR; Portland;52;Sunset St;4,0
+97035-032;Technologic Corporation 028;C;108;+001 970 288-3924;Technologic_Corporation_028@outlook.com;2001-06-23;97035;OR; Portland;528;Johnson St;5,0
+97035-033;Technologic Store 044;C;108;+001 970 393-7913;Technologic_Store_044@gmail.com.br;2010-04-27;97035;OR; Portland;541;Forest St;6,0
+97035-034;High Tech Electronics 013;C;108;+001 970 294-3558;High_Tech_Electronics_013@outlook.com;2014-06-01;97035;OR; Portland;56;5th St;7,0
+97035-035;Computer S.A 055;B;108;+001 970 504-1685;Computer_S.A_055@outlook.com;2003-06-26;97035;OR; Portland;561;Madison St;1,0
+97035-036;Alpha S.A 081;D;108;+001 970 759-9862;Alpha_S.A_081@gmail.com.br;2014-12-31;97035;OR; Portland;588;South St;2,0
+04101-037;Father And Sons Store 048;B;107;+001 041 590-3287;Father_And_Sons_Store_048@gmail.com.br;2000-04-29;04101;ME; Portland;601;Jefferson St;7,0
+97035-038;Genius Solutions 024;D;108;+001 970 122-3135;Genius_Solutions_024@outlook.com;2009-07-19;97035;OR; Portland;636;Pine St;3,0
+97035-039;Essential Solutions 008;B;108;+001 970 535-7816;Essential_Solutions_008@outlook.com;2000-10-14;97035;OR; Portland;651;1st St;4,0
+97035-040;High Tech Store 041;D;108;+001 970 520-3798;High_Tech_Store_041@outlook.com;2020-03-19;97035;OR; Portland;679;North St;5,0
+97035-041;Essential Solutions 079;D;108;+001 970 489-6864;Essential_Solutions_079@gmail.com.br;2010-05-28;97035;OR; Portland;691;11th St;6,0
+04101-042;Digital Corporation 052;D;107;+001 041 735-9505;Digital_Corporation_052@gmail.com.br;2001-05-15;04101;ME; Portland;705;Ridge St;1,0
+97035-043;High Tech Solutions 093;D;108;+001 970 307-2551;High_Tech_Solutions_093@gmail.com.br;2008-09-28;97035;OR; Portland;727;Park St;7,0
+04101-044;Technologic Solutions 014;C;107;+001 041 213-8893;Technologic_Solutions_014@outlook.com;2006-04-21;04101;ME; Portland;729;Ridge St;2,0
+97035-045;Technologic Techno 010;C;108;+001 970 115-7053;Technologic_Techno_010@outlook.com;2013-05-14;97035;OR; Portland;73;Cherry St;1,0
+97035-046;Genius World 088;C;108;+001 970 645-9468;Genius_World_088@gmail.com.br;2015-10-06;97035;OR; Portland;736;1st St;2,0
+04101-047;Technologic Tech 051;D;107;+001 041 310-8186;Technologic_Tech_051@outlook.com;2012-07-28;04101;ME; Portland;739;Park St;3,0
+97035-048;Digital Corporation 044;D;108;+001 970 329-8601;Digital_Corporation_044@outlook.com;2007-06-30;97035;OR; Portland;74;5th St;3,0
+97035-049;Beta Tech 023;D;108;+001 970 605-7376;Beta_Tech_023@gmail.com.br;2010-04-05;97035;OR; Portland;749;Chestnut St;4,0
+97035-050;Computer Corporation 071;D;108;+001 970 312-4737;Computer_Corporation_071@outlook.com;2009-12-17;97035;OR; Portland;749;Elm St;5,0
+97035-051;Father And Sons Store 055;C;108;+001 970 702-5643;Father_And_Sons_Store_055@outlook.com;2020-02-07;97035;OR; Portland;75;12th St;6,0
+97035-052;Essential Inc. 017;A;108;+001 970 931-2340;Essential_Inc._017@gmail.com.br;2007-01-19;97035;OR; Portland;813;Cherry St;7,0
+97035-053;Genius Corporation 063;D;108;+001 970 457-6300;Genius_Corporation_063@outlook.com;2014-01-31;97035;OR; Portland;820;11th St;1,0
+97035-054;High Tech Techno 080;C;108;+001 970 186-6806;High_Tech_Techno_080@outlook.com;2005-11-04;97035;OR; Portland;823;Dogwood St;2,0
+04101-055;Computer Solutions 003;D;107;+001 041 278-8113;Computer_Solutions_003@outlook.com;2011-06-07;04101;ME; Portland;828;Center St;4,0
+97035-056;Computer S.A 007;C;108;+001 970 206-4193;Computer_S.A_007@outlook.com;2017-01-13;97035;OR; Portland;836;2nd St;3,0
+97035-057;Genius S.A 054;C;108;+001 970 306-3375;Genius_S.A_054@outlook.com;2009-05-13;97035;OR; Portland;843;Pine St;4,0
+04101-058;Alpha Company 096;D;107;+001 041 192-3628;Alpha_Company_096@gmail.com.br;2010-01-26;04101;ME; Portland;871;Hickory St;5,0
+04101-059;Beta Tech 032;B;107;+001 041 273-9555;Beta_Tech_032@outlook.com;2012-09-05;04101;ME; Portland;882;Highland St;6,0
+04101-060;Essential Electronics 018;D;107;+001 041 280-7388;Essential_Electronics_018@outlook.com;2016-03-24;04101;ME; Portland;886;Johnson St;7,0
+97035-061;Father And Sons Inc. 027;D;108;+001 970 854-6825;Father_And_Sons_Inc._027@gmail.com.br;2000-01-08;97035;OR; Portland;906;Hickory St;5,0
+04101-062;Digital Company 073;C;107;+001 041 223-3542;Digital_Company_073@gmail.com.br;2002-09-20;04101;ME; Portland;913;7th St;1,0
+04101-063;Computer Tech 052;A;107;+001 041 833-2780;Computer_Tech_052@gmail.com.br;2010-10-25;04101;ME; Portland;967;Johnson St;2,0
+97035-064;Computer Tech 059;B;108;+001 970 550-4203;Computer_Tech_059@outlook.com;2013-10-10;97035;OR; Portland;986;Pine St;6,0
+04101-065;Essential Company 046;C;107;+001 041 771-5636;Essential_Company_046@gmail.com.br;2008-03-16;04101;ME; Portland;995;Spruce St;3,0
+02215-001;Technologic Tech 044;D;109;+001 022 196-5225;Technologic_Tech_044@outlook.com;2007-08-21;02215;MA; Boston;100;4th St;1,0
+02215-002;Computer Tech 080;A;109;+001 022 756-1335;Computer_Tech_080@outlook.com;2015-08-14;02215;MA; Boston;11;Park St;2,0
+02215-003;Essential S.A 096;D;109;+001 022 481-8898;Essential_S.A_096@outlook.com;2001-10-28;02215;MA; Boston;12;Highland St;3,0
+02215-004;Digital Tech 059;D;109;+001 022 434-6866;Digital_Tech_059@outlook.com;2020-09-15;02215;MA; Boston;13;Dogwood St;4,0
+02215-005;Genius World 100;C;109;+001 022 276-8152;Genius_World_100@outlook.com;2018-12-24;02215;MA; Boston;136;Adams St;5,0
+02215-006;Technologic Electronics 063;C;109;+001 022 907-6199;Technologic_Electronics_063@outlook.com;2003-09-20;02215;MA; Boston;146;12th St;6,0
+02215-007;Digital Electronics 036;C;109;+001 022 747-7953;Digital_Electronics_036@gmail.com.br;2003-07-23;02215;MA; Boston;150;Elm St;7,0
+02215-008;Technologic S.A 083;D;109;+001 022 494-1271;Technologic_S.A_083@outlook.com;2012-11-14;02215;MA; Boston;156;12th St;1,0
+02215-009;Father And Sons Electronics 082;C;109;+001 022 185-2983;Father_And_Sons_Electronics_082@outlook.com;2001-05-28;02215;MA; Boston;185;5th St;2,0
+02215-010;Beta Inc. 031;D;109;+001 022 351-6088;Beta_Inc._031@outlook.com;2020-01-14;02215;MA; Boston;187;Lakeview St;3,0
+02215-011;Technologic Store 026;D;109;+001 022 879-4127;Technologic_Store_026@outlook.com;2008-05-05;02215;MA; Boston;188;Lake St;4,0
+02215-012;Digital Tech 060;D;109;+001 022 365-4916;Digital_Tech_060@outlook.com;2008-01-16;02215;MA; Boston;208;Adams St;5,0
+02215-013;Technologic Corporation 063;D;109;+001 022 891-6462;Technologic_Corporation_063@outlook.com;2002-10-26;02215;MA; Boston;217;Church St;6,0
+02215-014;Computer Inc. 079;D;109;+001 022 559-1914;Computer_Inc._079@outlook.com;2011-05-14;02215;MA; Boston;217;Hill St;7,0
+02215-015;Computer Solutions 014;D;109;+001 022 896-3217;Computer_Solutions_014@outlook.com;2003-10-07;02215;MA; Boston;237;Church St;1,0
+02215-016;Genius Corporation 060;D;109;+001 022 981-7118;Genius_Corporation_060@gmail.com.br;2009-01-06;02215;MA; Boston;296;Park St;2,0
+02215-017;Digital Company 093;C;109;+001 022 246-4776;Digital_Company_093@outlook.com;2014-01-20;02215;MA; Boston;345;2nd St;3,0
+02215-018;Alpha Store 020;B;109;+001 022 127-9161;Alpha_Store_020@outlook.com;2020-10-07;02215;MA; Boston;366;Hickory St;4,0
+02215-019;Alpha Inc. 081;C;109;+001 022 610-2535;Alpha_Inc._081@gmail.com.br;2003-09-02;02215;MA; Boston;376;Sunset St;5,0
+02215-020;Beta Techno 019;A;109;+001 022 257-7297;Beta_Techno_019@outlook.com;2000-03-13;02215;MA; Boston;385;Park St;6,0
+02215-021;Father And Sons Corporation 031;D;109;+001 022 294-7679;Father_And_Sons_Corporation_031@outlook.com;2017-10-31;02215;MA; Boston;386;Center St;7,0
+02215-022;Genius Techno 077;C;109;+001 022 708-9411;Genius_Techno_077@gmail.com.br;2014-04-06;02215;MA; Boston;388;Highland St;1,0
+02215-023;Essential Store 088;D;109;+001 022 467-1985;Essential_Store_088@gmail.com.br;2018-11-11;02215;MA; Boston;39;Lakeview St;2,0
+02215-024;Technologic Store 013;D;109;+001 022 337-1152;Technologic_Store_013@outlook.com;2005-05-03;02215;MA; Boston;396;12th St;3,0
+02215-025;Essential Solutions 069;D;109;+001 022 807-7641;Essential_Solutions_069@outlook.com;2018-04-03;02215;MA; Boston;396;Adams St;4,0
+02215-026;Father And Sons Techno 075;C;109;+001 022 902-1086;Father_And_Sons_Techno_075@outlook.com;2011-01-18;02215;MA; Boston;4;7th St;5,0
+02215-027;Computer Corporation 018;D;109;+001 022 468-2231;Computer_Corporation_018@gmail.com.br;2005-02-07;02215;MA; Boston;401;Main St;6,0
+02215-028;Technologic Tech 092;D;109;+001 022 543-8054;Technologic_Tech_092@outlook.com;2004-09-03;02215;MA; Boston;426;Willow St;7,0
+02215-029;Genius Company 077;B;109;+001 022 705-4317;Genius_Company_077@outlook.com;2003-05-16;02215;MA; Boston;452;Meadow St;1,0
+02215-030;Essential Tech 014;D;109;+001 022 592-4701;Essential_Tech_014@gmail.com.br;2015-04-29;02215;MA; Boston;481;Jefferson St;2,0
+02215-031;Alpha Corporation 031;C;109;+001 022 288-1321;Alpha_Corporation_031@outlook.com;2018-08-09;02215;MA; Boston;493;Jackson St;3,0
+02215-032;Genius Electronics 023;D;109;+001 022 756-4573;Genius_Electronics_023@outlook.com;2003-12-07;02215;MA; Boston;523;Dogwood St;4,0
+02215-033;Essential Techno 007;B;109;+001 022 741-5685;Essential_Techno_007@outlook.com;2002-12-07;02215;MA; Boston;535;Hill St;5,0
+02215-034;Alpha World 008;D;109;+001 022 149-7402;Alpha_World_008@outlook.com;2003-10-19;02215;MA; Boston;554;South St;6,0
+02215-035;Computer World 057;D;109;+001 022 633-9362;Computer_World_057@outlook.com;2012-10-03;02215;MA; Boston;560;Willow St;7,0
+02215-036;Digital Company 065;C;109;+001 022 417-6006;Digital_Company_065@outlook.com;2000-03-29;02215;MA; Boston;567;Hill St;1,0
+02215-037;Alpha Company 069;D;109;+001 022 507-2053;Alpha_Company_069@gmail.com.br;2001-02-24;02215;MA; Boston;590;Pine St;2,0
+02215-038;Technologic Tech 009;B;109;+001 022 799-1479;Technologic_Tech_009@outlook.com;2014-05-02;02215;MA; Boston;592;Hill St;3,0
+02215-039;Father And Sons S.A 018;D;109;+001 022 894-3671;Father_And_Sons_S.A_018@outlook.com;2018-11-05;02215;MA; Boston;595;Maple St;4,0
+02215-040;Father And Sons Tech 031;D;109;+001 022 359-1908;Father_And_Sons_Tech_031@gmail.com.br;2010-08-18;02215;MA; Boston;601;Chestnut St;5,0
+02215-041;Beta Solutions 067;D;109;+001 022 400-7678;Beta_Solutions_067@outlook.com;2007-04-19;02215;MA; Boston;608;Wilson St;6,0
+02215-042;Computer Electronics 048;D;109;+001 022 229-4868;Computer_Electronics_048@gmail.com.br;2018-11-21;02215;MA; Boston;615;Cherry St;7,0
+02215-043;Alpha World 058;D;109;+001 022 813-5100;Alpha_World_058@gmail.com.br;2001-02-14;02215;MA; Boston;617;7th St;1,0
+02215-044;Digital Store 081;B;109;+001 022 106-1957;Digital_Store_081@outlook.com;2010-08-05;02215;MA; Boston;627;5th St;2,0
+02215-045;Alpha Corporation 023;A;109;+001 022 505-2629;Alpha_Corporation_023@outlook.com;2015-02-14;02215;MA; Boston;647;Lincoln St;3,0
+02215-046;Genius Company 017;B;109;+001 022 962-6727;Genius_Company_017@outlook.com;2007-06-05;02215;MA; Boston;671;Jackson St;4,0
+02215-047;Genius Company 001;C;109;+001 022 485-2738;Genius_Company_001@outlook.com;2012-10-29;02215;MA; Boston;682;Chestnut St;5,0
+02215-048;Father And Sons Corporation 061;C;109;+001 022 273-4906;Father_And_Sons_Corporation_061@outlook.com;2011-10-21;02215;MA; Boston;689;Sunset St;6,0
+02215-049;Alpha Electronics 017;D;109;+001 022 688-4364;Alpha_Electronics_017@outlook.com;2012-02-04;02215;MA; Boston;691;Madison St;7,0
+02215-050;Genius Company 000;D;109;+001 022 202-7954;Genius_Company_000@outlook.com;2013-09-23;02215;MA; Boston;731;Lincoln St;1,0
+02215-051;Genius Corporation 069;D;109;+001 022 794-7554;Genius_Corporation_069@outlook.com;2018-02-17;02215;MA; Boston;75;12th St;2,0
+02215-052;Genius S.A 098;D;109;+001 022 787-3742;Genius_S.A_098@outlook.com;2012-05-27;02215;MA; Boston;771;West St;3,0
+02215-053;Digital S.A 095;D;109;+001 022 782-5747;Digital_S.A_095@gmail.com.br;2011-10-09;02215;MA; Boston;78;Dogwood St;4,0
+02215-054;Essential Techno 024;C;109;+001 022 478-1612;Essential_Techno_024@gmail.com.br;2017-09-01;02215;MA; Boston;818;Wilson St;5,0
+02215-055;High Tech Techno 004;C;109;+001 022 612-9774;High_Tech_Techno_004@outlook.com;2004-09-06;02215;MA; Boston;827;North St;6,0
+02215-056;Digital Solutions 016;D;109;+001 022 419-5348;Digital_Solutions_016@outlook.com;2007-10-28;02215;MA; Boston;837;Dogwood St;7,0
+02215-057;Father And Sons Electronics 037;D;109;+001 022 350-9348;Father_And_Sons_Electronics_037@outlook.com;2001-05-08;02215;MA; Boston;838;8th St;1,0
+02215-058;Father And Sons Store 033;D;109;+001 022 899-5191;Father_And_Sons_Store_033@outlook.com;2008-11-07;02215;MA; Boston;844;Jefferson St;2,0
+02215-059;Genius Corporation 026;D;109;+001 022 700-2126;Genius_Corporation_026@outlook.com;2003-10-23;02215;MA; Boston;878;Church St;3,0
+02215-060;Father And Sons World 051;D;109;+001 022 530-5502;Father_And_Sons_World_051@outlook.com;2017-02-23;02215;MA; Boston;879;Ridge St;4,0
+02215-061;Digital Solutions 064;D;109;+001 022 740-9030;Digital_Solutions_064@outlook.com;2002-01-31;02215;MA; Boston;881;Sunset St;5,0
+02215-062;Essential Electronics 089;D;109;+001 022 567-4186;Essential_Electronics_089@outlook.com;2010-10-29;02215;MA; Boston;915;6th St;6,0
+02215-063;Computer Techno 025;D;109;+001 022 819-5682;Computer_Techno_025@outlook.com;2013-12-20;02215;MA; Boston;919;Lincoln St;7,0
+02215-064;Essential Corporation 049;C;109;+001 022 631-3523;Essential_Corporation_049@outlook.com;2019-09-20;02215;MA; Boston;928;7th St;1,0
+02215-065;Genius Electronics 084;D;109;+001 022 571-8925;Genius_Electronics_084@outlook.com;2003-02-05;02215;MA; Boston;95;Jackson St;2,0
+02215-066;Beta Company 043;C;109;+001 022 323-3923;Beta_Company_043@outlook.com;2012-04-08;02215;MA; Boston;954;Johnson St;3,0
+02215-067;Alpha Inc. 086;D;109;+001 022 142-4256;Alpha_Inc._086@gmail.com.br;2004-09-10;02215;MA; Boston;955;10th St;4,0
+02215-068;Essential Inc. 056;D;109;+001 022 669-3034;Essential_Inc._056@outlook.com;2019-04-28;02215;MA; Boston;965;Hill St;5,0
+02215-069;Computer Inc. 068;A;109;+001 022 294-6715;Computer_Inc._068@outlook.com;2008-04-23;02215;MA; Boston;966;Lake St;6,0
+02215-070;High Tech Corporation 026;D;109;+001 022 319-2665;High_Tech_Corporation_026@gmail.com.br;2009-05-14;02215;MA; Boston;969;Spruce St;7,0
+02215-071;Beta Electronics 073;C;109;+001 022 196-8183;Beta_Electronics_073@outlook.com;2019-07-11;02215;MA; Boston;97;4th St;1,0
+02215-072;Genius Store 086;B;109;+001 022 356-6946;Genius_Store_086@outlook.com;2000-04-03;02215;MA; Boston;976;Chestnut St;2,0
+02215-073;Technologic Store 041;C;109;+001 022 420-8079;Technologic_Store_041@outlook.com;2007-07-05;02215;MA; Boston;995;12th St;3,0
+98101-001;Essential Store 023;C;110;+001 981 945-8661;Essential_Store_023@outlook.com;2007-05-02;98101;WA; Seattle;118;Church St;1,0
+98101-002;Technologic Solutions 078;B;110;+001 981 357-3792;Technologic_Solutions_078@outlook.com;2007-06-20;98101;WA; Seattle;122;12th St;2,0
+98101-003;High Tech Techno 026;A;110;+001 981 595-6243;High_Tech_Techno_026@outlook.com;2007-05-30;98101;WA; Seattle;125;Center St;3,0
+98101-004;Beta Store 010;C;110;+001 981 913-2364;Beta_Store_010@outlook.com;2013-08-16;98101;WA; Seattle;126;Main St;4,0
+98101-005;Computer S.A 071;C;110;+001 981 393-7122;Computer_S.A_071@outlook.com;2006-06-14;98101;WA; Seattle;152;Adams St;5,0
+98101-006;Father And Sons Tech 000;C;110;+001 981 670-4282;Father_And_Sons_Tech_000@outlook.com;2007-08-06;98101;WA; Seattle;153;2nd St;6,0
+98101-007;Genius Corporation 010;C;110;+001 981 581-4388;Genius_Corporation_010@gmail.com.br;2002-09-30;98101;WA; Seattle;160;Lakeview St;7,0
+98101-008;Essential Techno 067;B;110;+001 981 963-4734;Essential_Techno_067@outlook.com;2020-01-19;98101;WA; Seattle;181;Walnut St;1,0
+98101-009;Technologic World 042;C;110;+001 981 127-2583;Technologic_World_042@outlook.com;2016-08-07;98101;WA; Seattle;200;Center St;2,0
+98101-010;Father And Sons Tech 100;D;110;+001 981 650-3320;Father_And_Sons_Tech_100@gmail.com.br;2014-02-21;98101;WA; Seattle;24;Meadow St;3,0
+98101-011;Technologic Corporation 009;D;110;+001 981 244-9417;Technologic_Corporation_009@gmail.com.br;2006-06-11;98101;WA; Seattle;26;Hickory St;4,0
+98101-012;Beta Solutions 055;D;110;+001 981 779-3940;Beta_Solutions_055@gmail.com.br;2009-07-25;98101;WA; Seattle;282;Hickory St;5,0
+98101-013;Computer Electronics 062;B;110;+001 981 332-4290;Computer_Electronics_062@gmail.com.br;2008-06-20;98101;WA; Seattle;285;4th St;6,0
+98101-014;Technologic Techno 022;C;110;+001 981 637-7003;Technologic_Techno_022@outlook.com;2003-01-25;98101;WA; Seattle;290;Church St;7,0
+98101-015;Digital Store 008;C;110;+001 981 235-2200;Digital_Store_008@outlook.com;2011-12-21;98101;WA; Seattle;300;Cedar St;1,0
+98101-016;Genius Electronics 091;D;110;+001 981 507-8634;Genius_Electronics_091@outlook.com;2016-12-28;98101;WA; Seattle;307;Johnson St;2,0
+98101-017;Technologic Company 002;D;110;+001 981 395-7618;Technologic_Company_002@outlook.com;2015-01-20;98101;WA; Seattle;31;Cherry St;3,0
+98101-018;Genius Tech 027;D;110;+001 981 649-1691;Genius_Tech_027@outlook.com;2013-02-16;98101;WA; Seattle;320;Jefferson St;4,0
+98101-019;Essential S.A 008;D;110;+001 981 346-7381;Essential_S.A_008@gmail.com.br;2012-06-21;98101;WA; Seattle;33;5th St;5,0
+98101-020;Computer Store 059;D;110;+001 981 605-6176;Computer_Store_059@gmail.com.br;2019-11-19;98101;WA; Seattle;338;South St;6,0
+98101-021;Alpha Solutions 086;B;110;+001 981 942-3899;Alpha_Solutions_086@outlook.com;2011-06-23;98101;WA; Seattle;343;Johnson St;7,0
+98101-022;Father And Sons Solutions 004;D;110;+001 981 387-7826;Father_And_Sons_Solutions_004@gmail.com.br;2017-09-30;98101;WA; Seattle;377;Adams St;1,0
+98101-023;Alpha Tech 087;C;110;+001 981 630-5397;Alpha_Tech_087@outlook.com;2011-07-31;98101;WA; Seattle;38;9th St;2,0
+98101-024;Computer S.A 070;B;110;+001 981 606-9985;Computer_S.A_070@outlook.com;2001-04-06;98101;WA; Seattle;393;12th St;3,0
+98101-025;High Tech Store 044;A;110;+001 981 355-4784;High_Tech_Store_044@outlook.com;2016-05-12;98101;WA; Seattle;396;9th St;4,0
+98101-026;High Tech Techno 005;D;110;+001 981 356-1137;High_Tech_Techno_005@gmail.com.br;2005-01-27;98101;WA; Seattle;4;13th St;5,0
+98101-027;Beta S.A 033;D;110;+001 981 970-4508;Beta_S.A_033@gmail.com.br;2015-04-28;98101;WA; Seattle;4;Lakeview St;6,0
+98101-028;Technologic S.A 085;B;110;+001 981 484-3141;Technologic_S.A_085@outlook.com;2011-05-26;98101;WA; Seattle;409;Willow St;7,0
+98101-029;Digital Solutions 062;B;110;+001 981 167-8068;Digital_Solutions_062@gmail.com.br;2001-12-04;98101;WA; Seattle;428;Main St;1,0
+98101-030;Technologic Company 009;B;110;+001 981 710-8542;Technologic_Company_009@outlook.com;2007-01-15;98101;WA; Seattle;453;Wilson St;2,0
+98101-031;Father And Sons Electronics 100;C;110;+001 981 792-2710;Father_And_Sons_Electronics_100@gmail.com.br;2019-08-08;98101;WA; Seattle;476;11th St;3,0
+98101-032;Digital S.A 097;C;110;+001 981 980-1229;Digital_S.A_097@outlook.com;2013-10-19;98101;WA; Seattle;504;8th St;4,0
+98101-033;Genius Corporation 074;B;110;+001 981 801-6314;Genius_Corporation_074@gmail.com.br;2018-12-09;98101;WA; Seattle;52;South St;5,0
+98101-034;Genius World 074;D;110;+001 981 819-4082;Genius_World_074@outlook.com;2008-02-16;98101;WA; Seattle;524;Cherry St;6,0
+98101-035;Technologic Company 027;C;110;+001 981 397-5774;Technologic_Company_027@outlook.com;2000-10-27;98101;WA; Seattle;556;Adams St;7,0
+98101-036;Alpha Store 056;D;110;+001 981 474-7713;Alpha_Store_056@outlook.com;2009-12-01;98101;WA; Seattle;587;Wilson St;1,0
+98101-037;Genius Company 036;B;110;+001 981 744-4452;Genius_Company_036@outlook.com;2019-02-15;98101;WA; Seattle;616;River St;2,0
+98101-038;Computer Corporation 036;B;110;+001 981 593-3159;Computer_Corporation_036@outlook.com;2005-11-05;98101;WA; Seattle;617;Highland St;3,0
+98101-039;High Tech World 074;C;110;+001 981 122-1223;High_Tech_World_074@outlook.com;2019-02-27;98101;WA; Seattle;624;North St;4,0
+98101-040;High Tech Electronics 071;B;110;+001 981 977-6970;High_Tech_Electronics_071@outlook.com;2003-10-25;98101;WA; Seattle;630;North St;5,0
+98101-041;Computer Company 033;C;110;+001 981 489-5263;Computer_Company_033@outlook.com;2004-08-16;98101;WA; Seattle;655;Spruce St;6,0
+98101-042;Computer Electronics 051;C;110;+001 981 436-4278;Computer_Electronics_051@gmail.com.br;2004-03-14;98101;WA; Seattle;664;North St;7,0
+98101-043;Father And Sons World 043;D;110;+001 981 357-9329;Father_And_Sons_World_043@outlook.com;2001-07-02;98101;WA; Seattle;666;1st St;1,0
+98101-044;Technologic World 051;D;110;+001 981 517-2689;Technologic_World_051@outlook.com;2016-03-09;98101;WA; Seattle;688;8th St;2,0
+98101-045;Computer Tech 004;D;110;+001 981 329-4051;Computer_Tech_004@outlook.com;2016-08-23;98101;WA; Seattle;717;Forest St;3,0
+98101-046;Father And Sons Electronics 076;D;110;+001 981 310-6921;Father_And_Sons_Electronics_076@outlook.com;2007-11-22;98101;WA; Seattle;729;Jackson St;4,0
+98101-047;Beta Tech 060;C;110;+001 981 657-9366;Beta_Tech_060@outlook.com;2007-01-21;98101;WA; Seattle;734;Washington St;5,0
+98101-048;High Tech Electronics 031;D;110;+001 981 451-6800;High_Tech_Electronics_031@outlook.com;2018-08-08;98101;WA; Seattle;744;Cedar St;6,0
+98101-049;High Tech Solutions 006;C;110;+001 981 968-2077;High_Tech_Solutions_006@gmail.com.br;2007-01-28;98101;WA; Seattle;747;Wilson St;7,0
+98101-050;Alpha Solutions 079;C;110;+001 981 975-2101;Alpha_Solutions_079@gmail.com.br;2004-04-30;98101;WA; Seattle;748;South St;1,0
+98101-051;Beta Solutions 043;B;110;+001 981 333-3392;Beta_Solutions_043@outlook.com;2007-09-20;98101;WA; Seattle;761;Elm St;2,0
+98101-052;Father And Sons Techno 090;D;110;+001 981 993-4761;Father_And_Sons_Techno_090@outlook.com;2003-08-30;98101;WA; Seattle;78;Adams St;3,0
+98101-053;Computer Inc. 062;D;110;+001 981 751-3196;Computer_Inc._062@gmail.com.br;2020-03-31;98101;WA; Seattle;78;Center St;4,0
+98101-054;Genius Tech 067;B;110;+001 981 466-8504;Genius_Tech_067@outlook.com;2010-07-16;98101;WA; Seattle;821;Sunset St;5,0
+98101-055;Alpha Company 038;D;110;+001 981 981-2557;Alpha_Company_038@outlook.com;2004-09-07;98101;WA; Seattle;823;Johnson St;6,0
+98101-056;Genius Techno 075;D;110;+001 981 357-3580;Genius_Techno_075@outlook.com;2014-08-13;98101;WA; Seattle;838;13th St;7,0
+98101-057;Technologic Techno 076;D;110;+001 981 478-2904;Technologic_Techno_076@outlook.com;2009-01-08;98101;WA; Seattle;843;South St;1,0
+98101-058;High Tech Store 025;D;110;+001 981 376-2784;High_Tech_Store_025@outlook.com;2013-10-05;98101;WA; Seattle;85;Hickory St;2,0
+98101-059;Digital Solutions 012;D;110;+001 981 911-2507;Digital_Solutions_012@outlook.com;2005-05-10;98101;WA; Seattle;853;Pine St;3,0
+98101-060;Essential Techno 060;D;110;+001 981 477-8123;Essential_Techno_060@outlook.com;2002-07-21;98101;WA; Seattle;856;Main St;4,0
+98101-061;Beta Store 029;B;110;+001 981 395-5587;Beta_Store_029@outlook.com;2009-09-20;98101;WA; Seattle;870;Forest St;5,0
+98101-062;Father And Sons Corporation 054;C;110;+001 981 538-9976;Father_And_Sons_Corporation_054@outlook.com;2006-12-04;98101;WA; Seattle;873;Lincoln St;6,0
+98101-063;Beta Electronics 063;C;110;+001 981 631-8301;Beta_Electronics_063@outlook.com;2010-12-14;98101;WA; Seattle;883;South St;7,0
+98101-064;Genius S.A 097;D;110;+001 981 785-6696;Genius_S.A_097@gmail.com.br;2014-12-02;98101;WA; Seattle;885;Walnut St;1,0
+98101-065;Genius Corporation 016;D;110;+001 981 290-7716;Genius_Corporation_016@outlook.com;2006-04-29;98101;WA; Seattle;903;North St;2,0
+98101-066;Alpha Techno 090;D;110;+001 981 454-6990;Alpha_Techno_090@gmail.com.br;2015-06-30;98101;WA; Seattle;908;Cedar St;3,0
+98101-067;Alpha Corporation 076;D;110;+001 981 739-4979;Alpha_Corporation_076@outlook.com;2003-11-15;98101;WA; Seattle;913;8th St;4,0
+98101-068;High Tech Solutions 008;C;110;+001 981 154-6352;High_Tech_Solutions_008@outlook.com;2015-08-16;98101;WA; Seattle;94;South St;5,0
+98101-069;Digital World 019;B;110;+001 981 170-1900;Digital_World_019@gmail.com.br;2010-10-20;98101;WA; Seattle;943;Lincoln St;6,0
+98101-070;Genius Store 045;B;110;+001 981 952-4876;Genius_Store_045@outlook.com;2011-01-13;98101;WA; Seattle;955;Johnson St;7,0
+98101-071;Genius World 085;C;110;+001 981 170-1470;Genius_World_085@outlook.com;2009-01-28;98101;WA; Seattle;977;1st St;1,0
+98101-072;Digital Store 050;D;110;+001 981 261-7491;Digital_Store_050@outlook.com;2000-06-21;98101;WA; Seattle;991;4th St;2,0
+98101-073;High Tech S.A 083;D;110;+001 981 127-9701;High_Tech_S.A_083@gmail.com.br;2017-06-18;98101;WA; Seattle;998;Church St;3,0
