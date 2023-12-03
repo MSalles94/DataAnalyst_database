@@ -6,6 +6,7 @@ class table_clients():
         self.generate_information()
         self.client_cluster()
         self.salesman_code()
+        self.visit_date()
         self.print_to_csv()
     
 
@@ -87,6 +88,15 @@ class table_clients():
             a+=1
             self.clients.loc[self.clients['zipcode']==i,'ID_sector']=a
         self.clients['ID_sector']=self.clients['ID_sector'].map(lambda x:100+x if x>5 else 200+x)
+
+    def visit_date(self):
+        #insert the date clients are visited by salesman
+        # the number indicates the weekday (1 = monday, ... 7=sunday)
+        for i in self.clients['ID_sector'].unique():
+            day_week=1
+            for j in self.clients.loc[self.clients['ID_sector']==i,'ID_client'].unique():
+                self.clients.loc[self.clients['ID_client']==j,'visit_day']=day_week%7 if day_week%7 else 7 
+                day_week=day_week+1
 
     def print_to_csv(self):
         #organize columns

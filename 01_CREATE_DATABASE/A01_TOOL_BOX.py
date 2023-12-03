@@ -12,7 +12,7 @@ class tool_box():
         self.datetime=datetime
     def import_data(self):
         #import original data
-        self.data=self.pandas.read_csv(filepath_or_buffer='ORIGINAL_DATASET/Sales_April_2019.csv')
+        self.data=self.pandas.read_csv(filepath_or_buffer='./ORIGINAL_DATASET/Sales_April_2019.csv')
         #clean data
         self.data=self.data[self.data['Product'].isna()==False]
         self.data=self.data[self.data['Product']!='Product']
