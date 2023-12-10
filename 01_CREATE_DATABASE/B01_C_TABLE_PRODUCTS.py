@@ -76,9 +76,11 @@ class table_products():
     def order_table(self):
         columns=['ID_products','Product','cluster','units/pack','cost','markup','Target_price']
         self.tab_products=self.tab_products[columns]
+        self.tab_products.rename(columns={'cluster':'prod_cluster'},inplace=True)
 
 
     def print_to_csv(self):
 
-        self.tab_products.to_csv(path_or_buf='NEW_DATASET/A01_TAB_PRODUCTS.csv',sep=';',decimal=',',index=False)
+        self.tab_products.to_csv(path_or_buf='./NEW_DATASET/A01_TAB_PRODUCTS.csv',sep=';',decimal=',',index=False)
+
 

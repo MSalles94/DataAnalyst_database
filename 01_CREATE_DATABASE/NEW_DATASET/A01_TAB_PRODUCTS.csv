@@ -1,4 +1,4 @@
-ID_products;Product;cluster;units/pack;cost;markup;Target_price
+ID_products;Product;prod_cluster;units/pack;cost;markup;Target_price
 901000;20in Monitor;Monitor;13;90,5;0,2;108,6
 901001;27in 4K Gaming Monitor;Monitor;18;323,84;0,2;388,61
 901002;27in FHD Monitor;Monitor;24;124,48;0,2;149,38
