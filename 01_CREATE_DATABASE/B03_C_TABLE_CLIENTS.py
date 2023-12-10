@@ -106,4 +106,3 @@ class table_clients():
 
         self.clients.to_csv('NEW_DATASET/A03_TAB_CLIENTS.csv',decimal=',',sep=';',index=False)  
 
-table_clients()

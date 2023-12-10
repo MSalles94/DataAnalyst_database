@@ -30,4 +30,3 @@ class table_salesman():
         self.salesman.to_csv('NEW_DATASET/A04_TAB_SALESMAN.csv',sep=';',decimal=',',index=False)
     
         
-table_salesman()

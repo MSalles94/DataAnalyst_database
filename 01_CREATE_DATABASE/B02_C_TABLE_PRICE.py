@@ -42,4 +42,3 @@ class table_price():
 
     def print_to_csv(self):
         self.table_price.to_csv('NEW_DATASET/A02_TAB_PRICE.csv',sep=';',decimal=',',index=False)
-table_price()
